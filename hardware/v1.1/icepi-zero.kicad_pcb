@@ -6869,7 +6869,7 @@
 				)
 			)
 		)
-		(property "Value" "ECP5U_12_CABGA256"
+		(property "Value" "ECP5U_25F_CABGA256"
 			(at 0 8.2 90)
 			(layer "F.Fab")
 			(uuid "cfe0be0b-2ddb-4f84-929d-54e6bb1802a7")

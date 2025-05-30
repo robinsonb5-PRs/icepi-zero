@@ -48,6 +48,8 @@ This powerful configuration allows the PCB to be used in numerous ways, includin
 
 Check out the `firmware` folder for example code and compilation instructions!
 
+If you want to order this board, it uses a 1.2mm PCB with no requirement Stackup
+
 ## Contact
 
 If there is any questions DM `@Cyao` on Hackclub Slack or `cyao.` on Discord. Mail is also accepted at `cyao _at_ duck.com`.
