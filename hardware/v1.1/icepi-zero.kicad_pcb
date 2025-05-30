@@ -20017,6 +20017,7 @@
 		(property "Reference" "SW2"
 			(at 0 2.5 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "55b62069-a229-46cd-bc12-0ac694545706")
 			(effects
 				(font
