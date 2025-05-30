@@ -7,7 +7,7 @@
 	(title_block
 		(title "Icepi zero")
 		(date "2025-05-12")
-		(rev "v1")
+		(rev "v1.1")
 		(company "Chengyin Yao (cheyao)")
 		(comment 1 "https://github.com/cheyao/icepi-zero")
 	)
@@ -7311,6 +7311,12 @@
 		(uuid "318f58ef-187c-4cdf-8483-9d9572160148")
 	)
 	(junction
+		(at 76.2 171.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "31ef9dff-aeda-4a0d-baba-11232b0b61e8")
+	)
+	(junction
 		(at 76.2 135.89)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7345,6 +7351,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4fc53de8-8fe1-4211-a3c9-f9c45c9f2a89")
+	)
+	(junction
+		(at 215.9 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6fa2aa3f-9731-40b7-9acf-99931025b88b")
 	)
 	(junction
 		(at 39.37 99.06)
@@ -7420,6 +7432,16 @@
 	)
 	(wire
 		(pts
+			(xy 74.93 173.99) (xy 76.2 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01fb1374-bd61-47c1-ac7a-0a496108cef9")
+	)
+	(wire
+		(pts
 			(xy 224.79 86.36) (xy 224.79 87.63)
 		)
 		(stroke
@@ -7440,6 +7462,16 @@
 	)
 	(wire
 		(pts
+			(xy 66.04 173.99) (xy 67.31 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06ca67ea-28e5-4c1a-bb66-864c05924e92")
+	)
+	(wire
+		(pts
 			(xy 110.49 121.92) (xy 100.33 121.92)
 		)
 		(stroke
@@ -7447,6 +7479,16 @@
 			(type default)
 		)
 		(uuid "077ef917-dd94-43d4-b365-a4269060939d")
+	)
+	(wire
+		(pts
+			(xy 215.9 139.7) (xy 214.63 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08f9cf5c-0bc4-4e88-99c5-51bf979558d2")
 	)
 	(wire
 		(pts
@@ -7460,6 +7502,16 @@
 	)
 	(wire
 		(pts
+			(xy 77.47 171.45) (xy 76.2 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c2ca341-64c9-48f7-928a-8607f54106be")
+	)
+	(wire
+		(pts
 			(xy 83.82 147.32) (xy 85.09 147.32)
 		)
 		(stroke
@@ -7470,13 +7522,23 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 143.51) (xy 62.23 143.51)
+			(xy 66.04 143.51) (xy 62.23 143.51)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "147cb05d-212e-4ba4-82d6-9e59780508b2")
+	)
+	(wire
+		(pts
+			(xy 215.9 142.24) (xy 215.9 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17d47cee-b316-4e59-9623-e346d97794b1")
 	)
 	(wire
 		(pts
@@ -7517,6 +7579,16 @@
 			(type default)
 		)
 		(uuid "21e5e05b-7145-4f3f-bafa-33d71657d38d")
+	)
+	(wire
+		(pts
+			(xy 214.63 144.78) (xy 215.9 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22e75941-1d24-4ee5-b941-894759421d44")
 	)
 	(wire
 		(pts
@@ -7630,6 +7702,16 @@
 	)
 	(wire
 		(pts
+			(xy 205.74 144.78) (xy 207.01 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36fe7dec-dc64-47ef-806e-bf55640caaf1")
+	)
+	(wire
+		(pts
 			(xy 208.28 106.68) (xy 208.28 107.95)
 		)
 		(stroke
@@ -7717,6 +7799,16 @@
 			(type default)
 		)
 		(uuid "47fa69b6-0c98-4334-bffc-27079b3ee09a")
+	)
+	(wire
+		(pts
+			(xy 76.2 171.45) (xy 76.2 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d480916-dadb-4fb3-b5f1-7fcac4ae5aa0")
 	)
 	(wire
 		(pts
@@ -7840,6 +7932,16 @@
 	)
 	(wire
 		(pts
+			(xy 215.9 142.24) (xy 215.9 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78c263b1-a0b3-4f3d-b9a3-b75198a2ce66")
+	)
+	(wire
+		(pts
 			(xy 63.5 129.54) (xy 62.23 129.54)
 		)
 		(stroke
@@ -7870,6 +7972,16 @@
 	)
 	(wire
 		(pts
+			(xy 66.04 168.91) (xy 67.31 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "822da599-3e9b-476b-980a-cd43d7025728")
+	)
+	(wire
+		(pts
 			(xy 62.23 81.28) (xy 64.77 81.28)
 		)
 		(stroke
@@ -7877,6 +7989,16 @@
 			(type default)
 		)
 		(uuid "85136326-2494-4f33-a743-335a9bd88b52")
+	)
+	(wire
+		(pts
+			(xy 76.2 168.91) (xy 74.93 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8791a75f-991d-4bf3-972d-1e81cf0a4a50")
 	)
 	(wire
 		(pts
@@ -8010,6 +8132,16 @@
 	)
 	(wire
 		(pts
+			(xy 205.74 139.7) (xy 207.01 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a92e4352-7990-40d7-bb8e-9c111a382244")
+	)
+	(wire
+		(pts
 			(xy 96.52 68.58) (xy 100.33 68.58)
 		)
 		(stroke
@@ -8037,6 +8169,16 @@
 			(type default)
 		)
 		(uuid "af322ee7-85df-49ce-94dd-606bd367be88")
+	)
+	(wire
+		(pts
+			(xy 76.2 171.45) (xy 76.2 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af6ad761-6c9f-4126-9658-9095009c2514")
 	)
 	(wire
 		(pts
@@ -8070,7 +8212,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 148.59) (xy 63.5 148.59)
+			(xy 62.23 148.59) (xy 66.04 148.59)
 		)
 		(stroke
 			(width 0)
@@ -8498,6 +8640,38 @@
 		)
 		(uuid "fa32f7d7-50e1-44be-b195-18b87774505e")
 	)
+	(wire
+		(pts
+			(xy 217.17 142.24) (xy 215.9 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fdc3b5a0-d90c-42af-b742-cfda95b8ff6d")
+	)
+	(global_label "USB2_PULL"
+		(shape input)
+		(at 77.47 171.45 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "03eee01c-d573-4242-a4de-3310f75f5ff7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 91.099 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "USB_TXD"
 		(shape input)
 		(at 138.43 68.58 0)
@@ -8522,7 +8696,7 @@
 	)
 	(global_label "D2-"
 		(shape input)
-		(at 63.5 143.51 0)
+		(at 66.04 143.51 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8532,12 +8706,34 @@
 		)
 		(uuid "07e57382-7986-4a5b-9e00-61fd74b2f693")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 70.5371 143.51 0)
+			(at 73.0771 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "D2-"
+		(shape input)
+		(at 66.04 173.99 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0dac5a44-c746-45a1-a7e4-794664c570ed")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 59.0029 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -8806,6 +9002,28 @@
 			)
 		)
 	)
+	(global_label "D3-"
+		(shape input)
+		(at 205.74 144.78 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5b2db15b-3d4f-4088-be15-4cd0d6b9cc73")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 198.7029 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "JTAG_TDI"
 		(shape input)
 		(at 181.61 49.53 180)
@@ -8841,6 +9059,28 @@
 		(uuid "6d0e1951-606e-4f64-8c5f-d413e944107b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 76.7829 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "D3+"
+		(shape input)
+		(at 205.74 139.7 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "714da2d0-6fce-4158-817e-cc0e1446107f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 198.7029 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9180,6 +9420,28 @@
 			)
 		)
 	)
+	(global_label "USB3_PULL"
+		(shape input)
+		(at 217.17 142.24 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "db0c8878-659f-484a-9a86-b3fbce8a1efe")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 230.799 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "JTAG_TDO"
 		(shape input)
 		(at 234.95 87.63 270)
@@ -9226,7 +9488,7 @@
 	)
 	(global_label "D2+"
 		(shape input)
-		(at 63.5 148.59 0)
+		(at 66.04 148.59 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9236,7 +9498,7 @@
 		)
 		(uuid "e7d60a95-4aac-4628-bae2-a1fc2319c720")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 70.5371 148.59 0)
+			(at 73.0771 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9286,6 +9548,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "D2+"
+		(shape input)
+		(at 66.04 168.91 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fee88b75-e8cc-4ec6-b231-170e5d908ce7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 59.0029 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -10843,6 +11127,82 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 210.82 144.78 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2a345452-1aee-4d77-9c98-e10e071f2f26")
+		(property "Reference" "R42"
+			(at 210.82 147.066 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "15k"
+			(at 210.82 144.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 210.82 143.002 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 210.82 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 210.82 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C25756"
+			(at 210.82 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2670ede7-d5a4-47a3-b478-6fa19b33346b")
+		)
+		(pin "2"
+			(uuid "c1966229-c185-4b78-a061-a060aa26dcca")
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b8c813e2-b0ac-42df-b4a2-893985a7d29c"
+					(reference "R42")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 119.38 109.22 0)
 		(unit 1)
@@ -10979,6 +11339,82 @@
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b8c813e2-b0ac-42df-b4a2-893985a7d29c"
 					(reference "R27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 71.12 173.99 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3c26afad-3f1c-462e-9cf8-b2e147a43b03")
+		(property "Reference" "R40"
+			(at 71.12 176.276 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "15k"
+			(at 71.12 173.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 71.12 172.212 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 71.12 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 71.12 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C25756"
+			(at 71.12 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "37b361f4-59a6-4bc8-92e9-14392590f625")
+		)
+		(pin "2"
+			(uuid "ed64d258-98a1-459d-9124-3c226bdab7e4")
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b8c813e2-b0ac-42df-b4a2-893985a7d29c"
+					(reference "R40")
 					(unit 1)
 				)
 			)
@@ -13197,6 +13633,82 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 71.12 168.91 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d97de23f-7c62-44d6-9cd8-db127b20fbac")
+		(property "Reference" "R39"
+			(at 71.12 171.196 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "15k"
+			(at 71.12 168.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 71.12 167.132 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 71.12 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 71.12 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C25756"
+			(at 71.12 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "348e84ac-1e85-41e5-b9e0-2b91df7316e6")
+		)
+		(pin "2"
+			(uuid "3f380c9e-fb4d-48f0-949c-7a0a1c36b03e")
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b8c813e2-b0ac-42df-b4a2-893985a7d29c"
+					(reference "R39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 229.87 76.2 0)
 		(unit 1)
@@ -13515,6 +14027,82 @@
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b8c813e2-b0ac-42df-b4a2-893985a7d29c"
 					(reference "#PWR066")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 210.82 139.7 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f7beabf4-4859-4442-b55e-657cc064fa51")
+		(property "Reference" "R41"
+			(at 210.82 141.986 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "15k"
+			(at 210.82 139.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 210.82 137.922 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 210.82 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 210.82 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C25756"
+			(at 210.82 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d67686e1-5996-4e2f-956d-f7ae54a62f9a")
+		)
+		(pin "2"
+			(uuid "0c193870-e4ce-4707-9de7-b7d22fc1bee4")
+		)
+		(instances
+			(project "icepi-zero"
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/b8c813e2-b0ac-42df-b4a2-893985a7d29c"
+					(reference "R41")
 					(unit 1)
 				)
 			)

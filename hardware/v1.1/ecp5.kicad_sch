@@ -7,7 +7,7 @@
 	(title_block
 		(title "Icepi zero")
 		(date "2025-05-12")
-		(rev "v1")
+		(rev "v1.1")
 		(company "Chengyin Yao (cheyao)")
 		(comment 1 "https://github.com/cheyao/icepi-zero")
 	)
@@ -5383,10 +5383,6 @@
 		(uuid "54f71d9f-4187-4df0-b072-c583c5fe2955")
 	)
 	(no_connect
-		(at 214.63 85.09)
-		(uuid "5db159db-ec3e-4367-8317-440e57fdb002")
-	)
-	(no_connect
 		(at 31.75 163.83)
 		(uuid "67568c31-6311-4e0f-9311-0e5010572860")
 	)
@@ -5481,10 +5477,6 @@
 	(no_connect
 		(at 38.1 76.2)
 		(uuid "dca4f38c-34bc-4b24-83fb-4c681cbee22a")
-	)
-	(no_connect
-		(at 214.63 87.63)
-		(uuid "e7595639-2501-47f1-9b23-b42f89bd8ed0")
 	)
 	(no_connect
 		(at 38.1 78.74)
@@ -6558,6 +6550,28 @@
 			)
 		)
 	)
+	(global_label "USB2_PULL"
+		(shape input)
+		(at 214.63 85.09 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7e19c6f3-48c3-440a-b3d4-a35e4688892e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 201.001 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "GPIO_38"
 		(shape input)
 		(at 31.75 153.67 180)
@@ -6747,6 +6761,28 @@
 		(uuid "a15847ef-695d-4b82-9d05-826f42230841")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 206.9882 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "USB3_PULL"
+		(shape input)
+		(at 214.63 87.63 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ac1e5399-bd1e-4b30-ab64-2e80097b61f1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 201.001 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
