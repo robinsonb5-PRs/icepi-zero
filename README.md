@@ -32,7 +32,7 @@ Icepi Zero also has an on-board USB to JTAG converter, so no external programmer
     - 112 KiB of RAM
 - One MiniGPDI connector (it's HDM- but I don't have the money to buy a license...)
 - Three USB-C Ports
-- 256MiB 166MHz SDRAM
+- 256Mbit 166MHz SDRAM
 - MicroSD card slot
 - On-board USB to JTAG and UART converter
 - 40MHz external oscillator

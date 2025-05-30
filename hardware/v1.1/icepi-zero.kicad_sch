@@ -11250,7 +11250,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ECP5U_12_CABGA256"
+		(property "Value" "ECP5U_25F_CABGA256"
 			(at 91.44 138.4299 0)
 			(effects
 				(font

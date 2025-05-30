@@ -7339,7 +7339,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ECP5U_12_CABGA256"
+		(property "Value" "ECP5U_25F_CABGA256"
 			(at 69.85 58.4199 0)
 			(effects
 				(font
@@ -8248,7 +8248,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ECP5U_12_CABGA256"
+		(property "Value" "ECP5U_25F_CABGA256"
 			(at 259.08 62.2299 0)
 			(effects
 				(font
@@ -9091,7 +9091,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ECP5U_12_CABGA256"
+		(property "Value" "ECP5U_25F_CABGA256"
 			(at 133.35 64.7699 0)
 			(effects
 				(font
@@ -10211,7 +10211,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ECP5U_12_CABGA256"
+		(property "Value" "ECP5U_25F_CABGA256"
 			(at 74.93 151.7649 0)
 			(effects
 				(font
