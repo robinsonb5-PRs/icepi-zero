@@ -1,7 +1,6 @@
 .DS_Store
 *.bak
 *-bak
-*.zip
 *gerber*
 _autosave-*
 panel
@@ -16,3 +15,6 @@ fp-info-cache
 *.json
 
 *.lck
+
+*.zip
+!hardware/*/production/*.zip
