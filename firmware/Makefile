@@ -17,7 +17,7 @@ debug: build
 install: build
 	openFPGALoader -cft231X --pins=7:3:5:6 $(OUTPUT).bit --write-flash
 
-install-nobuild: 
+install-bitstream: 
 	openFPGALoader -cft231X --pins=7:3:5:6 $(OUTPUT).bit --write-flash
 
 lint:
