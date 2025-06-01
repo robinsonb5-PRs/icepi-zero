@@ -50,3 +50,8 @@ Note: If you use the newest version of openFPGALoader, it supports the `-b icepi
 ## Pinout
 
 To come soon
+
+Debug pins are distrubuted as the follwing picture shows:
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/335bbcfaec8936a8c04d1630f6a67f590c768928_image.png)
+
