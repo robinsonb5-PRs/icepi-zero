@@ -50,6 +50,8 @@ Check out the `firmware` folder for example code and compilation instructions!
 
 If you want to order this board, it uses a 1.2mm PCB with JLC04121H-7628 Stackup. Gerbers are in the `production` folder in the `hardware` directory.
 
+NOTE: If you fabbed v1.1 before 01/06, the pins of the USB pullups and LED0 is different - check your gerbers.
+
 ## Contact
 
 If there is any questions DM `@Cyao` on Hackclub Slack or `cyao.` on Discord. Mail is also accepted at `cyao _at_ duck.com`.
