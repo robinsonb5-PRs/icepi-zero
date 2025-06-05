@@ -49,7 +49,7 @@ Note: If you use the newest version of openFPGALoader, it supports the `-b icepi
 
 ## Pinout
 
-GPIO pinout:
+GPIO pinout (Please don't mind the image quality, I'll be back with a better one):
 
 ![](pinout.png)
 
