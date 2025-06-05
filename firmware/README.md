@@ -49,7 +49,21 @@ Note: If you use the newest version of openFPGALoader, it supports the `-b icepi
 
 ## Pinout
 
-To come soon
+GPIO pinout:
+
+![](pinout.png)
+
+You can find the name of rest of the I/O pins in `icepi-zero.lpf`:
+
+- `gpio[27:0]`: gpio pins
+- `led[4:0]`: User LEDs
+- `button`: User button
+- `gpdi_dp[3:0]`: GPDI interface
+- `sdram_*`: SDRam interface
+- `flash_*`: Flash interface
+- `sd_*`: SDCard interface
+- `usb_*`: FTDI/USB ports (UART/USB)
+- `tp[1:0]`: Test points
 
 Debug pins are distrubuted as the follwing picture shows:
 

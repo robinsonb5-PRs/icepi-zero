@@ -1,0 +1,3 @@
+[submodule "hardware/v1.1/libraries/certification-mark"]
+	path = hardware/v1.1/libraries/certification-mark
+	url = https://github.com/oshwa/certification-mark/

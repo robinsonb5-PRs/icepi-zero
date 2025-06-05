@@ -20,7 +20,7 @@ The Icepi Zero aims to fix this. Carrying a powerful ECP5 FPGA on a small Raspbe
 
 Icepi Zero is for everyone: Students can use it to learn about the internals of modern processors. Gamers can use it to emulate old hardware. Programmers can use it to test their code on multiple architecture.
 
-Icepi Zero also has an on-board USB to JTAG converter, so no external programmers are needed. Moreover Icepi Zero is fully open-source, no strings attached. Fabricate your own boards if you want one!
+Icepi Zero also has an on-board USB to JTAG converter, so no external programmers are needed. Moreover Icepi Zero is fully open-source, no strings attached. Fabricate your own boards if you want one! ([OSHWA cerified FR000026](https://certification.oshwa.org/fr000026.html))
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a6690d6e952f533cc95823e3fc1565726f22daf8_image.png)
 
