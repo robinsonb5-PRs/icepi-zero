@@ -5,6 +5,7 @@ Welcome to the firmware folder! You can find numerous examples here:
 - `blinky`: Classic LED counter!
 - `counter`: Counter using the button as input :D
 - `uart`: Uart transmission example
+- `dvi`: GPDI example
 - `third-party`: Third party verilog code
     - `memtest`: Memory tester w/ hdmi output! Pressing the button increases skew, middle row displays memory test cout, bottom row displays the number of bad memory reads.
 
