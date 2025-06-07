@@ -42,7 +42,7 @@ Icepi Zero also has an on-board USB to JTAG converter, so no external programmer
 
 This powerful configuration allows the PCB to be used in numerous ways, including real time video processing, hardware AI acceleration and prototyping of ASICs.
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4c0861d350addacafd7bc4966b30fc04cd840f32_image.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/930d1c191ad8fa4897d9778c2108a21bd01c9450_image.png)
 
 ## Usage
 
