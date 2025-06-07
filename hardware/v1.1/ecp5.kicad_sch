@@ -6,10 +6,11 @@
 	(paper "A4")
 	(title_block
 		(title "Icepi zero")
-		(date "2025-05-12")
+		(date "2025-06-06")
 		(rev "v1.1")
 		(company "Chengyin Yao (cheyao)")
 		(comment 1 "https://github.com/cheyao/icepi-zero")
+		(comment 9 "OSHWA FR000026")
 	)
 	(lib_symbols
 		(symbol "Connector:TestPoint"
