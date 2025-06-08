@@ -34563,7 +34563,7 @@
 			(at 0 1.448 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "efbfeed6-8443-471f-b15a-d5d70e71f399")
+			(uuid "bc964db5-b81f-42c5-acbd-994765a62c75")
 			(effects
 				(font
 					(size 1 1)
@@ -34575,7 +34575,7 @@
 		(property "Value" "TestPoint"
 			(at 0 -1.55 0)
 			(layer "B.Fab")
-			(uuid "38016078-695d-401b-9063-93944eb189d3")
+			(uuid "063633e2-2a64-472e-8e82-4ac23c7cd6da")
 			(effects
 				(font
 					(size 1 1)
@@ -34589,7 +34589,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "15550743-45d1-4060-a014-5cde2d089305")
+			(uuid "7816bbb5-16a6-4ef2-88c7-8007c2905558")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34603,7 +34603,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "0a574a00-a9be-43bb-b768-c5ca718dba50")
+			(uuid "920e7d66-08f7-40b9-b288-7fea145e4d53")
 			(effects
 				(font
 					(size 1.27 1.27)
