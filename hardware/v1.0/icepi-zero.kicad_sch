@@ -8587,7 +8587,7 @@
 			)
 		)
 	)
-	(global_label "GPDI_SCL"
+	(global_label "GPDI_SCK"
 		(shape input)
 		(at 49.53 158.75 180)
 		(effects

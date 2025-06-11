@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Icepi zero")
-		(date "2025-06-06")
+		(date "2025-06-11")
 		(rev "v1.1")
 		(company "Chengyin Yao (cheyao)")
 		(comment 1 "https://github.com/cheyao/icepi-zero")
@@ -6452,12 +6452,6 @@
 		(uuid "65f337bf-4aeb-4488-b081-cfeeac7a9b9e")
 	)
 	(junction
-		(at 116.84 173.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6b5a1e01-a055-4553-9e38-8b29378642df")
-	)
-	(junction
 		(at 143.51 158.75)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6473,7 +6467,7 @@
 		(at 113.03 176.53)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a209a627-2742-4986-864c-45695a2a0e82")
+		(uuid "9a217c0b-a51a-45b2-8237-66eafd09b251")
 	)
 	(junction
 		(at 148.59 146.05)
@@ -6510,6 +6504,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d06f2aed-1d62-4bf8-81a4-9960f6b11481")
+	)
+	(junction
+		(at 116.84 173.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d3c84a95-d088-4657-89dc-fe283509ac99")
 	)
 	(junction
 		(at 43.18 50.8)
@@ -6669,7 +6669,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 173.99) (xy 158.75 173.99)
+			(xy 148.59 173.99) (xy 167.64 173.99)
 		)
 		(stroke
 			(width 0)
@@ -6696,16 +6696,6 @@
 			(type default)
 		)
 		(uuid "1c31e87f-2523-4841-8202-9dc1d1ba8294")
-	)
-	(wire
-		(pts
-			(xy 153.67 176.53) (xy 158.75 176.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1cbe8e7c-aefa-4ecd-a854-fe756b589a75")
 	)
 	(wire
 		(pts
@@ -6909,6 +6899,16 @@
 	)
 	(wire
 		(pts
+			(xy 110.49 176.53) (xy 113.03 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50890698-d991-48fe-9855-03ad722ae2fe")
+	)
+	(wire
+		(pts
 			(xy 218.44 120.65) (xy 220.98 120.65)
 		)
 		(stroke
@@ -6919,7 +6919,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 176.53) (xy 113.03 176.53)
+			(xy 153.67 176.53) (xy 167.64 176.53)
 		)
 		(stroke
 			(width 0)
@@ -6936,6 +6936,16 @@
 			(type default)
 		)
 		(uuid "5233998a-c618-4406-a8c4-d6c0a935ef36")
+	)
+	(wire
+		(pts
+			(xy 110.49 173.99) (xy 116.84 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "523baa80-4637-4758-ae11-904c29eebddd")
 	)
 	(wire
 		(pts
@@ -7199,16 +7209,6 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 173.99) (xy 116.84 173.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ae7ed4dd-06cb-4950-840c-133c77b18857")
-	)
-	(wire
-		(pts
 			(xy 153.67 146.05) (xy 153.67 148.59)
 		)
 		(stroke
@@ -7427,13 +7427,13 @@
 		)
 		(uuid "fe765b38-71a2-4a29-a667-9146bab1f4cb")
 	)
-	(label "GPDI_SCK"
-		(at 100.33 173.99 0)
+	(label "GPDI_SCK_5V"
+		(at 167.64 173.99 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "0f2c6886-e631-48b9-93ff-a331b94bb520")
 	)
@@ -7447,17 +7447,17 @@
 		)
 		(uuid "297508f0-96d0-4f95-9ee3-70542cd153a6")
 	)
-	(label "GPDI_SDA"
-		(at 100.33 176.53 0)
+	(label "GPDI_SDA_5V"
+		(at 167.64 176.53 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "2a160993-5e1c-44bf-a600-fd233b52be96")
 	)
-	(label "GPDI_SCK"
+	(label "GPDI_SCK_5V"
 		(at 161.29 99.06 0)
 		(effects
 			(font
@@ -7507,7 +7507,7 @@
 		)
 		(uuid "698962e6-afe0-4c28-90b9-47860c2ac83b")
 	)
-	(label "GPDI_SDA"
+	(label "GPDI_SDA_5V"
 		(at 161.29 101.6 0)
 		(effects
 			(font
@@ -7549,16 +7549,16 @@
 	)
 	(global_label "GPDI_SDA"
 		(shape input)
-		(at 158.75 176.53 0)
+		(at 110.49 176.53 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "1051eadb-5080-4fbe-95b5-082e1efdbc58")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 158.75 176.53 0)
+			(at 110.49 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7899,18 +7899,18 @@
 			)
 		)
 	)
-	(global_label "GPDI_SCL"
+	(global_label "GPDI_SCK"
 		(shape input)
-		(at 158.75 173.99 0)
+		(at 110.49 173.99 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "7574355e-0253-400c-b0b0-389e924f2ba6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 158.75 173.99 0)
+			(at 110.49 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
