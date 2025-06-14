@@ -12047,7 +12047,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1000P"
+		(property "Footprint" "icepi-lib:switch_button_TS-1088-AR02016"
 			(at 134.62 171.45 0)
 			(effects
 				(font
@@ -12074,7 +12074,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C2764561"
+		(property "LCSC Part #" "C720477"
 			(at 134.62 176.53 0)
 			(effects
 				(font
@@ -14089,7 +14089,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1000P"
+		(property "Footprint" "icepi-lib:switch_button_TS-1088-AR02016"
 			(at 134.62 161.29 0)
 			(effects
 				(font
@@ -14116,7 +14116,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C2764561"
+		(property "LCSC Part #" "C720477"
 			(at 134.62 166.37 0)
 			(effects
 				(font
