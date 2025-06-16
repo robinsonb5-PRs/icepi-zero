@@ -35,7 +35,7 @@ Icepi Zero also has an on-board USB to JTAG converter, so no external programmer
 - 256Mbit 166MHz SDRAM
 - MicroSD card slot
 - On-board USB to JTAG and UART converter
-- 40MHz external oscillator
+- 50MHz external oscillator
 - 128 Mbit of flash
 - 4 user LEDs
 - 1 user button
