@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Icepi zero")
-		(date "2025-06-15")
+		(date "2025-06-16")
 		(rev "v1.2")
 		(company "Chengyin Yao (cheyao)")
 		(comment 1 "https://github.com/cheyao/icepi-zero")
