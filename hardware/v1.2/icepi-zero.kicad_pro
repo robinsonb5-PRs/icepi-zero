@@ -694,7 +694,7 @@
     ],
     [
       "efe0a411-ae63-4682-aa63-a9a30697cd67",
-      "GPIO"
+      "GPDI"
     ],
     [
       "b8c813e2-b0ac-42df-b4a2-893985a7d29c",
@@ -711,6 +711,10 @@
     [
       "17c9c9b3-f379-4e1f-a876-d3fcf0529a4d",
       "ECP5"
+    ],
+    [
+      "d38ad226-7226-4c8c-b808-74c724beb9de",
+      "uSD"
     ]
   ],
   "text_variables": {}

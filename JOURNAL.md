@@ -75,11 +75,11 @@ I've tried to receive some funding to elevate the cost: I've contacted pcbway fo
 
 After verifing that the basic functionallity works, I've started to actually *ship* my project:
 
-https://www.reddit.com/r/electronics/comments/1kwwwm0/i_built_the_fpga_raspberry_pi_zero_equivalent/
-https://www.reddit.com/r/embedded/comments/1kwx5p7/i_built_the_fpga_raspberry_pi_zero_equivalent/
-https://www.reddit.com/r/PrintedCircuitBoard/comments/1kwxf7y/thanks_for_the_reviews_icepi_zero_came_back/
-https://www.reddit.com/r/FPGA/comments/1kwxvk8/ive_made_my_first_fpga_board_the_icepi_zero/
-https://www.reddit.com/r/raspberry_pi/comments/1kxag0m/i_built_the_fpga_raspberry_pi_zero_equivalent/
+- https://www.reddit.com/r/electronics/comments/1kwwwm0/i_built_the_fpga_raspberry_pi_zero_equivalent/
+- https://www.reddit.com/r/embedded/comments/1kwx5p7/i_built_the_fpga_raspberry_pi_zero_equivalent/
+- https://www.reddit.com/r/PrintedCircuitBoard/comments/1kwxf7y/thanks_for_the_reviews_icepi_zero_came_back/
+- https://www.reddit.com/r/FPGA/comments/1kwxvk8/ive_made_my_first_fpga_board_the_icepi_zero/
+- https://www.reddit.com/r/raspberry_pi/comments/1kxag0m/i_built_the_fpga_raspberry_pi_zero_equivalent/
 
 Holy, that blew up. Seems like people were interested in the project :D
 
@@ -109,6 +109,8 @@ Currently I've ordered a batch of the Icepi Zero v1.3! Really exited ^.^
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/91e3fe3b7048b2c0372d040cbdc0bf52ea27ed20_image.png)
 
+## Off to the market
+
 ## Special thanks
 
 Here at the end, I offer my profound thanks to Itai, for starting https://reflow.badbird.dev/, without which I would never have started this enourmous project.
@@ -118,6 +120,8 @@ Thanks to everyone who gave me a review on Reddit, for making me realize my flaw
 Thanks to Mpk and all the passionate engineers on the KiCAD Discord, for reviewing my PCB and instructing me on the aspects I lacked - without you the boards would never have worked.
 
 Thanks to Echo, for helping me amass the funds for the first batch of boards. And at last Hackclub, for fostering such a great community of teen engineers.
+
+Gratitude to Matthias, for making me realize my board's buissnes potential.
 
 Also Acon for the cute pfp you drew :D
 
