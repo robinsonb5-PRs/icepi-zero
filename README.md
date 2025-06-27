@@ -48,7 +48,7 @@ This powerful configuration allows the PCB to be used in numerous ways, includin
 
 Check out the `firmware` folder for example code and compilation instructions!
 
-If you want to order this board, it uses a 1.2mm PCB with JLC04121H-7628 Stackup. Gerbers are in the `production` folder in the `hardware` directory.
+If you want to order this board, it uses a 1.2mm/1.6mm PCB with JLC04121H-7628 Stackup. Gerbers are in the `production` folder in the `hardware` directory.
 
 NOTE: If you fabbed v1.1 before 01/06, the pins of the USB pullups and LED0 is different - check your gerbers.
 
