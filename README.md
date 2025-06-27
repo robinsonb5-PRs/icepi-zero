@@ -1,4 +1,4 @@
-# Icepi Zero - The portable FPGA development board. 
+# Icepi Zero - The portable FPGA development board
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d2e1d2fe540b8c4ee1d35ecd6e0287b981d7ee8d_image.png)
 
