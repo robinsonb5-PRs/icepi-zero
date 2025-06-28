@@ -1,8 +1,8 @@
 module top(
 	input        clk,
-	input        usb_tx,
+	input        usb_rx,
 
-	output       usb_rx,
+	output       usb_tx,
 	output [2:0] led
 );
 	logic       finish;
