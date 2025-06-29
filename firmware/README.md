@@ -6,6 +6,8 @@ Welcome to the firmware folder! You can find numerous examples here:
 - `counter`: Counter using the button as input :D
 - `uart`: Uart transmission example
 - `dvi`: GPDI example
+- `usb`: USB examples
+    - `usbmouse`: Shows a GPDI screen with an controllable mouse
 - `third-party`: Third party verilog code
     - `memtest`: Memory tester w/ hdmi output! Pressing the button increases skew, middle row displays memory test cout, bottom row displays the number of bad memory reads.
 
@@ -73,3 +75,4 @@ Debug pins are distrubuted as the follwing picture shows:
 ## Other examples
 
 [Apple 1 Emulator](https://github.com/cheyao/apple-one) ported to Icepi Zero (pr ing to upstream)
+[linux-on-litex-vexriscv](https://github.com/cheyao/linux-on-litex-vexriscv) and [litex-boards](https://github.com/cheyao/litex-boards) are ported over.
