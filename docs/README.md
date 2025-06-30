@@ -13,3 +13,8 @@ Check the `firmware` folder!
 ## Are there any examples?
 
 Also in the `firmware` folder!
+
+
+## How do I programn the board?
+
+Also check the `firmware` folder!
