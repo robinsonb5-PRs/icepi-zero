@@ -12202,7 +12202,7 @@
 				)
 			)
 		)
-		(property "Value" "WHITE"
+		(property "Value" "RED"
 			(at 114.6175 83.82 0)
 			(effects
 				(font
@@ -12246,7 +12246,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C2290"
+		(property "LCSC Part #" "C2286 "
 			(at 113.03 88.9 0)
 			(effects
 				(font
