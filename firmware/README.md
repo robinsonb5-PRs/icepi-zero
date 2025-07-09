@@ -74,5 +74,13 @@ Debug pins are distrubuted as the follwing picture shows:
 
 ## Other examples
 
-[Apple 1 Emulator](https://github.com/cheyao/apple-one) ported to Icepi Zero (pr ing to upstream)
+I will be pull requesting these in the next few days
+
+[Apple 1 Emulator](https://github.com/cheyao/apple-one) ported to Icepi Zero
+
 [linux-on-litex-vexriscv](https://github.com/cheyao/linux-on-litex-vexriscv) and [litex-boards](https://github.com/cheyao/litex-boards) are ported over.
+
+[Port of APIO](https://github.com/cheyao/apio) and [Port of APIO examples](https://github.com/cheyao/apio-examples)
+
+[Port of Icestudio](https://github.com/cheyao/icestudio)
+

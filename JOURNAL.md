@@ -55,7 +55,7 @@ Looks awesome! I've also showcased this on the KiCAD Discord:
 
 ![500 messages on the Discord thread,,, wow](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4b43bd310df340b040859aec1a4dbd5efdf11f24_image.png)
 
-The people in that community were super helpful, spotted quite a few errors for me: The thread ended up containing ~500 messages :O just wow.
+The people in that community were super helpful, spotted quite a few errors for me: The thread ended up containing ~600 messages :O just wow.
 
 With the help of some people on reddit and Max from our Hackclub slack, I've finished the v1.0 of the Icepi Zero (Check out Max's awesome [Tiny4FSK](https://github.com/New-England-Weather-Balloon-Society/Tiny4FSK)!)
 
@@ -65,15 +65,15 @@ This isn't actually v1.0, I ended up rerouting like 4 times in the process.
 
 ![pre-v1.0](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d448ff4445b6dd00e6bb448495681dbc28a95d1c_image.png)
 
-Off to production you go!
+Praying that this works, I did one last check in the morning, and off to production you go!
 
 ![V1.0 order](https://hc-cdn.hel1.your-objectstorage.com/s/v3/160996802b5b9ca3391581e75304b720e4cb1059_image.png)
 
-I've tried to receive some funding to elevate the cost: I've contacted pcbway for sponsoring, they said yes to sponsor the cost of the PCBs, but not the PCBA. Aaand their PCBA was actually more costly then that of jlcpcb.
+I've tried to receive some funding to elevate the cost: I've contacted pcbway for sponsoring, they agreed to sponsor the PCBs, but not the PCBA. Aaand their PCBA was actually more costly then that of jlcpcb.
 
 ## Shipping off the project
 
-After verifing that the basic functionallity works, I've started to actually *ship* my project:
+After verifing that the basic functionallity works, I've started to actually *ship* my project. The first step was posting on reddit:
 
 - https://www.reddit.com/r/electronics/comments/1kwwwm0/i_built_the_fpga_raspberry_pi_zero_equivalent/
 - https://www.reddit.com/r/embedded/comments/1kwx5p7/i_built_the_fpga_raspberry_pi_zero_equivalent/
@@ -83,17 +83,17 @@ After verifing that the basic functionallity works, I've started to actually *sh
 
 Holy, that blew up. Seems like people were interested in the project :D
 
-After that, I've found out that Hackaday had a tip line, so I sent my project in :) https://hackaday.com/submit-a-tip/ and a few days later, guess what I saw on the front page:
+After that, I've found out that Hackaday had a tip line, so I sent my project in :) (https://hackaday.com/submit-a-tip/) and a few days later, guess what I saw on the front page:
 
 https://hackaday.com/2025/05/29/icepi-zero-a-pi-zero-for-fpga/
 
-OH MY GOD! Being on there was my dream! I was shaking with exitement.
+OMG! Being on Hackaday was my dream! I was shaking with exitement.
 
 In the few days that followed, one of my friends sent me this picture:
 
 ![Hackernews vial](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ffae74210ece3561581ac6f613e279b7f69803f8_image.png)
 
-Oh wow! I went to Hackernews front page too! (Yea IK it's my account, I posted it :P)
+Oh wow! I went to Hackernews front page too! (Yea IK it's my account, I posted it, but didn't know it'll also get onto the front page :P)
 
 I also had to make my certifications compleate, so I've submitted my project to OSHWA, and they gove me an open source hardware certification!
 
@@ -101,7 +101,7 @@ https://certification.oshwa.org/fr000026.html
 
 26th open source project of France... Wild.
 
-![V1.1 Icepi Zero](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ec8ed16af61150195ea388c32047b6e1b9825b63_image.png)
+After that, I've continued working on the Icepi, fixing numerous errors and ending up with the v1.3 of the Icepi.
 
 ![Current V1.3 Icepi Zero](https://hc-cdn.hel1.your-objectstorage.com/s/v3/14ae8200592e3d37a41da3d91fc7d38234ea2173_image.png)
 
@@ -109,7 +109,13 @@ Currently I've ordered a batch of the Icepi Zero v1.3! Really exited ^.^
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/91e3fe3b7048b2c0372d040cbdc0bf52ea27ed20_image.png)
 
+And v3 came!
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/465bb84348d218dde223d28ca008d249cd19622c_image.png)
+
 ## Off to the market
+
+At the same time of working on my project, I've applied to Crowd Supply, and guess what? They have accepted me!
 
 ## Special thanks
 

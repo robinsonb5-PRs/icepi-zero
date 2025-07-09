@@ -13265,7 +13265,7 @@
 			(net 38 "GND")
 			(pinfunction "SH")
 			(pintype "passive")
-			(uuid "a2362508-3117-42dc-98f4-12166bc23911")
+			(uuid "b2ba8143-d235-46ee-a6b8-fe3e084a985e")
 		)
 		(pad "SH" thru_hole oval
 			(at 5.425 0)
@@ -13276,7 +13276,7 @@
 			(net 38 "GND")
 			(pinfunction "SH")
 			(pintype "passive")
-			(uuid "a2362508-3117-42dc-98f4-12166bc23911")
+			(uuid "e640c476-9ec5-444d-8558-2857067c6137")
 		)
 		(pad "SH" thru_hole oval
 			(at 5.425 4.5)
@@ -13287,7 +13287,7 @@
 			(net 38 "GND")
 			(pinfunction "SH")
 			(pintype "passive")
-			(uuid "a2362508-3117-42dc-98f4-12166bc23911")
+			(uuid "c527f220-3cbc-4609-9ebf-2ca19f315fb7")
 		)
 		(embedded_fonts no)
 	)
