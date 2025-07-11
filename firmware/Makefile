@@ -1,4 +1,5 @@
 VERILOG_SOURCES := $(wildcard *.v) $(wildcard *.sv)
+TEST_SOURCES := $(wildcard tb/*.v) $(wildcard tb/*.sv)
 OUTPUT := bitstream
 PACKAGE := CABGA256
 
