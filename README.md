@@ -40,9 +40,11 @@ Icepi Zero also has an on-board USB to JTAG converter, so no external programmer
 - 4 user LEDs
 - 1 user button
 
-This powerful configuration allows the PCB to be used in numerous ways, including real time video processing, hardware AI acceleration and prototyping of ASICs.
+This powerful configuration allows the PCB to be used in numerous ways, including real time video processing, hardware AI acceleration and prototyping of ASICs. 
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/14ae8200592e3d37a41da3d91fc7d38234ea2173_image.png)
+It is also supported by icestudio (custom fork: https://github.com/cheyao/icestudio), allowing easy access for beginners.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/defb6e67b2f56987a1456436e394a12d857fbf74_icestudio-ide-view.png)
 
 ## Usage
 
@@ -51,6 +53,8 @@ Check out the `firmware` folder for example code and compilation instructions!
 If you want to order this board, it uses a 1.2mm/1.6mm PCB with JLC04121H-7628 Stackup. Gerbers are in the `production` folder in the `hardware` directory.
 
 NOTE: If you fabbed v1.1 before 01/06, the pins of the USB pullups and LED0 is different - check your gerbers.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f69c12e074c8481cb4458c897d8b994328fb4a49_tilted-view-of-icepi-alone-transparent-bg.png)
 
 ## Contact
 
