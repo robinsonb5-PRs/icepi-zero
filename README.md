@@ -52,6 +52,8 @@ Check out the `firmware` folder for example code and compilation instructions!
 
 If you want to order this board, it uses a 1.2mm/1.6mm PCB with JLC04121H-7628 Stackup. Gerbers are in the `production` folder in the `hardware` directory.
 
+For the PCB, the smallest component size is 0201 for 27 Ohm resistors on the USB-C datalines. But if you want only 0402 components, just delete those 0201 resistors and you will be fine.
+
 NOTE: If you fabbed v1.1 before 01/06, the pins of the USB pullups and LED0 is different - check your gerbers.
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f69c12e074c8481cb4458c897d8b994328fb4a49_tilted-view-of-icepi-alone-transparent-bg.png)
