@@ -1743,7 +1743,7 @@
 		)
 		(symbol "LFE5U-25F-6BG256x_5_1"
 			(rectangle
-				(start -20.32 18.415)
+				(start -20.32 26.035)
 				(end 19.685 -18.415)
 				(stroke
 					(width 0)
@@ -1762,7 +1762,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -25.4 16.51 0)
+				(at -25.4 24.13 0)
 				(length 5.08)
 				(name "PR23C/-/RDQ20/PCLKT2_0"
 					(effects
@@ -1780,7 +1780,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -25.4 13.97 0)
+				(at -25.4 21.59 0)
 				(length 5.08)
 				(name "PR23D/-/RDQ20/PCLKC2_0"
 					(effects
@@ -1798,7 +1798,25 @@
 				)
 			)
 			(pin bidirectional line
-				(at -25.4 11.43 0)
+				(at -25.4 19.05 0)
+				(length 5.08)
+				(name "PR47A/+/HS/RSQ44"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "M11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -25.4 16.51 0)
 				(length 5.08)
 				(name "PR26A/+/HS/RDQ32/PCLKT3_1"
 					(effects
@@ -1816,7 +1834,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -25.4 8.89 0)
+				(at -25.4 13.97 0)
 				(length 5.08)
 				(name "PR26B/-/HS/RDQ32/PCLKC3_1"
 					(effects
@@ -1826,6 +1844,42 @@
 					)
 				)
 				(number "L15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -25.4 11.43 0)
+				(length 5.08)
+				(name "PR44D/-/RSQ44"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "N12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -25.4 8.89 0)
+				(length 5.08)
+				(name "PR47C/+/RSQ44/LRC_GPLL0T_IN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "P11"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -3577,7 +3631,7 @@
 		(symbol "LFE5U-25F-6BG256x_10_1"
 			(rectangle
 				(start -53.34 38.1)
-				(end 52.705 -40.005)
+				(end 53.34 -41.91)
 				(stroke
 					(width 0)
 					(type solid)
@@ -4189,24 +4243,6 @@
 				)
 			)
 			(pin bidirectional line
-				(at -11.43 -45.085 90)
-				(length 5.08)
-				(name "PB18A/WRITEN"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "M9"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
 				(at -10.16 43.18 270)
 				(length 5.08)
 				(name "PT33B/-/PCLKC1_1"
@@ -4225,16 +4261,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at -8.89 -45.085 90)
+				(at -10.16 -46.99 90)
 				(length 5.08)
-				(name "PB15B/0/DOUT/CSON"
+				(name "PB18A/WRITEN"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "M8"
+				(number "M9"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4261,16 +4297,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at -6.35 -45.085 90)
+				(at -7.62 -46.99 90)
 				(length 5.08)
-				(name "PB13B/-/CS1N"
+				(name "PB15B/0/DOUT/CSON"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "P8"
+				(number "M8"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4297,16 +4333,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at -3.81 -45.085 90)
+				(at -5.08 -46.99 90)
 				(length 5.08)
-				(name "PB13A/+/SN/CSN"
+				(name "PB13B/-/CS1N"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "R8"
+				(number "P8"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4333,16 +4369,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at -1.27 -45.085 90)
+				(at -2.54 -46.99 90)
 				(length 5.08)
-				(name "PB6B/-/D4/MOSI2/IO4"
+				(name "PB13A/+/SN/CSN"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "P7"
+				(number "R8"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4369,16 +4405,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 1.27 -45.085 90)
+				(at 0 -46.99 90)
 				(length 5.08)
-				(name "PB6A/+/D5/MISO2/IO5"
+				(name "PB6B/-/D4/MOSI2/IO4"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "R7"
+				(number "P7"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4405,16 +4441,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 3.81 -45.085 90)
+				(at 2.54 -46.99 90)
 				(length 5.08)
-				(name "PB4B/0/D6/IO6"
+				(name "PB6A/+/D5/MISO2/IO5"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "R6"
+				(number "R7"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4441,16 +4477,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 6.35 -45.085 90)
+				(at 5.08 -46.99 90)
 				(length 5.08)
-				(name "PB4A/+/D7/IO7"
+				(name "PB4B/0/D6/IO6"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "T6"
+				(number "R6"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4469,6 +4505,24 @@
 					)
 				)
 				(number "D10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 7.62 -46.99 90)
+				(length 5.08)
+				(name "PB4A/+/D7/IO7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "T6"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4549,25 +4603,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 57.785 35.56 180)
-				(length 5.08)
-				(name "PR47A/+/HS/RSQ44"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "M11"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 57.785 33.02 180)
+				(at 58.42 30.48 180)
 				(length 5.08)
 				(name "PR47B/0/HS/RDQ44"
 					(effects
@@ -4585,7 +4621,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 57.785 30.48 180)
+				(at 58.42 27.94 180)
 				(length 5.08)
 				(name "PR47C/+/RSQ44/LRC_GPLL0T_IN"
 					(effects
@@ -4603,25 +4639,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 57.785 27.94 180)
-				(length 5.08)
-				(name "PR47D/-/RDQ44/LRC_GPLL0C_IN"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "P12"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 57.785 25.4 180)
+				(at 58.42 25.4 180)
 				(length 5.08)
 				(name "PR44C/+/RDQ44"
 					(effects
@@ -4639,16 +4657,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 57.785 22.86 180)
+				(at 58.42 22.86 180)
 				(length 5.08)
-				(name "PR44D/-/RSQ44"
+				(name "PR47D/-/RDQ44/LRC_GPLL0C_IN"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "N12"
+				(number "P12"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4657,7 +4675,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 57.785 20.32 180)
+				(at 58.42 20.32 180)
 				(length 5.08)
 				(name "PR41A/+/HS/RDQ44"
 					(effects
@@ -4675,7 +4693,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 57.785 17.78 180)
+				(at 58.42 17.78 180)
 				(length 5.08)
 				(name "PR38A/+/HS/RDQ44"
 					(effects
@@ -4693,7 +4711,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 57.785 15.24 180)
+				(at 58.42 15.24 180)
 				(length 5.08)
 				(name "PR35C/+/RDQ32"
 					(effects
@@ -4711,7 +4729,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 57.785 12.7 180)
+				(at 58.42 12.7 180)
 				(length 5.08)
 				(name "PR35D/-/RDQ32"
 					(effects
@@ -4729,7 +4747,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 57.785 10.16 180)
+				(at 58.42 10.16 180)
 				(length 5.08)
 				(name "PR29A/+/HS/RDQ32/GR_PCLK3_0"
 					(effects
@@ -4747,7 +4765,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 57.785 7.62 180)
+				(at 58.42 7.62 180)
 				(length 5.08)
 				(name "PR29B/-/HS/RDQ32"
 					(effects
@@ -4765,7 +4783,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 57.785 5.08 180)
+				(at 58.42 5.08 180)
 				(length 5.08)
 				(name "PR29C/+/RDQ32/GR_PCLK3_1"
 					(effects
@@ -4783,7 +4801,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 57.785 2.54 180)
+				(at 58.42 2.54 180)
 				(length 5.08)
 				(name "PR29D/-/RDQ32"
 					(effects
@@ -4801,7 +4819,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 57.785 0 180)
+				(at 58.42 0 180)
 				(length 5.08)
 				(name "PR20A/+/HS/RDQS20/GR_PCLK2_1"
 					(effects
@@ -4819,7 +4837,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 57.785 -2.54 180)
+				(at 58.42 -2.54 180)
 				(length 5.08)
 				(name "PR20B/-/HS/RDQSN20"
 					(effects
@@ -4837,7 +4855,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 57.785 -5.08 180)
+				(at 58.42 -5.08 180)
 				(length 5.08)
 				(name "PR20C/+/RDQ20/GR_PCLK2_0"
 					(effects
@@ -4855,7 +4873,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 57.785 -7.62 180)
+				(at 58.42 -7.62 180)
 				(length 5.08)
 				(name "PR20D/-/RDQ20"
 					(effects
@@ -4873,7 +4891,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 57.785 -10.16 180)
+				(at 58.42 -10.16 180)
 				(length 5.08)
 				(name "PR17A/+/HS/RDQ20"
 					(effects
@@ -4891,7 +4909,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 57.785 -12.7 180)
+				(at 58.42 -12.7 180)
 				(length 5.08)
 				(name "PR17B/-/HS/RDQ20"
 					(effects
@@ -4909,7 +4927,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 57.785 -15.24 180)
+				(at 58.42 -15.24 180)
 				(length 5.08)
 				(name "PR17C/+/RDQ20"
 					(effects
@@ -4927,7 +4945,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 57.785 -17.78 180)
+				(at 58.42 -17.78 180)
 				(length 5.08)
 				(name "PR17D/-/RDQ20"
 					(effects
@@ -4945,7 +4963,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 57.785 -20.32 180)
+				(at 58.42 -20.32 180)
 				(length 5.08)
 				(name "PR14A/+/HS/RDQ20"
 					(effects
@@ -4963,7 +4981,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 57.785 -22.86 180)
+				(at 58.42 -22.86 180)
 				(length 5.08)
 				(name "PR14C/+/RDQ20/VREF1_2"
 					(effects
@@ -4981,7 +4999,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 57.785 -25.4 180)
+				(at 58.42 -25.4 180)
 				(length 5.08)
 				(name "PR11A/+/HS/RDQ8"
 					(effects
@@ -4999,7 +5017,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 57.785 -27.94 180)
+				(at 58.42 -27.94 180)
 				(length 5.08)
 				(name "PR11B/-/HS/RDQ8"
 					(effects
@@ -5017,7 +5035,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 57.785 -30.48 180)
+				(at 58.42 -30.48 180)
 				(length 5.08)
 				(name "PR8B/-/HS/RDQSN8"
 					(effects
@@ -5035,7 +5053,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 57.785 -33.02 180)
+				(at 58.42 -33.02 180)
 				(length 5.08)
 				(name "PR8C/+/RDQ8"
 					(effects
@@ -5053,7 +5071,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 57.785 -35.56 180)
+				(at 58.42 -35.56 180)
 				(length 5.08)
 				(name "PR8D/-/RDQ8"
 					(effects
@@ -5071,7 +5089,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 57.785 -38.1 180)
+				(at 58.42 -38.1 180)
 				(length 5.08)
 				(name "PR5D/-/RDQ8"
 					(effects

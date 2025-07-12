@@ -13,6 +13,8 @@ fp-info-cache
 *.bit
 *.config
 *.json
+obj_dir
+*.vcd
 
 *.lck
 

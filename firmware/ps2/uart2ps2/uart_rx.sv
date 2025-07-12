@@ -5,6 +5,7 @@ module uart_rx #(
 ) (
 	input                   clk,
 	input                   rx,
+
 	output logic            finish,
 	output logic [BITS-1:0] data
 );

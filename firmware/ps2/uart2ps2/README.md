@@ -4,3 +4,5 @@ For those of us who doesn't have an old keyboard :)
 Inputs 115200 8N1 UART via the "Flash" USB port
 
 Outputs PS/2 on both USB ports (exact copies of the signal)
+
+Limitation: No host to device communication, nor any stops

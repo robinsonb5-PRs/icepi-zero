@@ -367,20 +367,22 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U"
-				(at 48.768 1.016 0)
+			(property "Reference" "U1"
+				(at -1.778 67.818 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
-			(property "Value" "ECP5U-25F-CABGA256"
-				(at 59.436 -1.27 0)
+			(property "Value" "ECP5-CABGA256"
+				(at 8.4933 -104.14 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left)
 				)
 			)
 			(property "Footprint" "Package_BGA:BGA-256_14.0x14.0mm_Layout16x16_P0.8mm_Ball0.45mm_Pad0.32mm_NSMD"
@@ -1890,7 +1892,7 @@
 			)
 			(symbol "LFE5U-25F-6BG256x_5_1"
 				(rectangle
-					(start -20.32 18.415)
+					(start -20.32 20.955)
 					(end 19.685 -18.415)
 					(stroke
 						(width 0)
@@ -1909,7 +1911,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at -25.4 16.51 0)
+					(at -25.4 19.05 0)
 					(length 5.08)
 					(name "PR23C/-/RDQ20/PCLKT2_0"
 						(effects
@@ -1927,7 +1929,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at -25.4 13.97 0)
+					(at -25.4 16.51 0)
 					(length 5.08)
 					(name "PR23D/-/RDQ20/PCLKC2_0"
 						(effects
@@ -1937,6 +1939,24 @@
 						)
 					)
 					(number "K15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -25.4 13.97 0)
+					(length 5.08)
+					(name "PB18A/WRITEN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "M9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4328,24 +4348,6 @@
 						)
 					)
 					(number "E7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -11.43 -45.085 90)
-					(length 5.08)
-					(name "PB18A/WRITEN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "M9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6829,11 +6831,12 @@
 			)
 		)
 		(property "Value" "ECP5-CABGA256"
-			(at 115.57 105.41 0)
+			(at 107.0767 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Package_BGA:BGA-256_14.0x14.0mm_Layout16x16_P0.8mm_Ball0.45mm_Pad0.32mm_NSMD"
@@ -7632,7 +7635,11 @@
 			(uuid "9f727bdc-391f-412b-ae75-47bdc18b61ff")
 		)
 		(instances
-			(project "icepi-zero"
+			(project ""
+				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/17c9c9b3-f379-4e1f-a876-d3fcf0529a4d"
+					(reference "U1")
+					(unit 3)
+				)
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/d4e07380-5584-4eac-bd07-d260a33e64d7"
 					(reference "U1")
 					(unit 3)

@@ -5,10 +5,8 @@ PACKAGE := CABGA256
 
 all: debug
 
-clean:
-	rm -f $(OUTPUT).bit $(OUTPUT).config $(OUTPUT).json
-
 %.json: $(VERILOG_SOURCES)
+	rm -f $(OUTPUT).bit $(OUTPUT).config $(OUTPUT).json
 	yosys -p 'synth_ecp5 -top top -json $@' $^
 
 %.config: %.json icepi-zero.lpf
@@ -17,7 +15,7 @@ clean:
 %.bit: %.config
 	ecppack $< $@
 
-build: clean $(OUTPUT).bit
+build: $(OUTPUT).bit
 
 debug: build
 	openFPGALoader -cft231X --pins=7:3:5:6 $(OUTPUT).bit
@@ -38,5 +36,8 @@ help:
 	echo "- debug: install to chip's temp memory (bitstream lost on power loss)"
 	echo "- build: builds the bitstream"
 	echo "- clean: delete all temparary files"
+
+clean:
+	rm -f $(OUTPUT).bit $(OUTPUT).config $(OUTPUT).json
 
 .PHONY: build clean install
