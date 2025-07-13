@@ -1,24 +1,26 @@
 module ascii2ps2 #(
-	parameter BUFFER_SIZE = 32
+	parameter BUFFER_SIZE = 15
 ) (
     input clk,
+    input reset,
 
     // UART input
     input [7:0] ascii,
     input       latch,
 
     // PS2 Scancode output
+    input              ready,
     output logic [7:0] scancode,
-    output logic       send
+    output logic       send,
+    output wire shifts
 );
-    logic                   [7:0] buffer [BUFFER_SIZE];
+    logic                     [7:0] buffer [0:BUFFER_SIZE-1];
     logic [$clog2(BUFFER_SIZE)-1:0] waddress;
     logic [$clog2(BUFFER_SIZE)-1:0] raddress;
-    logic                         shift_state;
 
-    // For all ascii, 
     wire [7:0] scancode_press;
     wire shift;
+    assign shifts = shift;
 
     scancode_translator translator(
         .ascii(ascii),
@@ -27,36 +29,32 @@ module ascii2ps2 #(
     );
 
     always_ff @(posedge clk) begin
-        if (latch) begin
-
-            shift_state <= shift;
-
+        if (reset) begin
+            scancode = 0;
+            send = 0;
+            waddress = 0;
+            raddress = 0;
+        end else begin
+        if (latch && ((raddress == BUFFER_SIZE-1) ? 0 : raddress+1) != waddress) begin
             // Shifts
-            if (shift != shift_state) begin
-                buffer[waddress] <= 8'h12;
+            if (shift) begin
+                buffer[waddress] <= 8'h12; // Press shift
                 buffer[waddress+1] <= scancode_press;
                 buffer[waddress+2] <= 8'hF0;
 
-                if (waddress >= BUFFER_SIZE-4) begin
+                if (waddress >= BUFFER_SIZE-3) begin
                     buffer[0] <= scancode_press;
 
+                    // Release shift
                     buffer[1] <= 8'hF0;
                     buffer[2] <= 8'h12;
                 end else begin
-                    buffer[waddress] <= scancode_press;
+                    buffer[waddress+3] <= scancode_press;
 
-                    buffer[waddress+1] <= 8'hF0;
-                    buffer[waddress+2] <= 8'h12;
+                    buffer[waddress+4] <= 8'hF0;
+                    buffer[waddress+5] <= 8'h12;
                 end
-            end else begin
-                buffer[waddress] <= scancode_press;
-                buffer[waddress+1] <= 8'hF0;
-                buffer[waddress+2] <= scancode_press;
-            end
 
-            if (waddress >= BUFFER_SIZE-3) begin
-                waddress <= 0;
-            end else if (shift != shift_state) begin 
                 if (waddress >= BUFFER_SIZE-3) begin
                     waddress <= 3;
                 end else if (waddress >= BUFFER_SIZE-6) begin
@@ -65,13 +63,22 @@ module ascii2ps2 #(
                     waddress <= waddress + 6;
                 end
             end else begin
-                waddress <= waddress + 3;
+                // No shift
+                buffer[waddress] <= scancode_press;
+                buffer[waddress+1] <= 8'hF0;
+                buffer[waddress+2] <= scancode_press;
+
+                if (waddress >= BUFFER_SIZE-3) begin
+                    waddress <= 0;
+                end else begin
+                    waddress <= waddress + 3;
+                end
             end
         end
 
         if (send) begin
-            send <= 0; // Send should be pulse
-        end else if (waddress != raddress) begin
+            send <= 0; // Send should be pulse of 1 clk cycle
+        end else if (waddress != raddress && ready) begin
             // We need to send some characters
             send <= 1;
             scancode <= buffer[raddress];
@@ -81,6 +88,7 @@ module ascii2ps2 #(
             end else begin
                 raddress <= raddress + 1;
             end
+        end
         end
     end
 endmodule

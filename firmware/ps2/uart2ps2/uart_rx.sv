@@ -3,8 +3,10 @@ module uart_rx #(
 	parameter BAUD_RATE = 115200,
 	parameter BITS = 8
 ) (
-	input                   clk,
-	input                   rx,
+    // TODO: Stop uart on buffer full
+	input clk,
+    input reset,
+	input rx,
 
 	output logic            finish,
 	output logic [BITS-1:0] data
@@ -16,15 +18,16 @@ module uart_rx #(
 
 	enum {IDLE, START, TRANSMISSION, STOP} state;
 
-	initial begin
-		finish = 1'b0;
-		data = 0;
-		clkd = 0;
-		index = 0;
-		state = IDLE;
-	end
-
 	always_ff @(posedge clk) begin
+        if (reset) begin
+            finish = 0;
+            data = 0;
+
+            clkd = 0;
+            index = 0;
+
+            state = IDLE;
+        end else begin
 		case (state)
 		IDLE: begin
 			clkd <= 0;
@@ -76,5 +79,6 @@ module uart_rx #(
 			end
 		end
 		endcase
+        end
 	end
 endmodule
