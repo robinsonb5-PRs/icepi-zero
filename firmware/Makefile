@@ -10,7 +10,8 @@ all: debug
 	yosys -p 'synth_ecp5 -top top -json $@' $^
 
 %.config: %.json icepi-zero.lpf
-	nextpnr-ecp5 --25k --package $(PACKAGE) --lpf icepi-zero.lpf --json $< --textcfg $@
+	nextpnr-ecp5 --25k --package $(PACKAGE) --lpf icepi-zero.lpf --json $< --textcfg $@ # 2> log.txt
+	# cat log.txt | grep Device -A 28
 
 %.bit: %.config
 	ecppack $< $@
