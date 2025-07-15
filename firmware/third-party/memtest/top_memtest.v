@@ -11,7 +11,7 @@
 module top
 (
     input         clk,
-    input         button,
+    input   [1:0] button,
     input  [27:0] gpio,
     output  [4:0] led,
     output  [3:0] gpdi_dp,
@@ -25,7 +25,7 @@ module top
     output [12:0] sdram_a,    // SDRAM address bus
     output  [1:0] sdram_ba,   // SDRAM bank-address
     output  [1:0] sdram_dqm,  // byte select
-    inout  [15:0] sdram_d     // data bus to/from SDRAM	
+    inout  [15:0] sdram_dq     // data bus to/from SDRAM	
 );
     parameter C_ddr = 1'b1; // 0:SDR 1:DDR
     parameter C_clk_pixel_Hz  =  27500000; // Hz
@@ -73,8 +73,8 @@ module top
     btn_ecp5pll_phase_inst
     (
       .clk(clk_gui),
-      .inc(button & ~gpio[0]),
-      .dec(button & gpio[0]),
+      .inc(~button[1]),
+      .dec(~button[0]),
       .phase(S_phase),
       .phasedir(S_phasedir),
       .phasestep(S_phasestep),
@@ -379,7 +379,7 @@ module top
 	.rst_n(resetn),
 	.passcount(passcount),
 	.failcount(failcount),
-	.DRAM_DQ(sdram_d),
+	.DRAM_DQ(sdram_dq),
 	.DRAM_ADDR(sdram_a),
 	.DRAM_LDQM(sdram_dqm[0]),
 	.DRAM_UDQM(sdram_dqm[1]),
