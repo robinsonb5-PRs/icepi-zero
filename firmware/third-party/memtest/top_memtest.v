@@ -31,7 +31,7 @@ module top
     parameter C_clk_pixel_Hz  =  27500000; // Hz
     parameter C_clk_gui_Hz    =  50000000; // Hz
     parameter C_clk_sdram_Hz  = 112500000; // Hz
-    parameter C_sdram_clk_deg =       120; // deg phase shift for chip
+    parameter C_sdram_clk_deg =       160; // deg phase shift for chip
     parameter C_size_MB = 32; // 8/16/32/64 MB
 
     localparam [31:0] C_sec_max = C_clk_gui_Hz - 1;
@@ -404,9 +404,9 @@ module top
         .rez1(passcount),
         .rez2(failcount),
         // disabled to shorten compile time
-//        .mark(8'h80 >> secs[2:0]),
-//        .elapsed(mins),
-//        .freq(C_clk_sdram_bcd),
+        .mark(8'h80 >> secs[2:0]),
+        .elapsed(mins),
+        // .freq(C_clk_sdram_bcd),
         .freq(S_phase),
         .hs(vga_hsync),
         .vs(vga_vsync),
