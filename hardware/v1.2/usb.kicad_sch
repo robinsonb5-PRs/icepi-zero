@@ -7684,7 +7684,7 @@
 		(uuid "6a6736e8-e2b6-40b0-8861-d45f358d4fa6")
 	)
 	(junction
-		(at 97.79 185.42)
+		(at 96.52 185.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7b18071f-8aad-4e24-a074-60fb844c22aa")
@@ -7720,7 +7720,7 @@
 		(uuid "8cc5b4ee-abe5-4e11-afc3-c58efc0ea3f9")
 	)
 	(junction
-		(at 119.38 185.42)
+		(at 118.11 185.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8ea8f528-492c-4f69-be74-ba45c1b6146a")
@@ -7901,7 +7901,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 187.96) (xy 119.38 187.96)
+			(xy 116.84 187.96) (xy 118.11 187.96)
 		)
 		(stroke
 			(width 0)
@@ -8141,7 +8141,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 182.88) (xy 99.06 182.88)
+			(xy 96.52 182.88) (xy 97.79 182.88)
 		)
 		(stroke
 			(width 0)
@@ -8311,7 +8311,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 185.42) (xy 135.89 185.42)
+			(xy 118.11 185.42) (xy 135.89 185.42)
 		)
 		(stroke
 			(width 0)
@@ -8421,7 +8421,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 185.42) (xy 97.79 185.42)
+			(xy 90.17 185.42) (xy 96.52 185.42)
 		)
 		(stroke
 			(width 0)
@@ -8691,7 +8691,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 185.42) (xy 119.38 187.96)
+			(xy 118.11 185.42) (xy 118.11 187.96)
 		)
 		(stroke
 			(width 0)
@@ -8701,7 +8701,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 187.96) (xy 99.06 187.96)
+			(xy 96.52 187.96) (xy 97.79 187.96)
 		)
 		(stroke
 			(width 0)
@@ -8721,7 +8721,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 187.96) (xy 110.49 187.96)
+			(xy 105.41 187.96) (xy 109.22 187.96)
 		)
 		(stroke
 			(width 0)
@@ -8861,7 +8861,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 187.96) (xy 97.79 185.42)
+			(xy 96.52 187.96) (xy 96.52 185.42)
 		)
 		(stroke
 			(width 0)
@@ -8911,7 +8911,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 182.88) (xy 119.38 182.88)
+			(xy 116.84 182.88) (xy 118.11 182.88)
 		)
 		(stroke
 			(width 0)
@@ -9031,7 +9031,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 182.88) (xy 110.49 182.88)
+			(xy 105.41 182.88) (xy 109.22 182.88)
 		)
 		(stroke
 			(width 0)
@@ -9151,7 +9151,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 182.88) (xy 119.38 185.42)
+			(xy 118.11 182.88) (xy 118.11 185.42)
 		)
 		(stroke
 			(width 0)
@@ -9581,7 +9581,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 185.42) (xy 97.79 182.88)
+			(xy 96.52 185.42) (xy 96.52 182.88)
 		)
 		(stroke
 			(width 0)
@@ -9960,7 +9960,7 @@
 		(uuid "67e6753f-8661-4791-809a-1cd878c2acd3")
 	)
 	(label "D0+"
-		(at 92.71 185.42 0)
+		(at 90.17 185.42 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11383,7 +11383,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N914WT")
-		(at 114.3 182.88 0)
+		(at 113.03 182.88 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11392,7 +11392,7 @@
 		(dnp no)
 		(uuid "2c72bc2f-9ac6-4db5-8524-40c04f4217fa")
 		(property "Reference" "D13"
-			(at 114.3 176.53 0)
+			(at 113.03 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11400,7 +11400,7 @@
 			)
 		)
 		(property "Value" "1N914WT"
-			(at 114.3 179.07 0)
+			(at 113.03 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11408,7 +11408,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 114.3 178.435 0)
+			(at 113.03 178.435 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11417,7 +11417,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.mouser.com/ds/2/149/1N4148WT-461550.pdf"
-			(at 114.3 182.88 0)
+			(at 113.03 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11426,7 +11426,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 114.3 182.88 0)
+			(at 113.03 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11435,7 +11435,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 114.3 182.88 0)
+			(at 113.03 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11444,7 +11444,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 114.3 182.88 0)
+			(at 113.03 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11453,7 +11453,7 @@
 			)
 		)
 		(property "LCSC Part #" "C2836064"
-			(at 114.3 182.88 0)
+			(at 113.03 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12398,7 +12398,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N914WT")
-		(at 114.3 187.96 0)
+		(at 113.03 187.96 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12407,7 +12407,7 @@
 		(dnp no)
 		(uuid "60025680-0907-42c3-823d-1c9f9d32ad45")
 		(property "Reference" "D14"
-			(at 114.3 194.31 0)
+			(at 113.03 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12415,7 +12415,7 @@
 			)
 		)
 		(property "Value" "1N914WT"
-			(at 114.3 191.77 0)
+			(at 113.03 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12423,7 +12423,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 114.3 192.405 0)
+			(at 113.03 192.405 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12432,7 +12432,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.mouser.com/ds/2/149/1N4148WT-461550.pdf"
-			(at 114.3 187.96 0)
+			(at 113.03 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12441,7 +12441,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 114.3 187.96 0)
+			(at 113.03 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12450,7 +12450,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 114.3 187.96 0)
+			(at 113.03 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12459,7 +12459,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 114.3 187.96 0)
+			(at 113.03 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12468,7 +12468,7 @@
 			)
 		)
 		(property "LCSC Part #" "C2836064"
-			(at 114.3 187.96 0)
+			(at 113.03 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15716,7 +15716,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 102.87 187.96 270)
+		(at 101.6 187.96 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15724,7 +15724,7 @@
 		(dnp no)
 		(uuid "d97de23f-7c62-44d6-9cd8-db127b20fbac")
 		(property "Reference" "R42"
-			(at 102.87 190.246 90)
+			(at 101.6 190.246 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15732,7 +15732,7 @@
 			)
 		)
 		(property "Value" "15k"
-			(at 102.87 187.96 90)
+			(at 101.6 187.96 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15740,7 +15740,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 102.87 186.182 90)
+			(at 101.6 186.182 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15749,7 +15749,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 102.87 187.96 0)
+			(at 101.6 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15758,7 +15758,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 102.87 187.96 0)
+			(at 101.6 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15767,7 +15767,7 @@
 			)
 		)
 		(property "LCSC Part #" "C25756"
-			(at 102.87 187.96 0)
+			(at 101.6 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15858,7 +15858,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 102.87 182.88 270)
+		(at 101.6 182.88 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15867,7 +15867,7 @@
 		(dnp no)
 		(uuid "e6fc4b1a-201e-4477-aa54-621b32127f67")
 		(property "Reference" "R41"
-			(at 102.87 180.594 90)
+			(at 101.6 180.594 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15875,7 +15875,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 102.87 182.88 90)
+			(at 101.6 182.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15883,7 +15883,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 102.87 184.658 90)
+			(at 101.6 184.658 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15892,7 +15892,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 102.87 182.88 0)
+			(at 101.6 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15901,7 +15901,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 102.87 182.88 0)
+			(at 101.6 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15910,7 +15910,7 @@
 			)
 		)
 		(property "LCSC Part #" "C11702"
-			(at 102.87 182.88 0)
+			(at 101.6 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)

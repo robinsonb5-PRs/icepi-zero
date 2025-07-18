@@ -9633,21 +9633,21 @@
 		(fields_autoplaced yes)
 		(uuid "332d777b-1a2c-4e50-bd81-dcc507ecf323")
 		(property "Reference" "C43"
-			(at 210.82 44.4562 0)
+			(at 215.9 44.4562 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "100nF"
-			(at 210.82 46.9962 0)
+			(at 215.9 46.9962 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
@@ -9713,21 +9713,21 @@
 		(fields_autoplaced yes)
 		(uuid "56a2e96d-05f8-4ed4-bc02-6446b81e91e0")
 		(property "Reference" "C41"
-			(at 234.95 44.4562 0)
+			(at 240.03 44.4562 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "100nF"
-			(at 234.95 46.9962 0)
+			(at 240.03 46.9962 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
@@ -9793,21 +9793,21 @@
 		(fields_autoplaced yes)
 		(uuid "5aa39693-9e53-42c7-b11b-b25d0170e3e4")
 		(property "Reference" "C44"
-			(at 198.12 44.4562 0)
+			(at 203.2 44.4562 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "100nF"
-			(at 198.12 46.9962 0)
+			(at 203.2 46.9962 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
@@ -10175,21 +10175,21 @@
 		(fields_autoplaced yes)
 		(uuid "7ec3a675-12f1-44f9-b8f7-afa7d16b56f0")
 		(property "Reference" "C40"
-			(at 246.38 44.4562 0)
+			(at 251.46 44.4562 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "100nF"
-			(at 246.38 46.9962 0)
+			(at 251.46 46.9962 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
@@ -10255,21 +10255,21 @@
 		(fields_autoplaced yes)
 		(uuid "9ec2e3d4-21e6-43dd-8d27-c4409e5572fc")
 		(property "Reference" "C39"
-			(at 257.81 44.4562 0)
+			(at 262.89 44.4562 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "100nF"
-			(at 257.81 46.9962 0)
+			(at 262.89 46.9962 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
@@ -11244,24 +11244,24 @@
 		(fields_autoplaced yes)
 		(uuid "f3b96b9a-9747-4038-9261-49c4da29bd90")
 		(property "Reference" "C42"
-			(at 223.52 44.4562 0)
+			(at 228.6 44.4562 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "10uF"
-			(at 223.52 46.9962 0)
+		(property "Value" "100nF"
+			(at 228.6 46.9962 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 226.06 45.72 0)
 			(effects
 				(font
@@ -11288,7 +11288,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C19702"
+		(property "LCSC Part #" "C307331 "
 			(at 226.06 45.72 0)
 			(effects
 				(font

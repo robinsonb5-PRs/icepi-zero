@@ -72,8 +72,9 @@ wire [DRAM_DATA_SIZE-1:0] dram_rdat;
 
 
 
+/*
 // FIXME combinatorial loop in sdram_control
-sdram_control my_dram
+sdramo my_dram
 (
 	.rst_n(rst_n),
 	.clk(clk),
@@ -95,10 +96,49 @@ sdram_control my_dram
 	.DRAM_BA_0(DRAM_BA_0),
 	.DRAM_BA_1(DRAM_BA_1)
 );
-defparam my_dram.DRAM_DATA_SIZE = DRAM_DATA_SIZE;
-defparam my_dram.DRAM_COL_SIZE  = DRAM_COL_SIZE;
-defparam my_dram.DRAM_ROW_SIZE  = DRAM_ROW_SIZE;
+*/
 
+wire we;
+  wire [15:0] sd_data_in;
+  wire [15:0] sd_data_out;
+  assign DRAM_DQ = (!we) ? 16'hzzzz : sd_data_out;
+  assign sd_data_in = DRAM_DQ;
+
+  sdram
+  sdram_i
+  (
+   .sd_data_in(sd_data_in),
+   .sd_data_out(sd_data_out),
+   .sd_addr(DRAM_ADDR),
+   .sd_dqm({DRAM_UDQM, DRAM_LDQM}),
+   .sd_cs(DRAM_CS_N),
+   .sd_ba({DRAM_BA_1, DRAM_BA_0}),
+   .sd_we(DRAM_WE_N),
+   .sd_ras(DRAM_RAS_N),
+   .sd_cas(DRAM_VAS_N),
+   // system interface
+   .clk(clk),
+
+   .clkref(clk),
+   .init(dram_start),
+   .we_out(we),
+
+   // cpu/chipset interface
+   .addrA     	   (),
+   .addrB          (),
+
+   .weA            (!rnw),
+   .weB            (),
+
+   .dinA           (),
+   .dinB           (),
+
+   .oeA            (rnw),
+   .doutA          (dram_rdat),
+
+   .oeB            (),
+   .doutB          ()
+  );
 
 
 

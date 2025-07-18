@@ -24,13 +24,13 @@ debug: build
 install: build
 	openFPGALoader -cft231X --pins=7:3:5:6 $(OUTPUT).bit --write-flash
 
-install-bitstream: 
+install-bitstream:
 	openFPGALoader -cft231X --pins=7:3:5:6 $(OUTPUT).bit --write-flash
 
 lint:
 	verilator --lint-only -Wall -Wno-DECLFILENAME -Wno-WIDTHEXPAND $(VERILOG_SOURCES)
 
-help: 
+help:
 	echo "Usage: make [option]"
 	echo "Options:"
 	echo "- install: install to flash"

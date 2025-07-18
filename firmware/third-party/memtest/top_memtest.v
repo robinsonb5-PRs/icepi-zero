@@ -31,7 +31,7 @@ module top
     parameter C_clk_pixel_Hz  =  27500000; // Hz
     parameter C_clk_gui_Hz    =  50000000; // Hz
     parameter C_clk_sdram_Hz  = 112500000; // Hz
-    parameter C_sdram_clk_deg =       160; // deg phase shift for chip
+    parameter C_sdram_clk_deg =       170; // deg phase shift for chip
     parameter C_size_MB = 32; // 8/16/32/64 MB
 
     localparam [31:0] C_sec_max = C_clk_gui_Hz - 1;
@@ -64,6 +64,10 @@ module top
     wire clk_pixel = clocks[1];
     wire clk_sys   = clocks[2];
     wire clk_gui   = clk_pixel;
+
+    wire S_phasedir;
+    wire S_phasestep;
+    wire S_phaseloadreg;
 
     wire [7:0] S_phase;
     btn_ecp5pll_phase
