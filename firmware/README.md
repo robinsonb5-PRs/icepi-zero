@@ -82,9 +82,13 @@ I will be pull requesting these in the next few days:
 
 [Port of Icestudio](https://github.com/cheyao/icestudio)
 
+[Port of Silice](https://github.com/cheyao/Silice)
+
 And here are some retro ports:
 
 [Apple 1 Emulator](https://github.com/cheyao/apple-one) ported to Icepi Zero
 
 [Port of Acorn Atom](https://github.com/cheyao/acorn_atom)
+
+[Port of Silice](https://github.com/cheyao/Silice) (Check out the projects folder - it's full of interesting stuff)
 
