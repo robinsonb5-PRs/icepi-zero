@@ -4,9 +4,9 @@
 
 ## What is the Icepi Zero?
 
-Icepi Zero is an economical FPGA development board with a Raspberry Pi Zero form factor. It carries a Lattice ECP5 25F, enabling powerful designs while keeping a small portable size. It also has a HDM- port allowing easy digital video output.
+[**Now on Crowd Supply**](https://www.crowdsupply.com/icy-electronics/icepi-zero)!
 
-[View PCB online](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fcheyao%2Ficepi-zero%2Ftree%2Fmain%2Fhardware%2Fv1.2)
+Icepi Zero is an economical FPGA development board with a Raspberry Pi Zero form factor. It carries a Lattice ECP5 25F, enabling powerful designs while keeping a small portable size. It also has a HDM- port allowing easy digital video output.
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ec8ed16af61150195ea388c32047b6e1b9825b63_image.png)
 
@@ -57,6 +57,8 @@ For the PCB, the smallest component size is 0201 for 27 Ohm resistors on the USB
 NOTE: If you fabbed v1.1 before 01/06, the pins of the USB pullups and LED0 is different - check your gerbers.
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f69c12e074c8481cb4458c897d8b994328fb4a49_tilted-view-of-icepi-alone-transparent-bg.png)
+
+[View PCB online](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fcheyao%2Ficepi-zero%2Ftree%2Fmain%2Fhardware%2Fv1.2)
 
 ## Contact
 
