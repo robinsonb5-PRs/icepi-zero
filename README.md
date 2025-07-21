@@ -64,4 +64,3 @@ NOTE: If you fabbed v1.1 before 01/06, the pins of the USB pullups and LED0 is d
 
 If there is any questions DM `@Cyao` on Hackclub Slack or `cyao.` on Discord. Mail is also accepted at `cyao _at_ duck.com`.
 
-Thanks Hackclub for sponsoring this! Check out [highway & undercity, a hackathon at Github HQ](https://highway.hackclub.com/?ref=recg6V5Pj0JbZghRM)
