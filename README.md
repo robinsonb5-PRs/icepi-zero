@@ -6,7 +6,7 @@
 
 [**Now on Crowd Supply**](https://www.crowdsupply.com/icy-electronics/icepi-zero)!
 
-Icepi Zero is an FPGA development board in the popular Raspberry Pi Zero form factor. It carries a Lattice ECP5 25F, enabling powerful designs while keeping a small portable size. It also has a HDM- port allowing easy digital video output.
+Icepi Zero is an FPGA development board in the popular Raspberry Pi Zero form factor. It carries a Lattice ECP5 25F, enabling powerful designs while keeping a small portable size. It also has a GPIO port allowing easy digital video output.
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ec8ed16af61150195ea388c32047b6e1b9825b63_image.png)
 
