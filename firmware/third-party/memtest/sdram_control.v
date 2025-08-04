@@ -56,7 +56,9 @@ parameter cmdBST  = 3'b110, // burst stop
 parameter cmdREF  = 3'b001, // refresh
 
 parameter mrsMODE = 14'b00000000110111, // cas latency=2/3, sequential fullpage burst
+//parameter mrsMODE = 14'b00001000110000, 
 
+// localparam RASCAS_DELAY   = 3'd2;   // tRCD=20ns -> 2 cycles@85MHz
 // some timing constants
 parameter CTR200US_SIZE = 15 // multifunctional counter with a maximum delay for startup 200us-minimum pause
 )

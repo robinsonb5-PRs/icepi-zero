@@ -72,9 +72,8 @@ wire [DRAM_DATA_SIZE-1:0] dram_rdat;
 
 
 
-/*
 // FIXME combinatorial loop in sdram_control
-sdramo my_dram
+sdram_control my_dram
 (
 	.rst_n(rst_n),
 	.clk(clk),
@@ -96,8 +95,7 @@ sdramo my_dram
 	.DRAM_BA_0(DRAM_BA_0),
 	.DRAM_BA_1(DRAM_BA_1)
 );
-*/
-
+/*
 wire we;
   wire [15:0] sd_data_in;
   wire [15:0] sd_data_out;
@@ -139,6 +137,7 @@ wire we;
    .oeB            (),
    .doutB          ()
   );
+*/
 
 
 

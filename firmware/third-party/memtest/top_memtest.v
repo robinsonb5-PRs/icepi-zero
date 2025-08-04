@@ -30,8 +30,8 @@ module top
     parameter C_ddr = 1'b1; // 0:SDR 1:DDR
     parameter C_clk_pixel_Hz  =  27500000; // Hz
     parameter C_clk_gui_Hz    =  50000000; // Hz
-    parameter C_clk_sdram_Hz  = 112500000; // Hz
-    parameter C_sdram_clk_deg =       170; // deg phase shift for chip
+    parameter C_clk_sdram_Hz  =  85714285; // Hz
+    parameter C_sdram_clk_deg =        170; // deg phase shift for chip
     parameter C_size_MB = 32; // 8/16/32/64 MB
 
     localparam [31:0] C_sec_max = C_clk_gui_Hz - 1;

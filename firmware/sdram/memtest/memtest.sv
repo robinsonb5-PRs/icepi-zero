@@ -127,7 +127,7 @@ module top (
             led[4] <= 0;
 
             if (advance_last != advance && advance) begin
-                led[3:0] <= dout[3:0];
+                led[4:0] <= dout[4:0];
                 addr <= addr + 1;
                 astrobe <= 1;
             end 

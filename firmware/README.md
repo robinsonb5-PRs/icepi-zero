@@ -29,7 +29,7 @@ Just `cd` into the directories, and type `make`!
 
 - `make` runs `make debug`
 - `make debug` installs the program to chip (bitstream is lost on power loss)
-- `make install` installs the program to flash
+- `make install` installs the program to flash (bitstream is retained on power loss)
 - `make install-bitstream` installs the `bitstream.bit` file to flash without rebuilding
 - `make build` builds the bitstream (bitstream is retained on power loss)
 - `make clean` deletes all the temporary files

@@ -4603,25 +4603,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 58.42 33.02 180)
-				(length 5.08)
-				(name "PL26D/-/LDQ32/PCLK6_0"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "M2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 58.42 30.48 180)
+				(at 58.42 27.94 180)
 				(length 5.08)
 				(name "PR47B/0/HS/RDQ44"
 					(effects
@@ -4631,24 +4613,6 @@
 					)
 				)
 				(number "N11"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 58.42 27.94 180)
-				(length 5.08)
-				(name "PR47C/+/RSQ44/LRC_GPLL0T_IN"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "P11"
 					(effects
 						(font
 							(size 1.27 1.27)

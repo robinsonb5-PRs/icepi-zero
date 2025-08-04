@@ -2,9 +2,9 @@
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d2e1d2fe540b8c4ee1d35ecd6e0287b981d7ee8d_image.png)
 
-## What is the Icepi Zero?
+## [**Now on Crowd Supply**](https://www.crowdsupply.com/icy-electronics/icepi-zero)!
 
-[**Now on Crowd Supply**](https://www.crowdsupply.com/icy-electronics/icepi-zero)!
+## What is the Icepi Zero?
 
 Icepi Zero is an FPGA development board in the popular Raspberry Pi Zero form factor. It carries a Lattice ECP5 25F, enabling powerful designs while keeping a small portable size. It also has a GPDI mini (General Purpose Display Interface, same as the one on the Pi Zero) port allowing easy digital video output.
 
@@ -16,13 +16,18 @@ Currently most powerful FPGA boards on the market are expensive and bulky.
 
 I've always wanted a low-cost portable FPGA with video output to make my own CPU, but there isn't any on the market.
 
-The Icepi Zero aims to fix this. Carrying a powerful ECP5 FPGA on a small Raspberry Pi Zero form factor, it is the ultimate portable solution for FPGA development. Additionally packing a HDM- mini port and 3 USB-C ports, it allows interfacing with multiple external I/O devices.
+The Icepi Zero aims to fix this. Carrying a powerful ECP5 FPGA on a small Raspberry Pi Zero form factor, it is the ultimate portable solution for FPGA development. Additionally packing a GPDI mini port and 3 USB-C ports, it allows interfacing with multiple external I/O devices.
 
-Icepi Zero is for everyone: Students can use it to learn about the internals of modern processors. Gamers can use it to emulate old hardware. Programmers can use it to test their code on multiple architecture.
+Icepi Zero is for everyone: Students can use it to learn about the internals of modern processors. Gamers can use it to emulate old hardware. Programmers can use it to test their code on multiple architectures.
 
-Icepi Zero also has an on-board USB to JTAG converter, so no external programmers are needed. Moreover Icepi Zero is fully open-source, no strings attached. Fabricate your own boards if you want one! ([OSHWA cerified FR000026](https://certification.oshwa.org/fr000026.html))
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c54331474c144bc27c2b45516c9c1ce08d255347_oberon.jpg)
+<sub>Oberon running on Icepi Zero</sub>
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a6690d6e952f533cc95823e3fc1565726f22daf8_image.png)
+Icepi Zero also has an on-board USB to JTAG converter, so no external programmers are needed.
+
+Moreover Icepi Zero is fully open-source, no strings attached. Learn from the design! ([OSHWA cerified FR000026](https://certification.oshwa.org/fr000026.html)).
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b501d635390ef06f12c4c37c4c1b6a37fe7454fe_icepi-zero-front-01.png)
 
 ## Features
 
@@ -41,6 +46,18 @@ Icepi Zero also has an on-board USB to JTAG converter, so no external programmer
 - 1 user button
 
 This powerful configuration allows the PCB to be used in numerous ways, including real time video processing, hardware AI acceleration and prototyping of ASICs. 
+
+## Emulation
+
+Over the course of multiple weeks, multiple emulation cores have been ported over, such as the [Oberon](https://github.com/cheyao/oberon), [Apple I](https://github.com/cheyao/apple-one) and the [Acorn Atom](https://github.com/cheyao/acorn_atom)! The Icepi Zero allows you to take cycle accurate replicas of your favourite systems in your pocket.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/198b4634600531889c6a230ef982c04a4cde8dec_apple-one-on-icepi.jpg)
+<sub>Apple I running on the Icepi</sub>
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/095c8f1203594553847b7ff3211bd4d95e5d0e4b_acorn.jpg)
+<sub>Acorn Atom running on the Icepi</sub>
+
+## Learning
 
 It is also supported by icestudio (custom fork: https://github.com/cheyao/icestudio), allowing easy access for beginners.
 
