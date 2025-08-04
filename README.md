@@ -27,7 +27,7 @@ Icepi Zero also has an on-board USB to JTAG converter, so no external programmer
 
 Moreover Icepi Zero is fully open-source, no strings attached. Learn from the design! ([OSHWA cerified FR000026](https://certification.oshwa.org/fr000026.html)).
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b501d635390ef06f12c4c37c4c1b6a37fe7454fe_icepi-zero-front-01.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6fcc333124d976879bf3e3a98992cec9b0ab064f_icepi-zero-front-01-transparent.png)
 
 ## Features
 
@@ -51,7 +51,7 @@ This powerful configuration allows the PCB to be used in numerous ways, includin
 
 Over the course of multiple weeks, multiple emulation cores have been ported over, such as the [Oberon](https://github.com/cheyao/oberon), [Apple I](https://github.com/cheyao/apple-one) and the [Acorn Atom](https://github.com/cheyao/acorn_atom)! The Icepi Zero allows you to take cycle accurate replicas of your favourite systems in your pocket.
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/198b4634600531889c6a230ef982c04a4cde8dec_apple-one-on-icepi.jpg)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/51089b5efbb832cdeff60fad0770c74376546e43_apple-one-on-icepi-compressed.jpg)
 <sub>Apple I running on the Icepi</sub>
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/095c8f1203594553847b7ff3211bd4d95e5d0e4b_acorn.jpg)
