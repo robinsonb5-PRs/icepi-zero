@@ -11299,7 +11299,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2uH"
+		(property "Value" "2.2uH 100mA+ 400mO-"
 			(at 229.87 104.14 90)
 			(effects
 				(font
@@ -11334,7 +11334,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C1043"
+		(property "LCSC Part #" "C107322"
 			(at 229.87 106.68 0)
 			(effects
 				(font
@@ -11343,7 +11343,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/Inductors-SMD_FH-CMI201209U2R2KT_C1043.html"
+		(property "LCSC Link" "https://lcsc.com/product-detail/C107322.html"
 			(at 229.87 106.68 90)
 			(effects
 				(font
@@ -11352,7 +11352,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactuer Part Number" "CMI201209U2R2KT"
+		(property "Manufactuer Part Number" "TDK MLP2012S2R2MT0S1"
 			(at 229.87 106.68 90)
 			(effects
 				(font
@@ -13625,7 +13625,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2uH"
+		(property "Value" "2.2uH 100mA+ 400mO-"
 			(at 229.87 36.83 90)
 			(effects
 				(font
@@ -13660,7 +13660,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C1043"
+		(property "LCSC Part #" "C107322"
 			(at 229.87 39.37 0)
 			(effects
 				(font
@@ -13669,7 +13669,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/Inductors-SMD_FH-CMI201209U2R2KT_C1043.html"
+		(property "LCSC Link" "https://lcsc.com/product-detail/C107322.html"
 			(at 229.87 39.37 90)
 			(effects
 				(font
@@ -13678,7 +13678,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactuer Part Number" "CMI201209U2R2KT"
+		(property "Manufactuer Part Number" "TDK MLP2012S2R2MT0S1"
 			(at 229.87 39.37 90)
 			(effects
 				(font
@@ -17551,7 +17551,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2uH"
+		(property "Value" "2.2uH 100mA+ 400mO-"
 			(at 229.87 69.85 90)
 			(effects
 				(font
@@ -17586,7 +17586,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C1043"
+		(property "LCSC Part #" "C107322"
 			(at 229.87 72.39 0)
 			(effects
 				(font
@@ -17595,7 +17595,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/Inductors-SMD_FH-CMI201209U2R2KT_C1043.html"
+		(property "LCSC Link" "https://lcsc.com/product-detail/C107322.html"
 			(at 229.87 72.39 90)
 			(effects
 				(font
@@ -17604,7 +17604,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactuer Part Number" "CMI201209U2R2KT"
+		(property "Manufactuer Part Number" "TDK MLP2012S2R2MT0S1"
 			(at 229.87 72.39 90)
 			(effects
 				(font
