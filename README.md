@@ -20,14 +20,14 @@ The Icepi Zero aims to fix this. Carrying a powerful ECP5 FPGA on a small Raspbe
 
 Icepi Zero is for everyone: Students can use it to learn about the internals of modern processors. Gamers can use it to emulate old hardware. Programmers can use it to test their code on multiple architectures.
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c54331474c144bc27c2b45516c9c1ce08d255347_oberon.jpg)
+![](gallery/oberon-on-icepi.jpg)
 <sub>Oberon running on Icepi Zero</sub>
 
 Icepi Zero also has an on-board USB to JTAG converter, so no external programmers are needed.
 
 Moreover Icepi Zero is fully open-source, no strings attached. Learn from the design! ([OSHWA cerified FR000026](https://certification.oshwa.org/fr000026.html)).
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6fcc333124d976879bf3e3a98992cec9b0ab064f_icepi-zero-front-01-transparent.png)
+![](gallery/icepi-front-transparent.png)
 
 ## Features
 
@@ -51,17 +51,17 @@ This powerful configuration allows the PCB to be used in numerous ways, includin
 
 Over the course of multiple weeks, multiple emulation cores have been ported over, such as the [Oberon](https://github.com/cheyao/oberon), [Apple I](https://github.com/cheyao/apple-one) and the [Acorn Atom](https://github.com/cheyao/acorn_atom)! The Icepi Zero allows you to take cycle accurate replicas of your favourite systems in your pocket.
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/51089b5efbb832cdeff60fad0770c74376546e43_apple-one-on-icepi-compressed.jpg)
+![](gallery/apple-one-on-icepi.jpg)
 <sub>Apple I running on the Icepi</sub>
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/095c8f1203594553847b7ff3211bd4d95e5d0e4b_acorn.jpg)
+![](gallery/acorn-on-icepi.jpg)
 <sub>Acorn Atom running on the Icepi</sub>
 
 ## Learning
 
 It is also supported by icestudio (custom fork: https://github.com/cheyao/icestudio), allowing easy access for beginners.
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/defb6e67b2f56987a1456436e394a12d857fbf74_icestudio-ide-view.png)
+![](gallery/icestudio-editor-ui.png)
 
 ## Usage
 
@@ -73,7 +73,7 @@ For the PCB, the smallest component size is 0201 for 27 Ohm resistors on the USB
 
 NOTE: If you fabbed v1.1 before 01/06, the pins of the USB pullups and LED0 is different - check your gerbers.
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f69c12e074c8481cb4458c897d8b994328fb4a49_tilted-view-of-icepi-alone-transparent-bg.png)
+![](gallery/icepi-tilted-transparent.png)
 
 [View PCB online](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fcheyao%2Ficepi-zero%2Ftree%2Fmain%2Fhardware%2Fv1.2)
 
