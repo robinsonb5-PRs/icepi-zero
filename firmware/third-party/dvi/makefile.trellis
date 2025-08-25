@@ -1,0 +1,31 @@
+# ******* project, board and chip name *******
+PROJECT = dvi
+BOARD = icepi_zero
+# 12 25 45 85
+FPGA_SIZE = 25
+FPGA_PACKAGE = CABGA256
+
+# ******* design files *******
+CONSTRAINTS = icepi-zero.lpf
+# CONSTRAINTS = ../../constraints/ulx3s_v316.lpf
+TOP_MODULE = top_vgatest
+TOP_MODULE_FILE = top/$(TOP_MODULE).v
+
+VERILOG_FILES = \
+  $(TOP_MODULE_FILE) \
+  ../ecp5pll/hdl/sv/ecp5pll.sv \
+
+# *.vhd those files will be converted to *.v files with vhdl2vl (warning overwriting/deleting)
+VHDL_FILES = \
+  hdl/vga.vhd \
+  hdl/vga2dvid.vhd \
+  hdl/tmds_encoder.vhd
+
+# synthesis options
+#YOSYS_OPTIONS = -noccu2
+NEXTPNR_OPTIONS = --timing-allow-fail
+
+SCRIPTS = ../../scripts
+include $(SCRIPTS)/diamond_path.mk
+include $(SCRIPTS)/trellis_path.mk
+include $(SCRIPTS)/trellis_main.mk
