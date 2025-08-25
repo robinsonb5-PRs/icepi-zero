@@ -1,0 +1,43 @@
+# ******* project, board and chip name *******
+PROJECT = dvi_osd
+BOARD = ulx3s
+# 12 25 45 85
+FPGA_SIZE = 12
+FPGA_PACKAGE = CABGA381
+
+# ******* if programming with OpenOCD *******
+# using local latest openocd until in linux distribution
+OPENOCD=openocd_ft232r
+# default onboard usb-jtag
+OPENOCD_INTERFACE=$(SCRIPTS)/ft231x.ocd
+# ulx3s-jtag-passthru
+#OPENOCD_INTERFACE=$(SCRIPTS)/ft231x2.ocd
+# ulx2s
+#OPENOCD_INTERFACE=$(SCRIPTS)/ft232r.ocd
+# external jtag
+#OPENOCD_INTERFACE=$(SCRIPTS)/ft2232.ocd
+
+# ******* design files *******
+CONSTRAINTS = ../../constraints/ulx3s_v20.lpf
+TOP_MODULE = top_spi_char
+TOP_MODULE_FILE = top/$(TOP_MODULE).v
+
+VERILOG_FILES = \
+$(TOP_MODULE_FILE) \
+hdl/spi_osd_v.v \
+hdl/spi_ram_btn_v.v \
+hdl/osd.v \
+hdl/ecp5pll.sv \
+hdl/spirw_slave_v.v \
+hdl/bram_true2p_2clk.v \
+hdl/vga.v \
+hdl/vga2dvid.v \
+hdl/tmds_encoder.v \
+
+osd.mem: osd.txt
+	hexdump -n 1536 -v -e '1/1 "%02x " "\n"' $< > $@
+
+SCRIPTS = ../../scripts
+include $(SCRIPTS)/diamond_path.mk
+include $(SCRIPTS)/trellis_path.mk
+include $(SCRIPTS)/trellis_main.mk

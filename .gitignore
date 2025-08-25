@@ -1,4 +1,9 @@
 .DS_Store
+00Contents
+*.dtx
+*.ins
+*.upl
+*.sty
 *.bak
 *-bak
 *gerber*
@@ -22,3 +27,10 @@ obj_dir
 !hardware/*/production/*.zip
 
 private
+
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+

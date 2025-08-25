@@ -6606,7 +6606,7 @@
 		(uuid "2cdb0c44-8b02-4f9f-8351-1f72fa617700")
 	)
 	(junction
-		(at 208.28 72.39)
+		(at 199.39 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "321f35fb-eacd-4a0f-92d1-9d91e5028cfe")
@@ -6762,7 +6762,7 @@
 		(uuid "73d91d93-1ddd-4429-90b3-fa27f06ab3a0")
 	)
 	(junction
-		(at 208.28 39.37)
+		(at 199.39 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "742fa119-e12d-48eb-adf1-031612dc77eb")
@@ -6786,7 +6786,7 @@
 		(uuid "7769569a-4eef-4e51-9b2d-c93778af7ae7")
 	)
 	(junction
-		(at 204.47 39.37)
+		(at 195.58 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7bc80237-59ec-4130-8e4e-cde531f1eec7")
@@ -6798,13 +6798,13 @@
 		(uuid "7c281939-95a2-4189-9bed-7150b5521058")
 	)
 	(junction
-		(at 217.17 49.53)
+		(at 208.28 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7df1e0cb-8524-48c0-965e-8118b2a5d886")
 	)
 	(junction
-		(at 208.28 106.68)
+		(at 199.39 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "80610be1-b0b0-4afb-9518-ef16b507c99f")
@@ -6894,7 +6894,7 @@
 		(uuid "b19d58c2-4d4d-403e-95f0-65f6d1722d12")
 	)
 	(junction
-		(at 217.17 116.84)
+		(at 208.28 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b3e9de67-b8ae-480a-804c-54a77fd253f2")
@@ -6942,7 +6942,7 @@
 		(uuid "c0691631-c01f-49ed-ba66-a368f4d26418")
 	)
 	(junction
-		(at 204.47 106.68)
+		(at 195.58 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c4c26be5-2272-4b2b-ba3d-f4e8df4b928f")
@@ -7002,7 +7002,7 @@
 		(uuid "d5cf9f35-95e7-4818-b932-f19116096846")
 	)
 	(junction
-		(at 217.17 82.55)
+		(at 208.28 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d6ac90c9-e52c-4864-a424-7c84f7cbef9a")
@@ -7062,7 +7062,7 @@
 		(uuid "f15abde9-cd65-43cb-832f-ae2ce2754d91")
 	)
 	(junction
-		(at 204.47 72.39)
+		(at 195.58 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f168b59c-693d-422b-9acf-a210c40751d8")
@@ -7111,7 +7111,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 39.37) (xy 208.28 41.91)
+			(xy 199.39 39.37) (xy 199.39 41.91)
 		)
 		(stroke
 			(width 0)
@@ -7181,7 +7181,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 39.37) (xy 208.28 39.37)
+			(xy 195.58 39.37) (xy 199.39 39.37)
 		)
 		(stroke
 			(width 0)
@@ -7201,7 +7201,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 105.41) (xy 204.47 106.68)
+			(xy 195.58 105.41) (xy 195.58 106.68)
 		)
 		(stroke
 			(width 0)
@@ -7231,7 +7231,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 39.37) (xy 204.47 40.64)
+			(xy 195.58 39.37) (xy 195.58 40.64)
 		)
 		(stroke
 			(width 0)
@@ -7601,7 +7601,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 48.26) (xy 204.47 49.53)
+			(xy 195.58 48.26) (xy 195.58 49.53)
 		)
 		(stroke
 			(width 0)
@@ -7661,7 +7661,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 82.55) (xy 217.17 82.55)
+			(xy 195.58 82.55) (xy 208.28 82.55)
 		)
 		(stroke
 			(width 0)
@@ -7801,7 +7801,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 106.68) (xy 209.55 106.68)
+			(xy 199.39 106.68) (xy 200.66 106.68)
 		)
 		(stroke
 			(width 0)
@@ -8021,7 +8021,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 72.39) (xy 208.28 72.39)
+			(xy 195.58 72.39) (xy 199.39 72.39)
 		)
 		(stroke
 			(width 0)
@@ -8101,7 +8101,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 71.12) (xy 204.47 72.39)
+			(xy 195.58 71.12) (xy 195.58 72.39)
 		)
 		(stroke
 			(width 0)
@@ -8141,7 +8141,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 38.1) (xy 204.47 39.37)
+			(xy 195.58 38.1) (xy 195.58 39.37)
 		)
 		(stroke
 			(width 0)
@@ -8261,7 +8261,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 116.84) (xy 217.17 116.84)
+			(xy 195.58 116.84) (xy 208.28 116.84)
 		)
 		(stroke
 			(width 0)
@@ -8531,7 +8531,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 81.28) (xy 204.47 82.55)
+			(xy 195.58 81.28) (xy 195.58 82.55)
 		)
 		(stroke
 			(width 0)
@@ -8541,7 +8541,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 82.55) (xy 217.17 83.82)
+			(xy 208.28 82.55) (xy 208.28 83.82)
 		)
 		(stroke
 			(width 0)
@@ -8601,7 +8601,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 72.39) (xy 226.06 72.39)
+			(xy 215.9 72.39) (xy 226.06 72.39)
 		)
 		(stroke
 			(width 0)
@@ -8611,7 +8611,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 72.39) (xy 209.55 72.39)
+			(xy 199.39 72.39) (xy 200.66 72.39)
 		)
 		(stroke
 			(width 0)
@@ -8621,7 +8621,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 115.57) (xy 204.47 116.84)
+			(xy 195.58 115.57) (xy 195.58 116.84)
 		)
 		(stroke
 			(width 0)
@@ -8701,7 +8701,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 106.68) (xy 204.47 107.95)
+			(xy 195.58 106.68) (xy 195.58 107.95)
 		)
 		(stroke
 			(width 0)
@@ -8821,7 +8821,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 72.39) (xy 208.28 74.93)
+			(xy 199.39 72.39) (xy 199.39 74.93)
 		)
 		(stroke
 			(width 0)
@@ -8921,7 +8921,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 49.53) (xy 217.17 49.53)
+			(xy 195.58 49.53) (xy 208.28 49.53)
 		)
 		(stroke
 			(width 0)
@@ -9011,7 +9011,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 106.68) (xy 208.28 109.22)
+			(xy 199.39 106.68) (xy 199.39 109.22)
 		)
 		(stroke
 			(width 0)
@@ -9081,7 +9081,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 49.53) (xy 217.17 50.8)
+			(xy 208.28 49.53) (xy 208.28 50.8)
 		)
 		(stroke
 			(width 0)
@@ -9161,7 +9161,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 74.93) (xy 209.55 74.93)
+			(xy 199.39 74.93) (xy 200.66 74.93)
 		)
 		(stroke
 			(width 0)
@@ -9201,7 +9201,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 39.37) (xy 226.06 39.37)
+			(xy 215.9 39.37) (xy 226.06 39.37)
 		)
 		(stroke
 			(width 0)
@@ -9261,7 +9261,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 72.39) (xy 204.47 73.66)
+			(xy 195.58 72.39) (xy 195.58 73.66)
 		)
 		(stroke
 			(width 0)
@@ -9391,7 +9391,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 106.68) (xy 226.06 106.68)
+			(xy 215.9 106.68) (xy 226.06 106.68)
 		)
 		(stroke
 			(width 0)
@@ -9401,7 +9401,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 109.22) (xy 224.79 109.22)
+			(xy 226.06 109.22) (xy 215.9 109.22)
 		)
 		(stroke
 			(width 0)
@@ -9431,7 +9431,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 41.91) (xy 224.79 41.91)
+			(xy 226.06 41.91) (xy 215.9 41.91)
 		)
 		(stroke
 			(width 0)
@@ -9521,7 +9521,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 116.84) (xy 217.17 118.11)
+			(xy 208.28 116.84) (xy 208.28 118.11)
 		)
 		(stroke
 			(width 0)
@@ -9621,7 +9621,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 41.91) (xy 209.55 41.91)
+			(xy 199.39 41.91) (xy 200.66 41.91)
 		)
 		(stroke
 			(width 0)
@@ -9731,7 +9731,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 106.68) (xy 208.28 106.68)
+			(xy 195.58 106.68) (xy 199.39 106.68)
 		)
 		(stroke
 			(width 0)
@@ -9741,7 +9741,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 39.37) (xy 209.55 39.37)
+			(xy 199.39 39.37) (xy 200.66 39.37)
 		)
 		(stroke
 			(width 0)
@@ -9911,7 +9911,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 74.93) (xy 224.79 74.93)
+			(xy 226.06 74.93) (xy 215.9 74.93)
 		)
 		(stroke
 			(width 0)
@@ -10051,7 +10051,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 109.22) (xy 209.55 109.22)
+			(xy 199.39 109.22) (xy 200.66 109.22)
 		)
 		(stroke
 			(width 0)
@@ -11378,7 +11378,7 @@
 	)
 	(symbol
 		(lib_id "Regulator_Switching:TLV62569DBV")
-		(at 217.17 41.91 0)
+		(at 208.28 41.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11387,7 +11387,7 @@
 		(fields_autoplaced yes)
 		(uuid "17dbb74b-b684-4d13-b985-8441212dc9d2")
 		(property "Reference" "U2"
-			(at 217.17 31.75 0)
+			(at 208.28 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11395,7 +11395,7 @@
 			)
 		)
 		(property "Value" "TLV62569DBV"
-			(at 217.17 34.29 0)
+			(at 208.28 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11403,7 +11403,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
-			(at 218.44 48.26 0)
+			(at 209.55 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11414,7 +11414,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tlv62569.pdf"
-			(at 210.82 30.48 0)
+			(at 201.93 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11423,7 +11423,7 @@
 			)
 		)
 		(property "Description" "High Efficiency Synchronous Buck Converter, Adjustable Output 0.6V-5.5V, 2A, SOT-23-5"
-			(at 217.17 41.91 0)
+			(at 208.28 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11432,7 +11432,7 @@
 			)
 		)
 		(property "LCSC Part #" "C141836"
-			(at 217.17 41.91 0)
+			(at 208.28 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11441,7 +11441,7 @@
 			)
 		)
 		(property "LCSC Link" "https://lcsc.com/product-detail/DC-DC-Converters_TI-TLV62569DBVR_C141836.html"
-			(at 217.17 41.91 0)
+			(at 208.28 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11450,7 +11450,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "TLV62569DBVR"
-			(at 217.17 41.91 0)
+			(at 208.28 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12262,7 +12262,7 @@
 	)
 	(symbol
 		(lib_id "Regulator_Switching:TLV62569DBV")
-		(at 217.17 74.93 0)
+		(at 208.28 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12271,7 +12271,7 @@
 		(fields_autoplaced yes)
 		(uuid "34a520ca-b5e6-4b73-8f33-fe9bf34ba247")
 		(property "Reference" "U3"
-			(at 217.17 64.77 0)
+			(at 208.28 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12279,7 +12279,7 @@
 			)
 		)
 		(property "Value" "TLV62569DBV"
-			(at 217.17 67.31 0)
+			(at 208.28 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12287,7 +12287,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
-			(at 218.44 81.28 0)
+			(at 209.55 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12298,7 +12298,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tlv62569.pdf"
-			(at 210.82 63.5 0)
+			(at 201.93 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12307,7 +12307,7 @@
 			)
 		)
 		(property "Description" "High Efficiency Synchronous Buck Converter, Adjustable Output 0.6V-5.5V, 2A, SOT-23-5"
-			(at 217.17 74.93 0)
+			(at 208.28 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12316,7 +12316,7 @@
 			)
 		)
 		(property "LCSC Part #" "C141836"
-			(at 217.17 74.93 0)
+			(at 208.28 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12325,7 +12325,7 @@
 			)
 		)
 		(property "LCSC Link" "https://lcsc.com/product-detail/DC-DC-Converters_TI-TLV62569DBVR_C141836.html"
-			(at 217.17 74.93 0)
+			(at 208.28 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12334,7 +12334,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "TLV62569DBVR"
-			(at 217.17 74.93 0)
+			(at 208.28 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12927,7 +12927,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 204.47 38.1 0)
+		(at 195.58 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12936,7 +12936,7 @@
 		(fields_autoplaced yes)
 		(uuid "515d6c4e-efa1-470a-b2d3-cdf024c8e733")
 		(property "Reference" "#PWR025"
-			(at 204.47 41.91 0)
+			(at 195.58 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12945,7 +12945,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 204.47 33.02 0)
+			(at 195.58 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12953,7 +12953,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 204.47 38.1 0)
+			(at 195.58 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12962,7 +12962,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 204.47 38.1 0)
+			(at 195.58 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12971,7 +12971,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 204.47 38.1 0)
+			(at 195.58 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13704,7 +13704,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 204.47 77.47 0)
+		(at 195.58 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13712,7 +13712,7 @@
 		(dnp no)
 		(uuid "6d6e366c-a511-4b39-990d-78020e705dcb")
 		(property "Reference" "C17"
-			(at 200.66 76.1999 0)
+			(at 191.77 76.1999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13721,7 +13721,7 @@
 			)
 		)
 		(property "Value" "22uF"
-			(at 200.66 78.7399 0)
+			(at 191.77 78.7399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13730,7 +13730,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 205.4352 81.28 0)
+			(at 196.5452 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13739,7 +13739,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 204.47 77.47 0)
+			(at 195.58 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13748,7 +13748,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 204.47 77.47 0)
+			(at 195.58 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13757,7 +13757,7 @@
 			)
 		)
 		(property "LCSC Part #" "C59461"
-			(at 204.47 77.47 0)
+			(at 195.58 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13766,7 +13766,7 @@
 			)
 		)
 		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10A226MQ8NRNC_C59461.html"
-			(at 204.47 77.47 0)
+			(at 195.58 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13775,7 +13775,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "CL10A226MQ8NRNC"
-			(at 204.47 77.47 0)
+			(at 195.58 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14956,7 +14956,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 217.17 83.82 0)
+		(at 208.28 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14965,7 +14965,7 @@
 		(fields_autoplaced yes)
 		(uuid "77ea3fda-1293-43ae-b5d9-057d6a2cc266")
 		(property "Reference" "#PWR035"
-			(at 217.17 90.17 0)
+			(at 208.28 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14974,7 +14974,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 217.17 88.9 0)
+			(at 208.28 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14982,7 +14982,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 217.17 83.82 0)
+			(at 208.28 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14991,7 +14991,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 217.17 83.82 0)
+			(at 208.28 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15000,7 +15000,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 217.17 83.82 0)
+			(at 208.28 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15118,7 +15118,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 217.17 50.8 0)
+		(at 208.28 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15127,7 +15127,7 @@
 		(fields_autoplaced yes)
 		(uuid "78817711-4126-4f84-90f5-506e0e2647fb")
 		(property "Reference" "#PWR027"
-			(at 217.17 57.15 0)
+			(at 208.28 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15136,7 +15136,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 217.17 55.88 0)
+			(at 208.28 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15144,7 +15144,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 217.17 50.8 0)
+			(at 208.28 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15153,7 +15153,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 217.17 50.8 0)
+			(at 208.28 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15162,7 +15162,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 217.17 50.8 0)
+			(at 208.28 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15346,7 +15346,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 204.47 105.41 0)
+		(at 195.58 105.41 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15355,7 +15355,7 @@
 		(fields_autoplaced yes)
 		(uuid "8331172d-42ed-48da-9be1-c97d87f2057f")
 		(property "Reference" "#PWR040"
-			(at 204.47 109.22 0)
+			(at 195.58 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15364,7 +15364,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 204.47 100.33 0)
+			(at 195.58 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15372,7 +15372,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 204.47 105.41 0)
+			(at 195.58 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15381,7 +15381,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 204.47 105.41 0)
+			(at 195.58 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15390,7 +15390,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 204.47 105.41 0)
+			(at 195.58 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15997,7 +15997,7 @@
 	)
 	(symbol
 		(lib_id "Regulator_Switching:TLV62569DBV")
-		(at 217.17 109.22 0)
+		(at 208.28 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16006,7 +16006,7 @@
 		(fields_autoplaced yes)
 		(uuid "a12177c4-8535-4b8f-9524-f0a4c106af0e")
 		(property "Reference" "U4"
-			(at 217.17 99.06 0)
+			(at 208.28 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16014,7 +16014,7 @@
 			)
 		)
 		(property "Value" "TLV62569DBV"
-			(at 217.17 101.6 0)
+			(at 208.28 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16022,7 +16022,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
-			(at 218.44 115.57 0)
+			(at 209.55 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16033,7 +16033,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tlv62569.pdf"
-			(at 210.82 97.79 0)
+			(at 201.93 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16042,7 +16042,7 @@
 			)
 		)
 		(property "Description" "High Efficiency Synchronous Buck Converter, Adjustable Output 0.6V-5.5V, 2A, SOT-23-5"
-			(at 217.17 109.22 0)
+			(at 208.28 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16051,7 +16051,7 @@
 			)
 		)
 		(property "LCSC Part #" "C141836"
-			(at 217.17 109.22 0)
+			(at 208.28 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16060,7 +16060,7 @@
 			)
 		)
 		(property "LCSC Link" "https://lcsc.com/product-detail/DC-DC-Converters_TI-TLV62569DBVR_C141836.html"
-			(at 217.17 109.22 0)
+			(at 208.28 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16069,7 +16069,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "TLV62569DBVR"
-			(at 217.17 109.22 0)
+			(at 208.28 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16235,7 +16235,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 204.47 111.76 0)
+		(at 195.58 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16243,7 +16243,7 @@
 		(dnp no)
 		(uuid "adf1be1c-337f-4b20-89e1-b018eea391a3")
 		(property "Reference" "C23"
-			(at 200.66 110.4899 0)
+			(at 191.77 110.4899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16252,7 +16252,7 @@
 			)
 		)
 		(property "Value" "22uF"
-			(at 200.66 113.0299 0)
+			(at 191.77 113.0299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16261,7 +16261,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 205.4352 115.57 0)
+			(at 196.5452 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16270,7 +16270,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 204.47 111.76 0)
+			(at 195.58 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16279,7 +16279,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 204.47 111.76 0)
+			(at 195.58 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16288,7 +16288,7 @@
 			)
 		)
 		(property "LCSC Part #" "C59461"
-			(at 204.47 111.76 0)
+			(at 195.58 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16297,7 +16297,7 @@
 			)
 		)
 		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10A226MQ8NRNC_C59461.html"
-			(at 204.47 111.76 0)
+			(at 195.58 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16306,7 +16306,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "CL10A226MQ8NRNC"
-			(at 204.47 111.76 0)
+			(at 195.58 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17114,7 +17114,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 204.47 71.12 0)
+		(at 195.58 71.12 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17123,7 +17123,7 @@
 		(fields_autoplaced yes)
 		(uuid "bbe2fbd2-3a8d-4597-80e7-0e635db239df")
 		(property "Reference" "#PWR031"
-			(at 204.47 74.93 0)
+			(at 195.58 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17132,7 +17132,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 204.47 66.04 0)
+			(at 195.58 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17140,7 +17140,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 204.47 71.12 0)
+			(at 195.58 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17149,7 +17149,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 204.47 71.12 0)
+			(at 195.58 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17158,7 +17158,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 204.47 71.12 0)
+			(at 195.58 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17956,7 +17956,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 217.17 118.11 0)
+		(at 208.28 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17965,7 +17965,7 @@
 		(fields_autoplaced yes)
 		(uuid "dc1bedaf-0e9a-404d-9235-4496c71a11eb")
 		(property "Reference" "#PWR042"
-			(at 217.17 124.46 0)
+			(at 208.28 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17974,7 +17974,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 217.17 123.19 0)
+			(at 208.28 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17982,7 +17982,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 217.17 118.11 0)
+			(at 208.28 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17991,7 +17991,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 217.17 118.11 0)
+			(at 208.28 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18000,7 +18000,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 217.17 118.11 0)
+			(at 208.28 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18445,7 +18445,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 204.47 44.45 0)
+		(at 195.58 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18453,7 +18453,7 @@
 		(dnp no)
 		(uuid "ee8e80dc-4efd-427c-9b25-60d27942b2d3")
 		(property "Reference" "C4"
-			(at 200.66 43.1799 0)
+			(at 191.77 43.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18462,7 +18462,7 @@
 			)
 		)
 		(property "Value" "22uF"
-			(at 200.66 45.7199 0)
+			(at 191.77 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18471,7 +18471,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 205.4352 48.26 0)
+			(at 196.5452 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18480,7 +18480,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 204.47 44.45 0)
+			(at 195.58 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18489,7 +18489,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 204.47 44.45 0)
+			(at 195.58 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18498,7 +18498,7 @@
 			)
 		)
 		(property "LCSC Part #" "C59461"
-			(at 204.47 44.45 0)
+			(at 195.58 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18507,7 +18507,7 @@
 			)
 		)
 		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10A226MQ8NRNC_C59461.html"
-			(at 204.47 44.45 0)
+			(at 195.58 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18516,7 +18516,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "CL10A226MQ8NRNC"
-			(at 204.47 44.45 0)
+			(at 195.58 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
