@@ -1,5 +1,6 @@
-VERILOG_SOURCES := $(wildcard *.v) $(wildcard *.sv)
-TEST_SOURCES := $(wildcard tb/*.v) $(wildcard tb/*.sv)
+VERILOG_SOURCES := $(wildcard *.v) $(wildcard *.sv) \
+		   ../external/usb_hid_host.v \
+		   ../external/usb_hid_host_rom.v
 OUTPUT := bitstream
 PACKAGE := CABGA256
 
@@ -14,18 +15,18 @@ all: debug
 	# cat log.txt | grep Device -A 28
 
 %.bit: %.config
-	ecppack --compress $< $@
+	ecppack $< $@
 
 build: $(OUTPUT).bit
 
 debug: build
-	openFPGALoader -b icepi-zero $(OUTPUT).bit
+	openFPGALoader -cft231X --pins=7:3:5:6 $(OUTPUT).bit
 
 install: build
-	openFPGALoader -b icepi-zero $(OUTPUT).bit --write-flash
+	openFPGALoader -cft231X --pins=7:3:5:6 $(OUTPUT).bit --write-flash
 
 install-bitstream:
-	openFPGALoader -b icepi-zero $(OUTPUT).bit --write-flash
+	openFPGALoader -cft231X --pins=7:3:5:6 $(OUTPUT).bit --write-flash
 
 lint:
 	verilator --lint-only -Wall -Wno-DECLFILENAME -Wno-WIDTHEXPAND $(VERILOG_SOURCES)
