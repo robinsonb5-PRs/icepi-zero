@@ -1,3 +1,5 @@
+`timescale 10ns/10ns
+
 module vga (
 	input  wire        clk,
 	input  wire  [7:0] r,
@@ -12,6 +14,11 @@ module vga (
 	output logic [7:0] vga_g,
 	output logic [7:0] vga_b
 );
+    initial begin
+        px = 0;
+        py = 0;
+    end
+
 	// 640x480 @ 60Hz
 	localparam HA_END = 639;
 	localparam HS_STA = HA_END + 16;
