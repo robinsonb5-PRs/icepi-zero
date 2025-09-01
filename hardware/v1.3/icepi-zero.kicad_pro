@@ -533,7 +533,7 @@
       "idf": "",
       "netlist": "",
       "plot": "/home/cyao/Downloads/icepi-porn/",
-      "pos_files": "elecrow",
+      "pos_files": "production/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -685,7 +685,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "production/",
+    "plot_directory": "../../../../",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
@@ -722,12 +722,12 @@
       "Flash"
     ],
     [
-      "17c9c9b3-f379-4e1f-a876-d3fcf0529a4d",
-      "ECP5"
-    ],
-    [
       "d38ad226-7226-4c8c-b808-74c724beb9de",
       "uSD"
+    ],
+    [
+      "17c9c9b3-f379-4e1f-a876-d3fcf0529a4d",
+      "ECP5"
     ]
   ],
   "text_variables": {}
