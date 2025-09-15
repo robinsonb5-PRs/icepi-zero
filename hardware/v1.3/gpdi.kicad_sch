@@ -8519,6 +8519,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 104.14 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 104.14 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e75e6900-47f2-4161-bc6f-9e35feb96f0e")
 		)
@@ -8612,6 +8630,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 109.22 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 109.22 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7fba3277-41eb-4278-a0b1-287ddd1e82b9")
 		)
@@ -8697,6 +8733,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "0402WGF4701TCE"
+			(at 114.3 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 114.3 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 114.3 120.65 90)
 			(effects
 				(font
@@ -8924,6 +8978,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 77.47 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 77.47 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0e44b6cb-02f6-4135-863b-b0ef323541a3")
 		)
@@ -9017,6 +9089,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 73.66 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 73.66 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b1e57f4e-e808-4856-bfee-15678ed98fef")
 		)
@@ -9102,6 +9192,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "0402WGF4700TCE"
+			(at 195.58 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 195.58 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 195.58 96.52 90)
 			(effects
 				(font
@@ -9204,6 +9312,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 190.5 68.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 190.5 68.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "599e2658-ab2e-47c6-b3f8-bb5f632bcfcb")
 		)
@@ -9298,6 +9424,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 190.5 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 190.5 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "63c2c458-6dcf-4630-8195-3d0fccef3da5")
 		)
@@ -9383,6 +9527,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "0402WGF4700TCE"
+			(at 195.58 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 195.58 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 195.58 81.28 90)
 			(effects
 				(font
@@ -9485,6 +9647,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 195.58 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 195.58 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8d649953-18db-4781-a696-d89db18ee91e")
 		)
@@ -9571,6 +9751,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "0402B223K500NT"
+			(at 195.58 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 195.58 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 195.58 76.2 90)
 			(effects
 				(font
@@ -9668,6 +9866,24 @@
 			)
 		)
 		(property "LCSC Part #" "C1521614"
+			(at 86.36 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 86.36 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 86.36 76.2 0)
 			(effects
 				(font
@@ -10536,6 +10752,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 195.58 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 195.58 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "56250b6a-1864-4a0e-aedc-c143b6441e18")
 		)
@@ -10763,6 +10997,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 180.34 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 180.34 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "850b2ea2-6525-43e9-b8e6-08ded25a8179")
 		)
@@ -10860,6 +11112,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 195.58 93.98 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 195.58 93.98 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c1f9db4d-7ce2-4c10-853c-6615da4fa2f8")
 		)
@@ -10946,6 +11216,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "0402B223K500NT"
+			(at 190.5 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 190.5 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 190.5 58.42 90)
 			(effects
 				(font
@@ -11113,6 +11401,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 90.17 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 90.17 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "ea2df291-ec42-48c4-9f93-d31e5e11fa6f")
 		)
@@ -11220,6 +11526,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "A71-05H4-111N1"
+			(at 224.79 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 224.79 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 224.79 78.74 0)
 			(effects
 				(font
@@ -11376,6 +11700,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 195.58 60.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 195.58 60.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b80ed9ff-013f-4794-bd42-f686f00690f8")
 		)
@@ -11462,6 +11804,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "0402B223K500NT"
+			(at 190.5 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 190.5 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 190.5 73.66 90)
 			(effects
 				(font

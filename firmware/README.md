@@ -52,7 +52,7 @@ Note: If you use the newest version of openFPGALoader, it supports the `-b icepi
 
 ## Pinout
 
-GPIO pinout (Please don't mind the image quality, I'll be back with a better one):
+The GPIO pinout is exactly the same as a Pi Zero:
 
 ![](pinout.png)
 

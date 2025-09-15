@@ -10758,6 +10758,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 54.61 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 54.61 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5ae1a1e3-dda9-4284-9943-67b38a883219")
 		)
@@ -10845,6 +10863,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "CBG201209U101T"
+			(at 74.93 68.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 74.93 68.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 74.93 68.58 90)
 			(effects
 				(font
@@ -11016,6 +11052,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 256.54 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 256.54 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "29e023f2-23ad-44df-ae83-ac3562d35296")
 		)
@@ -11179,6 +11233,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 234.95 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 234.95 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "91f2da58-c1fc-4c4b-930d-c5139f2777a5")
 		)
@@ -11268,6 +11340,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "CL05B104KB54PNC"
+			(at 93.98 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 93.98 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 93.98 72.39 0)
 			(effects
 				(font
@@ -11503,6 +11593,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" "2.2uH 100mA+ 400mO-"
+			(at 229.87 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "2.2uH 100mA+ 400mO-"
+			(at 229.87 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "34757e61-46f1-48ea-892e-830dff54be01")
 		)
@@ -11592,6 +11700,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "TLV62569DBVR"
+			(at 208.28 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 208.28 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 208.28 41.91 0)
 			(effects
 				(font
@@ -11698,6 +11824,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "0402WGF1502TCE"
+			(at 234.95 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 234.95 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 234.95 111.76 0)
 			(effects
 				(font
@@ -11869,6 +12013,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 44.45 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 44.45 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "38807166-f9c9-4635-811e-19e48c35ad80")
 		)
@@ -11966,6 +12128,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 234.95 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 234.95 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "99eda5ea-4125-42ad-bfbd-6df2159c8f3f")
 		)
@@ -12054,6 +12234,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "CL05B104KB54PNC"
+			(at 82.55 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 82.55 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 82.55 43.18 0)
 			(effects
 				(font
@@ -12291,6 +12489,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 76.2 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 76.2 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bc39698a-1039-4240-bf7f-e10ccb4f6b85")
 		)
@@ -12379,6 +12595,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "CL10A106KP8NNNC"
+			(at 55.88 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 55.88 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 55.88 43.18 0)
 			(effects
 				(font
@@ -12476,6 +12710,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "TLV62569DBVR"
+			(at 208.28 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 208.28 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 208.28 74.93 0)
 			(effects
 				(font
@@ -12780,6 +13032,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "CL05B104KB54PNC"
+			(at 153.67 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 153.67 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 153.67 106.68 0)
 			(effects
 				(font
@@ -13149,6 +13419,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 133.35 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 133.35 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a5cc6841-b45b-4f2a-99c1-5237bfd59e6c")
 		)
@@ -13246,6 +13534,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 234.95 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 234.95 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "760e33ba-7185-4af8-a6c7-1685341b70dc")
 		)
@@ -13334,6 +13640,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "CL10A106KP8NNNC"
+			(at 73.66 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 73.66 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 73.66 43.18 0)
 			(effects
 				(font
@@ -13439,6 +13763,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 143.51 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 143.51 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "21772bb9-428e-49da-9f8a-26f8d1f53cda")
 		)
@@ -13528,6 +13870,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "CL10A106KP8NNNC"
+			(at 22.86 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 22.86 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 22.86 106.68 0)
 			(effects
 				(font
@@ -13697,6 +14057,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" "2.2uH 100mA+ 400mO-"
+			(at 229.87 39.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "2.2uH 100mA+ 400mO-"
+			(at 229.87 39.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4332be29-23d7-426f-be47-7c61babf31a3")
 		)
@@ -13785,6 +14163,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "CL10A226MQ8NRNC"
+			(at 195.58 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 195.58 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 195.58 77.47 0)
 			(effects
 				(font
@@ -14021,6 +14417,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 100.33 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 100.33 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "501fd9fc-0f2f-4c8f-b681-a4108e4cb2ab")
 		)
@@ -14109,6 +14523,24 @@
 			)
 		)
 		(property "LCSC Part #" "C1521614"
+			(at 104.14 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 104.14 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 104.14 160.02 0)
 			(effects
 				(font
@@ -15111,6 +15543,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 127 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 127 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "45f84da4-a705-4f9b-836d-b299589c2aea")
 		)
@@ -15265,6 +15715,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "CL10A106KP8NNNC"
+			(at 64.77 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 64.77 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 64.77 43.18 0)
 			(effects
 				(font
@@ -15436,6 +15904,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 266.7 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 266.7 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e6e9027b-6452-4c02-94d9-7269df2e9497")
 		)
@@ -15599,6 +16085,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 83.82 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 83.82 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d7b1e748-d5ea-46c4-be62-6e6e404ff133")
 		)
@@ -15696,6 +16200,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 243.84 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 243.84 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f0afe096-d858-4286-9ecb-146e041565b9")
 		)
@@ -15784,6 +16306,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "CL05B104KB54PNC"
+			(at 118.11 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 118.11 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 118.11 43.18 0)
 			(effects
 				(font
@@ -16013,6 +16553,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "TLV62569DBVR"
+			(at 208.28 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 208.28 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 208.28 109.22 0)
 			(effects
 				(font
@@ -16258,6 +16816,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 195.58 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 195.58 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "08a26233-fe00-4551-9383-bf1f71b3ecc6")
 		)
@@ -16412,6 +16988,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "CL05B104KB54PNC"
+			(at 110.49 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 110.49 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 110.49 106.68 0)
 			(effects
 				(font
@@ -16649,6 +17243,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 33.02 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 33.02 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d5d9dc12-7d8d-4efd-9582-3fb7f4c50c6f")
 		)
@@ -16812,6 +17424,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 99.06 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 99.06 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "35711ec3-c708-4a86-a941-3edf7940dd70")
 		)
@@ -16901,6 +17531,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "0402WGF1502TCE"
+			(at 234.95 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 234.95 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 234.95 77.47 0)
 			(effects
 				(font
@@ -17071,6 +17719,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 109.22 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 109.22 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6fc2bdb5-b389-4bf6-a33d-b7de7a400006")
 		)
@@ -17160,6 +17826,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "CL05B104KB54PNC"
+			(at 121.92 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 121.92 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 121.92 106.68 0)
 			(effects
 				(font
@@ -17264,6 +17948,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 91.44 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 91.44 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "942409d7-c512-4fe7-93e3-8f0bb13fb81c")
 		)
@@ -17351,6 +18053,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "TDK MLP2012S2R2MT0S1"
+			(at 229.87 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" "2.2uH 100mA+ 400mO-"
+			(at 229.87 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "2.2uH 100mA+ 400mO-"
 			(at 229.87 72.39 90)
 			(effects
 				(font
@@ -17522,6 +18242,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 105.41 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 105.41 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "467a22ec-9d19-4bf2-8240-1ea06f801fc2")
 		)
@@ -17677,6 +18415,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "CL10A226MQ8NRNC"
+			(at 243.84 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 243.84 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 243.84 44.45 0)
 			(effects
 				(font
@@ -17848,6 +18604,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 255.27 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 255.27 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "00656b29-7048-4285-9b7e-c3430ff7d507")
 		)
@@ -17937,6 +18711,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "CL10A106KP8NNNC"
+			(at 66.04 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 66.04 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 66.04 106.68 0)
 			(effects
 				(font
@@ -18042,6 +18834,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 256.54 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 256.54 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "78c0b4b9-4958-451b-8ad2-d88699ddfaf5")
 		)
@@ -18130,6 +18940,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "CL10A226MQ8NRNC"
+			(at 195.58 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 195.58 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 195.58 44.45 0)
 			(effects
 				(font
@@ -18301,6 +19129,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 234.95 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 234.95 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d4caa0cb-621a-42dc-b8eb-f0804f64ab0c")
 		)
@@ -18390,6 +19236,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "CL10A226MQ8NRNC"
+			(at 243.84 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 243.84 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 243.84 77.47 0)
 			(effects
 				(font

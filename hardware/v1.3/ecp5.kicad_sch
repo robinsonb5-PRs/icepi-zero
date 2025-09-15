@@ -5726,6 +5726,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 156.21 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 156.21 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "T2"
 			(uuid "d5dd2c65-4b51-46c5-9e46-0ef5c6d680e7")
 		)

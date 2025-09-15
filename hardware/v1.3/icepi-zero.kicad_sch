@@ -10466,6 +10466,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 41.91 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 41.91 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1771d73b-28ff-4e07-9d73-e462893484cb")
 		)
@@ -10553,6 +10571,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "0402WGF4700TCE"
+			(at 33.02 161.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 33.02 161.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 33.02 161.29 90)
 			(effects
 				(font
@@ -10723,6 +10759,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 33.02 184.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 33.02 184.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1e98e15d-277f-4b20-bf2e-e855968f481b")
 		)
@@ -10877,6 +10931,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "0402WGF4700TCE"
+			(at 33.02 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 33.02 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 33.02 137.16 90)
 			(effects
 				(font
@@ -11055,6 +11127,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 41.91 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 41.91 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5d650799-4274-4936-b546-fa23dcd2ebcd")
 		)
@@ -11075,7 +11165,7 @@
 		(at 144.78 177.8 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "2e63cb3d-30df-49be-aed5-2be31a0e4f5c")
@@ -11134,6 +11224,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" ""
+			(at 144.78 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 144.78 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 144.78 177.8 0)
 			(effects
 				(font
@@ -11219,6 +11327,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" ""
+			(at 120.65 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 120.65 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 120.65 46.99 0)
 			(effects
 				(font
@@ -11449,6 +11575,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 82.55 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 82.55 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "a4020c12-a10c-46cb-a25e-f685075044f6")
 		)
@@ -11533,6 +11677,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" ""
+			(at 254 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 254 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 254 118.11 0)
 			(effects
 				(font
@@ -11675,7 +11837,7 @@
 		(at 133.35 177.8 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "3c79c7d3-4435-4f27-9003-8e5a87545165")
@@ -11734,6 +11896,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" ""
+			(at 133.35 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 133.35 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 133.35 177.8 0)
 			(effects
 				(font
@@ -11819,6 +11999,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" ""
+			(at 166.37 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 166.37 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 166.37 46.99 0)
 			(effects
 				(font
@@ -12049,6 +12247,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 33.02 149.86 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 33.02 149.86 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cd7d3373-c2f4-43e7-93a2-b3d3fdcd0909")
 		)
@@ -12069,7 +12285,7 @@
 		(at 232.41 41.91 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "4ae6e392-6d75-4ef5-b366-8e4b634ad64f")
@@ -12128,6 +12344,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" ""
+			(at 232.41 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 232.41 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 232.41 41.91 0)
 			(effects
 				(font
@@ -12220,6 +12454,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "0402WGF4700TCE"
+			(at 33.02 172.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 33.02 172.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 33.02 172.72 90)
 			(effects
 				(font
@@ -12383,6 +12635,24 @@
 			)
 		)
 		(property "LCSC Part #" "C1521614"
+			(at 170.18 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 170.18 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 170.18 119.38 0)
 			(effects
 				(font
@@ -13374,6 +13644,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 144.78 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 144.78 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
@@ -13390,7 +13678,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "7848fadd-b84e-48e6-876a-55cbbc829fdb")
 		(property "Reference" "LOGO1"
@@ -13448,6 +13736,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" ""
+			(at 24.13 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 24.13 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 24.13 20.32 0)
 			(effects
 				(font
@@ -13529,6 +13835,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" ""
+			(at 97.79 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 97.79 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 97.79 46.99 0)
 			(effects
 				(font
@@ -13627,6 +13951,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "KT-0603W"
+			(at 41.91 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 41.91 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 41.91 172.72 0)
 			(effects
 				(font
@@ -13787,7 +14129,7 @@
 		(at 264.16 41.91 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "846e7e38-bcc0-4310-8698-7babe5624a37")
@@ -13846,6 +14188,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" ""
+			(at 264.16 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 264.16 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 264.16 41.91 0)
 			(effects
 				(font
@@ -13937,7 +14297,7 @@
 		(at 254 26.67 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "8b79027e-117c-4727-a75d-2e5d54e36a41")
@@ -13996,6 +14356,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" ""
+			(at 254 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 254 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 254 26.67 0)
 			(effects
 				(font
@@ -14088,6 +14466,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "TS-1088-AR02016"
+			(at 36.83 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 36.83 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 36.83 115.57 0)
 			(effects
 				(font
@@ -14248,7 +14644,7 @@
 		(at 242.57 26.67 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "9facf8e3-4a9d-4e66-a7a4-28c6da8cdc27")
@@ -14307,6 +14703,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" ""
+			(at 242.57 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 242.57 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 242.57 26.67 0)
 			(effects
 				(font
@@ -14400,6 +14814,24 @@
 			)
 		)
 		(property "LCSC Part #" "C1521614"
+			(at 91.44 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 91.44 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 91.44 120.65 0)
 			(effects
 				(font
@@ -15190,7 +15622,7 @@
 		(at 254 41.91 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "ab266a3f-55d4-473f-92af-4b6ddbc95558")
@@ -15249,6 +15681,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" ""
+			(at 254 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 254 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 254 41.91 0)
 			(effects
 				(font
@@ -15350,6 +15800,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "KT-0603W"
+			(at 41.91 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 41.91 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 41.91 149.86 0)
 			(effects
 				(font
@@ -15462,6 +15930,24 @@
 				(hide yes)
 			)
 		)
+		(property "Note" ""
+			(at 41.91 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 41.91 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b38a5c47-455d-465b-9202-ecf2f2e5c3f9")
 		)
@@ -15549,7 +16035,7 @@
 		(at 242.57 41.91 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "cd945515-f710-4040-8c03-4511ec66da57")
@@ -15608,6 +16094,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" ""
+			(at 242.57 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 242.57 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 242.57 41.91 0)
 			(effects
 				(font
@@ -15700,6 +16204,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "CL05B104KB54PNC"
+			(at 67.31 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 67.31 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 67.31 175.26 0)
 			(effects
 				(font
@@ -16061,6 +16583,24 @@
 			)
 		)
 		(property "Manufactuer Part Number" "TS-1088-AR02016"
+			(at 36.83 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 36.83 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 36.83 105.41 0)
 			(effects
 				(font

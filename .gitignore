@@ -9,6 +9,8 @@
 *gerber*
 _autosave-*
 panel
+*.vcd
+obj_dir
 fp-info-cache
 *-rescue.dcm
 *-rescue.lib
