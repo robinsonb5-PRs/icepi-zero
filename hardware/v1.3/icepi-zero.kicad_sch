@@ -11187,7 +11187,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "icepi-lib:TestPoint_Pad_D1.0mm_Blank"
 			(at 149.86 177.8 0)
 			(effects
 				(font
@@ -11859,7 +11859,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "icepi-lib:TestPoint_Pad_D1.0mm_Blank"
 			(at 138.43 177.8 0)
 			(effects
 				(font
@@ -12307,7 +12307,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+		(property "Footprint" "icepi-lib:TestPoint_Pad_D2.0mm_Blank"
 			(at 227.33 41.91 0)
 			(effects
 				(font
@@ -14151,7 +14151,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+		(property "Footprint" "icepi-lib:TestPoint_Pad_D2.0mm_Blank"
 			(at 259.08 41.91 0)
 			(effects
 				(font
@@ -14319,7 +14319,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+		(property "Footprint" "icepi-lib:TestPoint_Pad_D2.0mm_Blank"
 			(at 259.08 26.67 0)
 			(effects
 				(font
@@ -14666,7 +14666,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+		(property "Footprint" "icepi-lib:TestPoint_Pad_D2.0mm_Blank"
 			(at 247.65 26.67 0)
 			(effects
 				(font
@@ -15644,7 +15644,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+		(property "Footprint" "icepi-lib:TestPoint_Pad_D2.0mm_Blank"
 			(at 248.92 41.91 0)
 			(effects
 				(font
@@ -16057,7 +16057,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+		(property "Footprint" "icepi-lib:TestPoint_Pad_D2.0mm_Blank"
 			(at 237.49 41.91 0)
 			(effects
 				(font
