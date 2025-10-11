@@ -5,8 +5,8 @@
 	(uuid "d080c137-c514-4604-83ac-62797c1a9d93")
 	(paper "A4")
 	(title_block
-		(title "Icepi zero")
-		(date "2025-08-31")
+		(title "Icepi Zero")
+		(date "2025-10-10")
 		(rev "v1.3")
 		(company "Chengyin Yao (cheyao)")
 		(comment 1 "https://github.com/cheyao/icepi-zero")
@@ -6664,7 +6664,7 @@
 	)
 	(text "Using USB TSV diode to BOM optimize\nCan be replaced with only one 3.6V zener on HPD line\nProtect I/O pins from 5V"
 		(exclude_from_sim no)
-		(at 180.34 118.364 0)
+		(at 186.69 122.174 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6684,7 +6684,7 @@
 	)
 	(text "Signal filtering! UwU"
 		(exclude_from_sim no)
-		(at 191.262 53.848 0)
+		(at 181.102 52.578 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6693,13 +6693,13 @@
 		(uuid "48806587-4f06-4d5e-bc28-49ffcf2b8756")
 	)
 	(junction
-		(at 224.79 107.95)
+		(at 214.63 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0d72667c-8a3c-43ab-90e7-2d53fdfedc31")
 	)
 	(junction
-		(at 222.25 107.95)
+		(at 212.09 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8cd294f1-d530-46da-b54c-ae513583e4cb")
@@ -6729,13 +6729,13 @@
 		(uuid "b5114b68-bd18-40d2-86ee-a07a57e903e2")
 	)
 	(junction
-		(at 226.06 107.95)
+		(at 215.9 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c016faea-5728-45c9-a1b0-b551748a9a0c")
 	)
 	(junction
-		(at 229.87 107.95)
+		(at 219.71 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cc01c38a-94dd-47e1-a7ab-07d4619c63fc")
@@ -6753,7 +6753,7 @@
 		(uuid "ddf0ded5-5ad0-4d91-af7d-c330c1d17fcf")
 	)
 	(junction
-		(at 227.33 107.95)
+		(at 217.17 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e3299a6b-6d42-4171-93f6-8bd1f80fbd37")
@@ -6778,7 +6778,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 107.95) (xy 219.71 107.95)
+			(xy 212.09 106.68) (xy 209.55 106.68)
 		)
 		(stroke
 			(width 0)
@@ -6798,7 +6798,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 58.42) (xy 214.63 58.42)
+			(xy 182.88 57.15) (xy 204.47 57.15)
 		)
 		(stroke
 			(width 0)
@@ -6838,7 +6838,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 73.66) (xy 214.63 73.66)
+			(xy 182.88 72.39) (xy 204.47 72.39)
 		)
 		(stroke
 			(width 0)
@@ -6868,7 +6868,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 133.35) (xy 170.18 133.35)
+			(xy 166.37 137.16) (xy 176.53 137.16)
 		)
 		(stroke
 			(width 0)
@@ -6878,7 +6878,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 109.22) (xy 226.06 107.95)
+			(xy 215.9 107.95) (xy 215.9 106.68)
 		)
 		(stroke
 			(width 0)
@@ -6888,7 +6888,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 73.66) (xy 187.96 73.66)
+			(xy 161.29 72.39) (xy 177.8 72.39)
 		)
 		(stroke
 			(width 0)
@@ -6898,7 +6898,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 60.96) (xy 193.04 60.96)
+			(xy 161.29 59.69) (xy 182.88 59.69)
 		)
 		(stroke
 			(width 0)
@@ -6908,7 +6908,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 71.12) (xy 193.04 71.12)
+			(xy 161.29 69.85) (xy 182.88 69.85)
 		)
 		(stroke
 			(width 0)
@@ -6918,7 +6918,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 93.98) (xy 191.77 93.98)
+			(xy 161.29 92.71) (xy 181.61 92.71)
 		)
 		(stroke
 			(width 0)
@@ -6958,7 +6958,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 107.95) (xy 229.87 106.68)
+			(xy 219.71 106.68) (xy 219.71 105.41)
 		)
 		(stroke
 			(width 0)
@@ -6988,23 +6988,13 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 71.12) (xy 214.63 71.12)
+			(xy 187.96 69.85) (xy 204.47 69.85)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "310d2610-3b20-434d-bbad-c6fdcae89890")
-	)
-	(wire
-		(pts
-			(xy 100.33 139.7) (xy 119.38 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3619fc1a-1dc6-4562-bcb7-37419c014296")
 	)
 	(wire
 		(pts
@@ -7028,7 +7018,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 107.95) (xy 227.33 107.95)
+			(xy 215.9 106.68) (xy 217.17 106.68)
 		)
 		(stroke
 			(width 0)
@@ -7048,7 +7038,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 49.53) (xy 224.79 50.8)
+			(xy 214.63 48.26) (xy 214.63 49.53)
 		)
 		(stroke
 			(width 0)
@@ -7068,7 +7058,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 107.95) (xy 232.41 107.95)
+			(xy 219.71 106.68) (xy 222.25 106.68)
 		)
 		(stroke
 			(width 0)
@@ -7088,7 +7078,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 107.95) (xy 224.79 107.95)
+			(xy 215.9 106.68) (xy 214.63 106.68)
 		)
 		(stroke
 			(width 0)
@@ -7098,7 +7088,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 107.95) (xy 227.33 106.68)
+			(xy 217.17 106.68) (xy 217.17 105.41)
 		)
 		(stroke
 			(width 0)
@@ -7128,7 +7118,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 76.2) (xy 214.63 76.2)
+			(xy 187.96 74.93) (xy 204.47 74.93)
 		)
 		(stroke
 			(width 0)
@@ -7148,7 +7138,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 66.04) (xy 193.04 66.04)
+			(xy 161.29 64.77) (xy 182.88 64.77)
 		)
 		(stroke
 			(width 0)
@@ -7168,7 +7158,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 76.2) (xy 193.04 76.2)
+			(xy 161.29 74.93) (xy 182.88 74.93)
 		)
 		(stroke
 			(width 0)
@@ -7178,7 +7168,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 107.95) (xy 222.25 107.95)
+			(xy 214.63 106.68) (xy 212.09 106.68)
 		)
 		(stroke
 			(width 0)
@@ -7188,7 +7178,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 63.5) (xy 187.96 63.5)
+			(xy 161.29 62.23) (xy 177.8 62.23)
 		)
 		(stroke
 			(width 0)
@@ -7198,7 +7188,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 88.9) (xy 214.63 88.9)
+			(xy 161.29 87.63) (xy 204.47 87.63)
 		)
 		(stroke
 			(width 0)
@@ -7218,7 +7208,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 81.28) (xy 191.77 81.28)
+			(xy 161.29 80.01) (xy 181.61 80.01)
 		)
 		(stroke
 			(width 0)
@@ -7228,7 +7218,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 66.04) (xy 214.63 66.04)
+			(xy 187.96 64.77) (xy 204.47 64.77)
 		)
 		(stroke
 			(width 0)
@@ -7258,7 +7248,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 63.5) (xy 214.63 63.5)
+			(xy 182.88 62.23) (xy 204.47 62.23)
 		)
 		(stroke
 			(width 0)
@@ -7268,7 +7258,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 68.58) (xy 187.96 68.58)
+			(xy 161.29 67.31) (xy 177.8 67.31)
 		)
 		(stroke
 			(width 0)
@@ -7278,7 +7268,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 107.95) (xy 229.87 107.95)
+			(xy 217.17 106.68) (xy 219.71 106.68)
 		)
 		(stroke
 			(width 0)
@@ -7338,7 +7328,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 96.52) (xy 191.77 96.52)
+			(xy 161.29 95.25) (xy 181.61 95.25)
 		)
 		(stroke
 			(width 0)
@@ -7368,7 +7358,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 93.98) (xy 214.63 93.98)
+			(xy 189.23 92.71) (xy 204.47 92.71)
 		)
 		(stroke
 			(width 0)
@@ -7378,7 +7368,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 58.42) (xy 187.96 58.42)
+			(xy 161.29 57.15) (xy 177.8 57.15)
 		)
 		(stroke
 			(width 0)
@@ -7388,7 +7378,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 107.95) (xy 224.79 106.68)
+			(xy 214.63 106.68) (xy 214.63 105.41)
 		)
 		(stroke
 			(width 0)
@@ -7398,7 +7388,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 107.95) (xy 219.71 106.68)
+			(xy 209.55 106.68) (xy 209.55 105.41)
 		)
 		(stroke
 			(width 0)
@@ -7418,7 +7408,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 86.36) (xy 214.63 86.36)
+			(xy 161.29 85.09) (xy 204.47 85.09)
 		)
 		(stroke
 			(width 0)
@@ -7448,7 +7438,27 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 107.95) (xy 222.25 106.68)
+			(xy 100.33 139.7) (xy 128.27 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c89a8183-97bd-40c3-ae20-66070c761f5e")
+	)
+	(wire
+		(pts
+			(xy 128.27 139.7) (xy 128.27 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9a9a4de-2e6f-4a0f-890b-e89fd6dbf933")
+	)
+	(wire
+		(pts
+			(xy 212.09 106.68) (xy 212.09 105.41)
 		)
 		(stroke
 			(width 0)
@@ -7458,7 +7468,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 60.96) (xy 214.63 60.96)
+			(xy 187.96 59.69) (xy 204.47 59.69)
 		)
 		(stroke
 			(width 0)
@@ -7478,7 +7488,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 68.58) (xy 214.63 68.58)
+			(xy 182.88 67.31) (xy 204.47 67.31)
 		)
 		(stroke
 			(width 0)
@@ -7488,7 +7498,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 96.52) (xy 214.63 96.52)
+			(xy 189.23 95.25) (xy 204.47 95.25)
 		)
 		(stroke
 			(width 0)
@@ -7498,7 +7508,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 143.51) (xy 180.34 144.78)
+			(xy 186.69 147.32) (xy 186.69 148.59)
 		)
 		(stroke
 			(width 0)
@@ -7548,7 +7558,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 133.35) (xy 200.66 133.35)
+			(xy 196.85 137.16) (xy 207.01 137.16)
 		)
 		(stroke
 			(width 0)
@@ -7568,7 +7578,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 81.28) (xy 214.63 81.28)
+			(xy 189.23 80.01) (xy 204.47 80.01)
 		)
 		(stroke
 			(width 0)
@@ -7598,7 +7608,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 107.95) (xy 232.41 106.68)
+			(xy 222.25 106.68) (xy 222.25 105.41)
 		)
 		(stroke
 			(width 0)
@@ -8092,7 +8102,7 @@
 		(uuid "0f7d552b-fcbd-4b3d-b5e0-c939962c260f")
 	)
 	(label "GPDI_D2-"
-		(at 171.45 60.96 0)
+		(at 161.29 59.69 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8112,7 +8122,7 @@
 		(uuid "22aafd85-4127-4871-87cc-271ae50f7581")
 	)
 	(label "CONN_D0-"
-		(at 203.2 71.12 0)
+		(at 193.04 69.85 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8132,7 +8142,7 @@
 		(uuid "2a160993-5e1c-44bf-a600-fd233b52be96")
 	)
 	(label "GPDI_SCK_5V"
-		(at 171.45 86.36 0)
+		(at 161.29 85.09 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8142,7 +8152,7 @@
 		(uuid "2e5a0d16-e507-4a8a-ab28-d7f61027f279")
 	)
 	(label "GPDI_UTIL"
-		(at 160.02 133.35 0)
+		(at 166.37 137.16 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8152,7 +8162,7 @@
 		(uuid "322b2966-7dbf-4f1d-ae10-598cd611aed6")
 	)
 	(label "GPDI_CEC"
-		(at 171.45 81.28 0)
+		(at 161.29 80.01 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8172,7 +8182,7 @@
 		(uuid "35e8da83-fe70-4f5d-b79b-a1996fae3202")
 	)
 	(label "CONN_CK-"
-		(at 203.2 76.2 0)
+		(at 193.04 74.93 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8192,7 +8202,7 @@
 		(uuid "3d6b3e2e-bf72-433c-b932-159ecb587256")
 	)
 	(label "GPDI_D1-"
-		(at 171.45 66.04 0)
+		(at 161.29 64.77 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8202,7 +8212,7 @@
 		(uuid "3fa13d68-28d9-46fb-a077-4a66907d3541")
 	)
 	(label "CONN_D2+"
-		(at 203.2 58.42 0)
+		(at 193.04 57.15 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8212,7 +8222,7 @@
 		(uuid "4005c076-9e7d-4ba1-a9ad-654b1ebc46a2")
 	)
 	(label "CONN_D0+"
-		(at 203.2 68.58 0)
+		(at 193.04 67.31 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8222,7 +8232,7 @@
 		(uuid "432ffdc1-8162-41ec-81dc-e136dfa6d866")
 	)
 	(label "GPDI_HPD"
-		(at 171.45 96.52 0)
+		(at 161.29 95.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8232,7 +8242,7 @@
 		(uuid "548cc8de-def0-4ae1-b281-c7f2fd041aef")
 	)
 	(label "CONN_D1-"
-		(at 203.2 66.04 0)
+		(at 193.04 64.77 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8242,7 +8252,7 @@
 		(uuid "698962e6-afe0-4c28-90b9-47860c2ac83b")
 	)
 	(label "GPDI_HPD"
-		(at 200.66 133.35 180)
+		(at 207.01 137.16 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8252,7 +8262,7 @@
 		(uuid "812aa9fc-15fc-49eb-9aa5-24215756e9d9")
 	)
 	(label "GPDI_D0+"
-		(at 171.45 68.58 0)
+		(at 161.29 67.31 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8262,7 +8272,7 @@
 		(uuid "87f3d875-4913-433a-8ae6-cfb26aedc0c2")
 	)
 	(label "GPDI_D0-"
-		(at 171.45 71.12 0)
+		(at 161.29 69.85 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8272,7 +8282,7 @@
 		(uuid "a0b0c6a2-0596-43c6-806a-28ae6ddb9698")
 	)
 	(label "GPDI_SDA_5V"
-		(at 171.45 88.9 0)
+		(at 161.29 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8292,7 +8302,7 @@
 		(uuid "ad6a0016-17f3-4491-bb2d-d908f883ab9b")
 	)
 	(label "GPDI_CLK-"
-		(at 171.45 76.2 0)
+		(at 161.29 74.93 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8352,7 +8362,7 @@
 		(uuid "d7fc3d6d-d659-46d5-85a1-0adbd899e913")
 	)
 	(label "GPDI_D1+"
-		(at 171.45 63.5 0)
+		(at 161.29 62.23 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8372,7 +8382,7 @@
 		(uuid "dc5d1249-3e32-491a-8f5e-4f97168b1b16")
 	)
 	(label "CONN_D2-"
-		(at 203.2 60.96 0)
+		(at 193.04 59.69 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8382,7 +8392,7 @@
 		(uuid "e4796c59-ec2b-4c19-9315-ac41a6770ee7")
 	)
 	(label "GPDI_CLK+"
-		(at 171.45 73.66 0)
+		(at 161.29 72.39 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8402,7 +8412,7 @@
 		(uuid "ead43829-fc6b-417e-89e8-d18670f4043f")
 	)
 	(label "CONN_D1+"
-		(at 203.2 63.5 0)
+		(at 193.04 62.23 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8412,7 +8422,7 @@
 		(uuid "ee71a03f-3e93-43a7-9548-49d0a77ca605")
 	)
 	(label "GPDI_D2+"
-		(at 171.45 58.42 0)
+		(at 161.29 57.15 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8422,7 +8432,7 @@
 		(uuid "f5feaa86-c460-406b-be5a-9239bd276951")
 	)
 	(label "CONN_CK+"
-		(at 203.2 73.66 0)
+		(at 193.04 72.39 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8432,7 +8442,7 @@
 		(uuid "f9880652-5cbf-4e3e-b98d-a189133fb87d")
 	)
 	(label "GPDI_UTIL"
-		(at 171.45 93.98 0)
+		(at 161.29 92.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8481,6 +8491,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" "Resistor"
@@ -8592,6 +8603,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" "Resistor"
@@ -8703,6 +8715,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" "Resistor"
@@ -8783,7 +8796,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000058d92625")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR056"
 			(at 114.3 116.84 0)
 			(effects
 				(font
@@ -8831,7 +8844,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/efe0a411-ae63-4682-aa63-a9a30697cd67"
-					(reference "#PWR049")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -8846,7 +8859,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000058d92b02")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR060"
 			(at 90.17 161.29 0)
 			(effects
 				(font
@@ -8894,7 +8907,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/efe0a411-ae63-4682-aa63-a9a30697cd67"
-					(reference "#PWR052")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -9124,7 +9137,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 195.58 96.52 270)
+		(at 185.42 95.25 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9132,7 +9145,7 @@
 		(dnp no)
 		(uuid "0e655f28-922a-4d81-83fe-f3c2b416877d")
 		(property "Reference" "R14"
-			(at 195.58 98.552 90)
+			(at 185.42 97.282 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9140,7 +9153,7 @@
 			)
 		)
 		(property "Value" "470"
-			(at 195.58 96.52 90)
+			(at 185.42 95.25 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9148,7 +9161,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 195.58 94.742 90)
+			(at 185.42 93.472 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9157,7 +9170,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 195.58 96.52 0)
+			(at 185.42 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9165,7 +9178,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 195.58 96.52 0)
+			(at 185.42 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9174,7 +9187,7 @@
 			)
 		)
 		(property "LCSC Part #" "C25117"
-			(at 195.58 96.52 0)
+			(at 185.42 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9183,7 +9196,7 @@
 			)
 		)
 		(property "LCSC Link" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-0402WGF4700TCE_C25117.html"
-			(at 195.58 96.52 90)
+			(at 185.42 95.25 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9192,7 +9205,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "0402WGF4700TCE"
-			(at 195.58 96.52 90)
+			(at 185.42 95.25 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9201,7 +9214,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 195.58 96.52 90)
+			(at 185.42 95.25 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9210,7 +9223,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 195.58 96.52 90)
+			(at 185.42 95.25 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9235,15 +9248,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 190.5 68.58 90)
+		(at 180.34 67.31 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "10ea0871-3723-4888-bba9-d70374f88837")
-		(property "Reference" "C33"
-			(at 187.706 67.31 90)
+		(property "Reference" "C40"
+			(at 177.546 66.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9251,7 +9264,7 @@
 			)
 		)
 		(property "Value" "22nF"
-			(at 187.198 69.85 90)
+			(at 177.038 68.58 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9259,7 +9272,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 190.5 68.58 0)
+			(at 180.34 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9268,7 +9281,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 190.5 68.58 0)
+			(at 180.34 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9277,7 +9290,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 190.5 68.58 0)
+			(at 180.34 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9286,7 +9299,7 @@
 			)
 		)
 		(property "LCSC Part #" "C1532"
-			(at 190.5 68.58 0)
+			(at 180.34 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9295,7 +9308,7 @@
 			)
 		)
 		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-0402B223K500NT_C1532.html"
-			(at 190.5 68.58 90)
+			(at 180.34 67.31 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9304,7 +9317,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "0402B223K500NT"
-			(at 190.5 68.58 90)
+			(at 180.34 67.31 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9313,7 +9326,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 190.5 68.58 90)
+			(at 180.34 67.31 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9322,7 +9335,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 190.5 68.58 90)
+			(at 180.34 67.31 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9339,7 +9352,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/efe0a411-ae63-4682-aa63-a9a30697cd67"
-					(reference "C33")
+					(reference "C40")
 					(unit 1)
 				)
 			)
@@ -9347,15 +9360,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 190.5 63.5 90)
+		(at 180.34 62.23 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "3f892596-34a5-4de9-b0f7-051199ed69e7")
-		(property "Reference" "C31"
-			(at 187.706 62.23 90)
+		(property "Reference" "C38"
+			(at 177.546 60.96 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9363,7 +9376,7 @@
 			)
 		)
 		(property "Value" "22nF"
-			(at 187.198 64.77 90)
+			(at 177.038 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9371,7 +9384,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 190.5 63.5 0)
+			(at 180.34 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9380,7 +9393,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 190.5 63.5 0)
+			(at 180.34 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9389,7 +9402,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 190.5 63.5 0)
+			(at 180.34 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9398,7 +9411,7 @@
 			)
 		)
 		(property "LCSC Part #" "C1532"
-			(at 190.5 63.5 0)
+			(at 180.34 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9407,7 +9420,7 @@
 			)
 		)
 		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-0402B223K500NT_C1532.html"
-			(at 190.5 63.5 90)
+			(at 180.34 62.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9416,7 +9429,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "0402B223K500NT"
-			(at 190.5 63.5 90)
+			(at 180.34 62.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9425,7 +9438,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 190.5 63.5 90)
+			(at 180.34 62.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9434,7 +9447,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 190.5 63.5 90)
+			(at 180.34 62.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9451,7 +9464,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/efe0a411-ae63-4682-aa63-a9a30697cd67"
-					(reference "C31")
+					(reference "C38")
 					(unit 1)
 				)
 			)
@@ -9459,7 +9472,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 195.58 81.28 270)
+		(at 185.42 80.01 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9467,7 +9480,7 @@
 		(dnp no)
 		(uuid "55ab3ca3-6eaa-42b1-abd7-afbeb13757d3")
 		(property "Reference" "R12"
-			(at 195.58 83.312 90)
+			(at 185.42 82.042 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9475,7 +9488,7 @@
 			)
 		)
 		(property "Value" "470"
-			(at 195.58 81.28 90)
+			(at 185.42 80.01 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9483,7 +9496,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 195.58 79.502 90)
+			(at 185.42 78.232 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9492,7 +9505,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 195.58 81.28 0)
+			(at 185.42 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9500,7 +9513,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 195.58 81.28 0)
+			(at 185.42 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9509,7 +9522,7 @@
 			)
 		)
 		(property "LCSC Part #" "C25117"
-			(at 195.58 81.28 0)
+			(at 185.42 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9518,7 +9531,7 @@
 			)
 		)
 		(property "LCSC Link" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-0402WGF4700TCE_C25117.html"
-			(at 195.58 81.28 90)
+			(at 185.42 80.01 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9527,7 +9540,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "0402WGF4700TCE"
-			(at 195.58 81.28 90)
+			(at 185.42 80.01 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9536,7 +9549,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 195.58 81.28 90)
+			(at 185.42 80.01 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9545,7 +9558,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 195.58 81.28 90)
+			(at 185.42 80.01 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9570,15 +9583,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 195.58 71.12 90)
+		(at 185.42 69.85 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "55c505c2-82e7-4fb7-a916-c13c254d443b")
-		(property "Reference" "C34"
-			(at 198.628 69.85 90)
+		(property "Reference" "C41"
+			(at 188.468 68.58 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9586,7 +9599,7 @@
 			)
 		)
 		(property "Value" "22nF"
-			(at 199.39 72.39 90)
+			(at 189.23 71.12 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9594,7 +9607,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 195.58 71.12 0)
+			(at 185.42 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9603,7 +9616,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 195.58 71.12 0)
+			(at 185.42 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9612,7 +9625,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 195.58 71.12 0)
+			(at 185.42 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9621,7 +9634,7 @@
 			)
 		)
 		(property "LCSC Part #" "C1532"
-			(at 195.58 71.12 0)
+			(at 185.42 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9630,7 +9643,7 @@
 			)
 		)
 		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-0402B223K500NT_C1532.html"
-			(at 195.58 71.12 90)
+			(at 185.42 69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9639,7 +9652,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "0402B223K500NT"
-			(at 195.58 71.12 90)
+			(at 185.42 69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9648,7 +9661,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 195.58 71.12 90)
+			(at 185.42 69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9657,7 +9670,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 195.58 71.12 90)
+			(at 185.42 69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9674,7 +9687,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/efe0a411-ae63-4682-aa63-a9a30697cd67"
-					(reference "C34")
+					(reference "C41")
 					(unit 1)
 				)
 			)
@@ -9682,15 +9695,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 195.58 76.2 90)
+		(at 185.42 74.93 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "5b02999c-1bec-47d2-ab22-d10e78b14a75")
-		(property "Reference" "C36"
-			(at 198.628 74.93 90)
+		(property "Reference" "C43"
+			(at 188.468 73.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9698,7 +9711,7 @@
 			)
 		)
 		(property "Value" "22nF"
-			(at 199.39 77.47 90)
+			(at 189.23 76.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9706,7 +9719,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 195.58 76.2 0)
+			(at 185.42 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9715,7 +9728,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 195.58 76.2 0)
+			(at 185.42 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9724,7 +9737,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 195.58 76.2 0)
+			(at 185.42 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9733,7 +9746,7 @@
 			)
 		)
 		(property "LCSC Part #" "C1532"
-			(at 195.58 76.2 0)
+			(at 185.42 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9742,7 +9755,7 @@
 			)
 		)
 		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-0402B223K500NT_C1532.html"
-			(at 195.58 76.2 90)
+			(at 185.42 74.93 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9751,7 +9764,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "0402B223K500NT"
-			(at 195.58 76.2 90)
+			(at 185.42 74.93 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9760,7 +9773,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 195.58 76.2 90)
+			(at 185.42 74.93 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9769,7 +9782,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 195.58 76.2 90)
+			(at 185.42 74.93 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9786,7 +9799,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/efe0a411-ae63-4682-aa63-a9a30697cd67"
-					(reference "C36")
+					(reference "C43")
 					(unit 1)
 				)
 			)
@@ -10675,15 +10688,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 195.58 66.04 90)
+		(at 185.42 64.77 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "65179535-5d57-4669-abc5-3be35b83aea9")
-		(property "Reference" "C32"
-			(at 198.628 64.77 90)
+		(property "Reference" "C39"
+			(at 188.468 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10691,7 +10704,7 @@
 			)
 		)
 		(property "Value" "22nF"
-			(at 199.39 67.31 90)
+			(at 189.23 66.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10699,7 +10712,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 195.58 66.04 0)
+			(at 185.42 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10708,7 +10721,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 195.58 66.04 0)
+			(at 185.42 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10717,7 +10730,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 195.58 66.04 0)
+			(at 185.42 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10726,7 +10739,7 @@
 			)
 		)
 		(property "LCSC Part #" "C1532"
-			(at 195.58 66.04 0)
+			(at 185.42 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10735,7 +10748,7 @@
 			)
 		)
 		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-0402B223K500NT_C1532.html"
-			(at 195.58 66.04 90)
+			(at 185.42 64.77 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10744,7 +10757,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "0402B223K500NT"
-			(at 195.58 66.04 90)
+			(at 185.42 64.77 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10753,7 +10766,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 195.58 66.04 90)
+			(at 185.42 64.77 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10762,7 +10775,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 195.58 66.04 90)
+			(at 185.42 64.77 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10779,7 +10792,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/efe0a411-ae63-4682-aa63-a9a30697cd67"
-					(reference "C32")
+					(reference "C39")
 					(unit 1)
 				)
 			)
@@ -10787,7 +10800,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 224.79 49.53 0)
+		(at 214.63 48.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10795,8 +10808,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7fb7aa4e-e6b3-4f93-91fe-afc3fcd76aa7")
-		(property "Reference" "#PWR047"
-			(at 224.79 53.34 0)
+		(property "Reference" "#PWR054"
+			(at 214.63 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10805,7 +10818,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 224.79 44.45 0)
+			(at 214.63 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10813,7 +10826,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 224.79 49.53 0)
+			(at 214.63 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10822,7 +10835,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 224.79 49.53 0)
+			(at 214.63 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10831,7 +10844,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 224.79 49.53 0)
+			(at 214.63 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10845,7 +10858,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/efe0a411-ae63-4682-aa63-a9a30697cd67"
-					(reference "#PWR047")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -10853,7 +10866,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 226.06 109.22 0)
+		(at 215.9 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10861,8 +10874,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a748520-037b-4e95-911d-b40c6f12b9ac")
-		(property "Reference" "#PWR048"
-			(at 226.06 115.57 0)
+		(property "Reference" "#PWR055"
+			(at 215.9 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10871,7 +10884,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 226.06 114.3 0)
+			(at 215.9 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10879,7 +10892,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 226.06 109.22 0)
+			(at 215.9 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10888,7 +10901,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 226.06 109.22 0)
+			(at 215.9 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10897,7 +10910,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 226.06 109.22 0)
+			(at 215.9 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10911,7 +10924,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/efe0a411-ae63-4682-aa63-a9a30697cd67"
-					(reference "#PWR048")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -10919,7 +10932,7 @@
 	)
 	(symbol
 		(lib_id "Power_Protection:TPD2EUSB30A")
-		(at 180.34 133.35 0)
+		(at 186.69 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10927,8 +10940,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ac4f4c7-87a3-49a0-ba06-a7bf0f07d68d")
-		(property "Reference" "U12"
-			(at 180.34 123.19 0)
+		(property "Reference" "U5"
+			(at 186.69 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10936,7 +10949,7 @@
 			)
 		)
 		(property "Value" "TPD2EUSB30A"
-			(at 180.34 125.73 0)
+			(at 186.69 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10944,7 +10957,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:Texas_DRT-3"
-			(at 161.29 140.97 0)
+			(at 167.64 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10953,7 +10966,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tpd2eusb30a.pdf"
-			(at 180.34 133.35 0)
+			(at 186.69 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10962,7 +10975,7 @@
 			)
 		)
 		(property "Description" "2-Channel ESD Protection for Super-Speed USB 3.0 Interface, DRT-3"
-			(at 180.34 133.35 0)
+			(at 186.69 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10971,7 +10984,7 @@
 			)
 		)
 		(property "LCSC Part #" "C3011197"
-			(at 180.34 133.35 0)
+			(at 186.69 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10980,7 +10993,7 @@
 			)
 		)
 		(property "LCSC Link" "https://lcsc.com/product-detail/ESD-and-Surge-Protection-TVS-ESD_TECH-PUBLIC-TPD2EUSB30ADRTR_C3011197.html"
-			(at 180.34 133.35 0)
+			(at 186.69 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10989,7 +11002,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "TPD2EUSB30ADRTR"
-			(at 180.34 133.35 0)
+			(at 186.69 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10998,7 +11011,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 180.34 133.35 0)
+			(at 186.69 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11007,7 +11020,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 180.34 133.35 0)
+			(at 186.69 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11027,7 +11040,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/efe0a411-ae63-4682-aa63-a9a30697cd67"
-					(reference "U12")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -11035,7 +11048,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 195.58 93.98 270)
+		(at 185.42 92.71 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11044,7 +11057,7 @@
 		(dnp no)
 		(uuid "a8f8e202-a2fc-454e-b07c-8226e1474839")
 		(property "Reference" "R13"
-			(at 195.58 91.948 90)
+			(at 185.42 90.678 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11052,7 +11065,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 195.58 93.98 90)
+			(at 185.42 92.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11060,7 +11073,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 195.58 95.758 90)
+			(at 185.42 94.488 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11069,7 +11082,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 195.58 93.98 0)
+			(at 185.42 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11077,7 +11090,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 195.58 93.98 0)
+			(at 185.42 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11086,7 +11099,7 @@
 			)
 		)
 		(property "LCSC Part #" "C25744"
-			(at 195.58 93.98 0)
+			(at 185.42 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11095,7 +11108,7 @@
 			)
 		)
 		(property "LCSC Link" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-0402WGF1002TCE_C25744.html"
-			(at 195.58 93.98 90)
+			(at 185.42 92.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11104,7 +11117,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "0402WGF1002TCE"
-			(at 195.58 93.98 90)
+			(at 185.42 92.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11113,7 +11126,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 195.58 93.98 90)
+			(at 185.42 92.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11122,7 +11135,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 195.58 93.98 90)
+			(at 185.42 92.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11147,15 +11160,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 190.5 58.42 90)
+		(at 180.34 57.15 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "ba73204c-7a61-4bee-a0d0-754cad828e57")
-		(property "Reference" "C29"
-			(at 187.706 57.15 90)
+		(property "Reference" "C36"
+			(at 177.546 55.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11163,7 +11176,7 @@
 			)
 		)
 		(property "Value" "22nF"
-			(at 187.198 59.69 90)
+			(at 177.038 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11171,7 +11184,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 190.5 58.42 0)
+			(at 180.34 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11180,7 +11193,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 190.5 58.42 0)
+			(at 180.34 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11189,7 +11202,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 190.5 58.42 0)
+			(at 180.34 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11198,7 +11211,7 @@
 			)
 		)
 		(property "LCSC Part #" "C1532"
-			(at 190.5 58.42 0)
+			(at 180.34 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11207,7 +11220,7 @@
 			)
 		)
 		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-0402B223K500NT_C1532.html"
-			(at 190.5 58.42 90)
+			(at 180.34 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11216,7 +11229,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "0402B223K500NT"
-			(at 190.5 58.42 90)
+			(at 180.34 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11225,7 +11238,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 190.5 58.42 90)
+			(at 180.34 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11234,7 +11247,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 190.5 58.42 90)
+			(at 180.34 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11251,7 +11264,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/efe0a411-ae63-4682-aa63-a9a30697cd67"
-					(reference "C29")
+					(reference "C36")
 					(unit 1)
 				)
 			)
@@ -11259,15 +11272,15 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 119.38 139.7 270)
+		(at 128.27 138.43 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "bf325c92-7f8e-4d02-9b87-275236d87458")
-		(property "Reference" "#PWR051"
-			(at 115.57 139.7 0)
+		(property "Reference" "#PWR058"
+			(at 128.27 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11276,7 +11289,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 120.65 137.668 90)
+			(at 128.27 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11284,7 +11297,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 119.38 139.7 0)
+			(at 128.27 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11292,7 +11305,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 139.7 0)
+			(at 128.27 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11300,7 +11313,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 140.208 137.16 0)
+			(at 125.73 117.602 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11314,7 +11327,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/efe0a411-ae63-4682-aa63-a9a30697cd67"
-					(reference "#PWR051")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -11329,7 +11342,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cb7f83f4-8d02-4d18-82f8-67d054fc1046")
-		(property "Reference" "U5"
+		(property "Reference" "U6"
 			(at 92.3133 154.94 0)
 			(effects
 				(font
@@ -11446,7 +11459,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/efe0a411-ae63-4682-aa63-a9a30697cd67"
-					(reference "U5")
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -11454,7 +11467,7 @@
 	)
 	(symbol
 		(lib_id "icepi-lib:GPDI_C_1.3")
-		(at 224.79 78.74 0)
+		(at 214.63 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11463,7 +11476,7 @@
 		(fields_autoplaced yes)
 		(uuid "cc0bd42c-35b7-48f2-b4bc-66239279f010")
 		(property "Reference" "J2"
-			(at 236.22 77.4699 0)
+			(at 226.06 76.1999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11472,7 +11485,7 @@
 			)
 		)
 		(property "Value" "GPDI_C_1.3"
-			(at 236.22 80.0099 0)
+			(at 226.06 78.7399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11481,7 +11494,7 @@
 			)
 		)
 		(property "Footprint" "icepi-lib:XKB Connection A71-05H4-111N1"
-			(at 225.425 78.74 0)
+			(at 215.265 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11490,7 +11503,7 @@
 			)
 		)
 		(property "Datasheet" "-"
-			(at 225.425 78.74 0)
+			(at 215.265 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11499,7 +11512,7 @@
 			)
 		)
 		(property "Description" "GPDI type C connector"
-			(at 224.79 78.74 0)
+			(at 214.63 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11508,7 +11521,7 @@
 			)
 		)
 		(property "LCSC Part #" "C2682170"
-			(at 224.79 78.74 0)
+			(at 214.63 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11517,7 +11530,7 @@
 			)
 		)
 		(property "LCSC Link" "https://lcsc.com/product-detail/HDMI-Connectors_XKB-Connection-A71-05H4-111N1_C2682170.html"
-			(at 224.79 78.74 0)
+			(at 214.63 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11526,7 +11539,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "A71-05H4-111N1"
-			(at 224.79 78.74 0)
+			(at 214.63 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11535,7 +11548,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 224.79 78.74 0)
+			(at 214.63 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11544,7 +11557,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 224.79 78.74 0)
+			(at 214.63 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11623,15 +11636,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 195.58 60.96 90)
+		(at 185.42 59.69 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "cf810ea3-ad83-4644-96cb-dc74d04c77c8")
-		(property "Reference" "C30"
-			(at 198.628 59.69 90)
+		(property "Reference" "C37"
+			(at 188.468 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11639,7 +11652,7 @@
 			)
 		)
 		(property "Value" "22nF"
-			(at 199.39 62.23 90)
+			(at 189.23 60.96 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11647,7 +11660,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 195.58 60.96 0)
+			(at 185.42 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11656,7 +11669,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 195.58 60.96 0)
+			(at 185.42 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11665,7 +11678,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 195.58 60.96 0)
+			(at 185.42 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11674,7 +11687,7 @@
 			)
 		)
 		(property "LCSC Part #" "C1532"
-			(at 195.58 60.96 0)
+			(at 185.42 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11683,7 +11696,7 @@
 			)
 		)
 		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-0402B223K500NT_C1532.html"
-			(at 195.58 60.96 90)
+			(at 185.42 59.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11692,7 +11705,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "0402B223K500NT"
-			(at 195.58 60.96 90)
+			(at 185.42 59.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11701,7 +11714,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 195.58 60.96 90)
+			(at 185.42 59.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11710,7 +11723,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 195.58 60.96 90)
+			(at 185.42 59.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11727,7 +11740,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/efe0a411-ae63-4682-aa63-a9a30697cd67"
-					(reference "C30")
+					(reference "C37")
 					(unit 1)
 				)
 			)
@@ -11735,15 +11748,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 190.5 73.66 90)
+		(at 180.34 72.39 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "ddca49b6-ff4a-49fe-82cd-d4f29e588e45")
-		(property "Reference" "C35"
-			(at 187.706 72.39 90)
+		(property "Reference" "C42"
+			(at 177.546 71.12 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11751,7 +11764,7 @@
 			)
 		)
 		(property "Value" "22nF"
-			(at 187.198 74.93 90)
+			(at 177.038 73.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11759,7 +11772,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 190.5 73.66 0)
+			(at 180.34 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11768,7 +11781,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 190.5 73.66 0)
+			(at 180.34 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11777,7 +11790,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 190.5 73.66 0)
+			(at 180.34 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11786,7 +11799,7 @@
 			)
 		)
 		(property "LCSC Part #" "C1532"
-			(at 190.5 73.66 0)
+			(at 180.34 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11795,7 +11808,7 @@
 			)
 		)
 		(property "LCSC Link" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-0402B223K500NT_C1532.html"
-			(at 190.5 73.66 90)
+			(at 180.34 72.39 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11804,7 +11817,7 @@
 			)
 		)
 		(property "Manufactuer Part Number" "0402B223K500NT"
-			(at 190.5 73.66 90)
+			(at 180.34 72.39 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11813,7 +11826,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 190.5 73.66 90)
+			(at 180.34 72.39 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11822,7 +11835,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 190.5 73.66 90)
+			(at 180.34 72.39 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11839,7 +11852,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/efe0a411-ae63-4682-aa63-a9a30697cd67"
-					(reference "C35")
+					(reference "C42")
 					(unit 1)
 				)
 			)
@@ -11855,7 +11868,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e1fc5d72-3b00-4f34-8c2b-ab903c94778a")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR057"
 			(at 73.66 128.27 0)
 			(effects
 				(font
@@ -11903,7 +11916,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/efe0a411-ae63-4682-aa63-a9a30697cd67"
-					(reference "#PWR050")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -11911,7 +11924,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 180.34 144.78 0)
+		(at 186.69 148.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11919,8 +11932,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ef423123-0b8f-4b67-a39a-d351fa609493")
-		(property "Reference" "#PWR0111"
-			(at 180.34 151.13 0)
+		(property "Reference" "#PWR059"
+			(at 186.69 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11929,7 +11942,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 180.34 149.86 0)
+			(at 186.69 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11937,7 +11950,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 180.34 144.78 0)
+			(at 186.69 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11946,7 +11959,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 180.34 144.78 0)
+			(at 186.69 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11955,7 +11968,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 180.34 144.78 0)
+			(at 186.69 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11969,7 +11982,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/efe0a411-ae63-4682-aa63-a9a30697cd67"
-					(reference "#PWR0111")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -11985,7 +11998,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa9b2772-89ce-4202-9508-e3a7e92cc828")
-		(property "Reference" "#FLG05"
+		(property "Reference" "#FLG06"
 			(at 92.71 123.825 0)
 			(effects
 				(font
@@ -12035,7 +12048,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/efe0a411-ae63-4682-aa63-a9a30697cd67"
-					(reference "#FLG05")
+					(reference "#FLG06")
 					(unit 1)
 				)
 			)

@@ -2,6 +2,7 @@ VERILOG_SOURCES := $(wildcard *.v) $(wildcard *.sv)
 TEST_SOURCES := $(wildcard tb/*.v) $(wildcard tb/*.sv)
 OUTPUT := bitstream
 PACKAGE := CABGA256
+FPGA_SIZE ?= 25k
 
 all: debug
 
@@ -10,7 +11,7 @@ all: debug
 	yosys -p 'synth_ecp5 -top top -json $@' $^
 
 %.config: %.json icepi-zero.lpf
-	nextpnr-ecp5 --25k --package $(PACKAGE) --lpf icepi-zero.lpf --json $< --textcfg $@ # 2> log.txt
+	nextpnr-ecp5 --$(FPGA_SIZE) --package $(PACKAGE) --lpf icepi-zero.lpf --json $< --textcfg $@ # 2> log.txt
 	# cat log.txt | grep Device -A 28
 
 %.bit: %.config

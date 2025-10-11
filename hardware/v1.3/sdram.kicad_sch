@@ -5,8 +5,8 @@
 	(uuid "8944d9b7-515d-4e4f-832e-0432a542d7de")
 	(paper "A4")
 	(title_block
-		(title "Icepi zero")
-		(date "2025-08-31")
+		(title "Icepi Zero")
+		(date "2025-10-10")
 		(rev "v1.3")
 		(company "Chengyin Yao (cheyao)")
 		(comment 1 "https://github.com/cheyao/icepi-zero")
@@ -10075,7 +10075,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0595de0b-165c-4c86-9537-948763c82b1e")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR081"
 			(at 172.72 41.91 0)
 			(effects
 				(font
@@ -10125,7 +10125,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/3bffbb9a-e009-498c-a1b0-c490cdf30139"
-					(reference "#PWR071")
+					(reference "#PWR081")
 					(unit 1)
 				)
 			)
@@ -10142,7 +10142,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "144bc1b5-19b0-4094-9f58-a8eae7807354")
-		(property "Reference" "C54"
+		(property "Reference" "C49"
 			(at 220.98 41.9162 0)
 			(effects
 				(font
@@ -10241,7 +10241,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/3bffbb9a-e009-498c-a1b0-c490cdf30139"
-					(reference "C54")
+					(reference "C49")
 					(unit 1)
 				)
 			)
@@ -10258,7 +10258,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "332d777b-1a2c-4e50-bd81-dcc507ecf323")
-		(property "Reference" "C43"
+		(property "Reference" "C47"
 			(at 196.85 41.9162 0)
 			(effects
 				(font
@@ -10357,7 +10357,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/3bffbb9a-e009-498c-a1b0-c490cdf30139"
-					(reference "C43")
+					(reference "C47")
 					(unit 1)
 				)
 			)
@@ -10374,7 +10374,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "56a2e96d-05f8-4ed4-bc02-6446b81e91e0")
-		(property "Reference" "C41"
+		(property "Reference" "C48"
 			(at 209.55 41.9162 0)
 			(effects
 				(font
@@ -10473,7 +10473,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/3bffbb9a-e009-498c-a1b0-c490cdf30139"
-					(reference "C41")
+					(reference "C48")
 					(unit 1)
 				)
 			)
@@ -10490,7 +10490,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5aa39693-9e53-42c7-b11b-b25d0170e3e4")
-		(property "Reference" "C44"
+		(property "Reference" "C46"
 			(at 184.15 41.9162 0)
 			(effects
 				(font
@@ -10589,7 +10589,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/3bffbb9a-e009-498c-a1b0-c490cdf30139"
-					(reference "C44")
+					(reference "C46")
 					(unit 1)
 				)
 			)
@@ -10605,7 +10605,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "63e9f349-4a0f-4986-bf93-37c2be3c4782")
-		(property "Reference" "U10"
+		(property "Reference" "U11"
 			(at 177.4033 62.23 0)
 			(effects
 				(font
@@ -10861,7 +10861,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/3bffbb9a-e009-498c-a1b0-c490cdf30139"
-					(reference "U10")
+					(reference "U11")
 					(unit 1)
 				)
 			)
@@ -10877,7 +10877,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "72ed250f-09da-4fc0-99ad-c32a3972a794")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR083"
 			(at 173.99 143.51 0)
 			(effects
 				(font
@@ -10927,7 +10927,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/3bffbb9a-e009-498c-a1b0-c490cdf30139"
-					(reference "#PWR073")
+					(reference "#PWR083")
 					(unit 1)
 				)
 			)
@@ -10944,7 +10944,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7ec3a675-12f1-44f9-b8f7-afa7d16b56f0")
-		(property "Reference" "C40"
+		(property "Reference" "C50"
 			(at 232.41 41.9162 0)
 			(effects
 				(font
@@ -11043,7 +11043,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/3bffbb9a-e009-498c-a1b0-c490cdf30139"
-					(reference "C40")
+					(reference "C50")
 					(unit 1)
 				)
 			)
@@ -11060,7 +11060,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ec2e3d4-21e6-43dd-8d27-c4409e5572fc")
-		(property "Reference" "C39"
+		(property "Reference" "C51"
 			(at 243.84 41.9162 0)
 			(effects
 				(font
@@ -11159,7 +11159,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/3bffbb9a-e009-498c-a1b0-c490cdf30139"
-					(reference "C39")
+					(reference "C51")
 					(unit 1)
 				)
 			)
@@ -11176,7 +11176,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ad810653-e545-4d32-b7fd-f869d5a8c11e")
-		(property "Reference" "C53"
+		(property "Reference" "C52"
 			(at 255.27 41.9162 0)
 			(effects
 				(font
@@ -11275,7 +11275,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/3bffbb9a-e009-498c-a1b0-c490cdf30139"
-					(reference "C53")
+					(reference "C52")
 					(unit 1)
 				)
 			)
@@ -12172,7 +12172,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dbe4c306-e222-4df1-a8a7-1d8875804f68")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR082"
 			(at 181.61 54.61 0)
 			(effects
 				(font
@@ -12222,7 +12222,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/3bffbb9a-e009-498c-a1b0-c490cdf30139"
-					(reference "#PWR072")
+					(reference "#PWR082")
 					(unit 1)
 				)
 			)
@@ -12237,7 +12237,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f3b96b9a-9747-4038-9261-49c4da29bd90")
-		(property "Reference" "C42"
+		(property "Reference" "C53"
 			(at 266.7 41.9162 0)
 			(effects
 				(font
@@ -12336,7 +12336,7 @@
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d/3bffbb9a-e009-498c-a1b0-c490cdf30139"
-					(reference "C42")
+					(reference "C53")
 					(unit 1)
 				)
 			)
