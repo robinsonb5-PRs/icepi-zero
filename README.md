@@ -2,11 +2,12 @@
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d2e1d2fe540b8c4ee1d35ecd6e0287b981d7ee8d_image.png)
 
-## [**Now on Crowd Supply**](https://www.crowdsupply.com/icy-electronics/icepi-zero)!
+| Get your own on: | [**Crowd Supply**](https://www.crowdsupply.com/icy-electronics/icepi-zero)! |
+| ---------------- | ------------------------ |
 
 ## What is the Icepi Zero?
 
-Icepi Zero is an FPGA development board in the popular Raspberry Pi Zero form factor. It carries a Lattice ECP5 25F, enabling powerful designs while keeping a small portable size. It also has a GPDI mini (General Purpose Display Interface, same as the one on the Pi Zero) port allowing easy digital video output.
+The Icepi Zero is an FPGA development board in the popular Raspberry Pi Zero form factor. It carries a Lattice ECP5 25F, enabling powerful designs while keeping a small portable size. It also has a GPDI mini (General Purpose Display Interface, same as the one on the Pi Zero) port allowing easy digital video output.
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ec8ed16af61150195ea388c32047b6e1b9825b63_image.png)
 

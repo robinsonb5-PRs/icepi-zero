@@ -6533,7 +6533,7 @@
 		)
 		(uuid "8c347882-8919-441e-838d-224f48ceeb0d")
 	)
-	(text "1x 10u per bank and 1x 100n per pin"
+	(text "Should have 1x 10u per bank and 1x 100n per pin\nBut can't fit them all so a few 10u caps are ommited"
 		(exclude_from_sim no)
 		(at 97.028 73.152 0)
 		(effects
@@ -6545,7 +6545,7 @@
 	)
 	(text "Voltage Regulators"
 		(exclude_from_sim no)
-		(at 219.456 40.894 0)
+		(at 230.124 36.068 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6553,10 +6553,10 @@
 		)
 		(uuid "e422c66a-b5dd-44ca-9405-ae9d7f75892c")
 	)
-	(text_box "Power up sequence:\n1. VCCio8 > 2.3\n2. Vcc > 0.95 & Vccaux > 2.1\nFulfilled by the varying capacitor sizes"
+	(text_box "Power up sequence:\n1. VCCio8 > 2.3\n2. Vcc > 0.95 & Vccaux > 2.1\nFulfilled by the varying capacitor sizes\nNote:\nInductors must be 100mA+ and 400mΩ-"
 		(exclude_from_sim no)
-		(at 238.252 26.162 0)
-		(size 32.766 11.176)
+		(at 249.174 15.24 0)
+		(size 32.766 17.526)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width 0)
@@ -6608,12 +6608,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "17adcad8-a8c6-4344-abbf-4ba69b9f8b20")
-	)
-	(junction
-		(at 74.93 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "207a6925-a4ea-42a7-99ca-ba958cf2559d")
 	)
 	(junction
 		(at 62.23 125.73)
@@ -7156,12 +7150,6 @@
 		(uuid "e8b3bbf3-219e-47a2-91f2-3f3725bf468e")
 	)
 	(junction
-		(at 74.93 46.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f060586b-b645-4f26-bc1b-6cd67b2a1c9e")
-	)
-	(junction
 		(at 60.96 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7505,7 +7493,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 46.99) (xy 69.85 46.99)
+			(xy 69.85 46.99) (xy 78.74 46.99)
 		)
 		(stroke
 			(width 0)
@@ -8085,6 +8073,16 @@
 	)
 	(wire
 		(pts
+			(xy 69.85 54.61) (xy 78.74 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4bc7987c-e652-4e96-b929-96c74735114a")
+	)
+	(wire
+		(pts
 			(xy 256.54 121.92) (xy 248.92 121.92)
 		)
 		(stroke
@@ -8575,16 +8573,6 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 54.61) (xy 78.74 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "77f7c304-5431-496e-be4a-14cdee7d6865")
-	)
-	(wire
-		(pts
 			(xy 243.84 55.88) (xy 243.84 54.61)
 		)
 		(stroke
@@ -9025,7 +9013,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 45.72) (xy 74.93 46.99)
+			(xy 69.85 45.72) (xy 69.85 46.99)
 		)
 		(stroke
 			(width 0)
@@ -9635,16 +9623,6 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 46.99) (xy 74.93 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d0fdfd9b-a4e7-4ab2-b9a0-bc4218f083f1")
-	)
-	(wire
-		(pts
 			(xy 243.84 99.06) (xy 243.84 97.79)
 		)
 		(stroke
@@ -9772,16 +9750,6 @@
 			(type default)
 		)
 		(uuid "de7238ae-5dac-4636-b40b-7096f9b44986")
-	)
-	(wire
-		(pts
-			(xy 69.85 54.61) (xy 74.93 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e102b24d-da63-48b4-9cb7-4c19b4fc9611")
 	)
 	(wire
 		(pts
@@ -9955,7 +9923,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 54.61) (xy 74.93 55.88)
+			(xy 69.85 54.61) (xy 69.85 55.88)
 		)
 		(stroke
 			(width 0)
@@ -11533,7 +11501,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2uH 100mA+ 400mO-"
+		(property "Value" "2.2uH"
 			(at 229.87 119.38 90)
 			(effects
 				(font
@@ -13997,7 +13965,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2uH 100mA+ 400mO-"
+		(property "Value" "2.2uH"
 			(at 229.87 52.07 90)
 			(effects
 				(font
@@ -15941,7 +15909,7 @@
 	)
 	(symbol
 		(lib_id "power:+1V1")
-		(at 74.93 45.72 0)
+		(at 69.85 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15950,7 +15918,7 @@
 		(fields_autoplaced yes)
 		(uuid "843cdb73-cdc8-4a24-9d3c-f531aa0f3245")
 		(property "Reference" "#PWR024"
-			(at 74.93 49.53 0)
+			(at 69.85 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15959,7 +15927,7 @@
 			)
 		)
 		(property "Value" "+1V1"
-			(at 74.93 40.64 0)
+			(at 69.85 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15967,7 +15935,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 74.93 45.72 0)
+			(at 69.85 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15976,7 +15944,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 74.93 45.72 0)
+			(at 69.85 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15985,7 +15953,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+1V1\""
-			(at 74.93 45.72 0)
+			(at 69.85 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17033,7 +17001,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 74.93 55.88 0)
+		(at 69.85 55.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17042,7 +17010,7 @@
 		(fields_autoplaced yes)
 		(uuid "b22a3b5b-797b-43c8-961c-c78280200a88")
 		(property "Reference" "#PWR025"
-			(at 74.93 62.23 0)
+			(at 69.85 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17051,7 +17019,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 74.93 60.96 0)
+			(at 69.85 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17059,7 +17027,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 74.93 55.88 0)
+			(at 69.85 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17068,7 +17036,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 74.93 55.88 0)
+			(at 69.85 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17077,7 +17045,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 74.93 55.88 0)
+			(at 69.85 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17935,7 +17903,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2uH 100mA+ 400mO-"
+		(property "Value" "2.2uH"
 			(at 229.87 85.09 90)
 			(effects
 				(font
