@@ -74,23 +74,17 @@ Debug pins are distrubuted as the follwing picture shows:
 
 ## Other examples
 
-I will be pull requesting these in the next few days:
+This board is already supported by [apio](https://github.com/FPGAwars/apio/) and [icestudio](https://github.com/FPGAwars/icestudio)'s development branch. The board should be supported on stable in the next release.
 
-[linux-on-litex-vexriscv](https://github.com/cheyao/linux-on-litex-vexriscv) and [litex-boards](https://github.com/cheyao/litex-boards) are ported over.
-
-[Port of APIO](https://github.com/cheyao/apio) and [Port of APIO examples](https://github.com/cheyao/apio-examples)
-
-[Port of Icestudio](https://github.com/cheyao/icestudio)
-
-[Port of Silice](https://github.com/cheyao/Silice)
+The [litex-boards](https://github.com/litex-hub/litex-boards) also supports the Icepi Zero, while [linux-on-litex-vexriscv](https://github.com/litex-hub/linux-on-litex-vexriscv) has an pr open. (Forgot to open it last month, opps!)
 
 And here are some retro ports:
 
-[Apple 1 Emulator](https://github.com/cheyao/apple-one) ported to Icepi Zero
+[Apple 1 Emulator](https://github.com/alangarf/apple-one)
 
 [Port of Acorn Atom](https://github.com/cheyao/acorn_atom)
 
 [Commodore 64!](https://github.com/cheyao/c64)
 
-[Port of Silice](https://github.com/cheyao/Silice) (Check out the projects folder - it's full of interesting stuff)
+[Port of Silice](https://github.com/sylefeb/Silice/) (Check out the projects folder - it's full of interesting stuff)
 
