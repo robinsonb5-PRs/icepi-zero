@@ -13,6 +13,8 @@ Welcome to the firmware folder! You can find numerous examples here:
 
 ## Toolchain setup
 
+### Option 1: Open source toolchain
+
 Download the latest build of the [OSS CAD Suite](https://github.com/YosysHQ/oss-cad-suite-build/releases/).
 
 Unzip it anywhere and set shell command search path:
@@ -23,7 +25,17 @@ Windows Powershell : $ENV:PATH = "[path-to-bin];" + $ENV:PATH
 Windows cmd.exe    : PATH=[path-to-bin];%PATH%
 ```
 
-## How to build
+### Option 2: Lattice Diamond IDE
+
+To use the Diamond IDE, you must first request a license. (Free for individuals.)
+
+Go to the [licensing page](https://www.latticesemi.com/Support/Licensing/DiamondAndiCEcube2SoftwareLicensing/DiamondFree?url=%2fSupport%2fLicensing%2fDiamondAndiCEcube2SoftwareLicensing%2fDiamondFree&tracker=login) and create an account. Then copy your device's MAC address, remove all colons and enter it into the "Host NIC" field. Click "Generate License", and you should receive a license in your email.
+
+After that, go to Diamond IDE's [download page](https://www.latticesemi.com/LatticeDiamond), install normally and select the license file when asked.
+
+You can now use Diamon IDE to create programs and flash it onto your Icepi with openFPGALoader!
+
+## How to build the demos
 
 Just `cd` into the directories, and type `make`!
 
