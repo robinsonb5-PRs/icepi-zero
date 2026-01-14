@@ -10795,6 +10795,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 229.87 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "92d775e7-8fb7-469c-83ce-08e4e63adf34")
 		)
@@ -10900,6 +10909,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 171.45 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 171.45 52.07 0)
 			(effects
 				(font
@@ -11078,6 +11096,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 234.95 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c8088ab8-9909-48ac-a356-74b341a1364a")
 		)
@@ -11183,6 +11210,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 67.31 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 67.31 142.24 0)
 			(effects
 				(font
@@ -11365,6 +11401,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 223.52 24.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 223.52 24.13 90)
 			(effects
 				(font
@@ -11677,6 +11722,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 152.4 160.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5c6ee1a6-c09e-4697-aef8-a29d34686524")
 		)
@@ -11911,6 +11965,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 34.29 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 34.29 124.46 0)
 			(effects
 				(font
@@ -12155,6 +12218,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 113.03 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6f63c8df-1702-46d5-ba35-862b2b372c7e")
 		)
@@ -12261,6 +12333,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 95.25 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 95.25 43.18 90)
 			(effects
 				(font
@@ -12381,6 +12462,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 193.04 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eaa011be-30fd-4af4-9d74-f8c5f807c2fb")
 		)
@@ -12485,6 +12575,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 101.6 29.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 101.6 29.21 90)
 			(effects
 				(font
@@ -12608,6 +12707,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 71.12 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "42b11cd0-07d0-437b-abba-1de8df869f10")
 		)
@@ -12714,6 +12822,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 176.53 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 176.53 119.38 90)
 			(effects
 				(font
@@ -12853,6 +12970,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 234.95 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f5134034-42fa-4cbc-96c4-451582a45721")
 		)
@@ -12958,6 +13084,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 101.6 24.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 101.6 24.13 90)
 			(effects
 				(font
@@ -13080,6 +13215,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 87.63 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e6a22a93-28b7-4aa7-b4d6-807b58d90d3e")
 		)
@@ -13194,6 +13338,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 171.45 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4d896ea0-0c8e-4662-8c7a-2d4fea26ec8e")
 		)
@@ -13291,6 +13444,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 57.15 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 57.15 181.61 0)
 			(effects
 				(font
@@ -13549,6 +13711,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 114.3 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "290d444f-ac65-4b45-a131-54633838c9d2")
 		)
@@ -13738,6 +13909,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 113.03 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 113.03 82.55 0)
 			(effects
 				(font
@@ -13991,6 +14171,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 105.41 170.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6f2f212c-f75b-4442-994e-0906b011e2b5")
 		)
@@ -14098,6 +14287,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 110.49 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 110.49 132.08 0)
 			(effects
 				(font
@@ -14276,6 +14474,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 88.9 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d84ba483-48c3-413e-9c46-3d726a56d45c")
 		)
@@ -14410,6 +14617,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 234.95 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "598a3dfa-8ce1-49b1-9568-5707b8197e92")
 		)
@@ -14514,6 +14730,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 57.15 116.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 57.15 116.84 90)
 			(effects
 				(font
@@ -14628,6 +14853,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 181.61 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 181.61 142.24 90)
 			(effects
 				(font
@@ -14808,6 +15042,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 198.12 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 198.12 132.08 0)
 			(effects
 				(font
@@ -15688,6 +15931,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 152.4 165.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f5228e88-f97e-4a66-a797-954250cc7538")
 		)
@@ -15863,6 +16115,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 223.52 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f73a956a-2843-4102-a5d5-5432ef3bb7ef")
 		)
@@ -15986,6 +16247,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 113.03 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 113.03 29.21 0)
 			(effects
 				(font
@@ -16323,6 +16593,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 234.95 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4d047ba2-705a-42fd-892f-4adec5feb9c8")
 		)
@@ -16436,6 +16715,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 95.25 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d3f5bec6-4082-49ef-a43d-dd46914e69aa")
 		)
@@ -16534,6 +16822,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 152.4 170.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 152.4 170.18 90)
 			(effects
 				(font
@@ -16652,6 +16949,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 223.52 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9e1ba982-e1a7-412e-8f22-269c1dfbb0cc")
 		)
@@ -16753,6 +17059,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 152.4 154.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 152.4 154.94 90)
 			(effects
 				(font
@@ -16870,6 +17185,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 193.04 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "25cb5f88-a1bb-4307-925b-004944cb7c44")
 		)
@@ -16976,6 +17300,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 166.37 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 166.37 119.38 90)
 			(effects
 				(font
@@ -17107,6 +17440,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 113.03 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 113.03 24.13 0)
 			(effects
 				(font
@@ -17295,6 +17637,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 229.87 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2fcc9658-7adb-4c48-9091-9587966140c7")
 		)
@@ -17399,6 +17750,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 223.52 29.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 223.52 29.21 90)
 			(effects
 				(font
@@ -17512,6 +17872,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 46.99 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "041fe10c-c828-464b-98c2-ae26c1a03b63")
 		)
@@ -17613,6 +17982,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 62.23 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 62.23 43.18 90)
 			(effects
 				(font
@@ -17799,6 +18177,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 62.23 40.64 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "202eb558-a70d-4401-ad19-c3249efe05f1")
 		)
@@ -17903,6 +18290,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 101.6 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 101.6 82.55 90)
 			(effects
 				(font
@@ -18090,6 +18486,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 101.6 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fe4eba0f-80a5-452d-b272-6f70ddd12f2a")
 		)
@@ -18196,6 +18601,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 261.62 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 261.62 132.08 0)
 			(effects
 				(font
@@ -19083,6 +19497,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 223.52 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "16a08fac-173e-4879-acda-c4738c375847")
 		)
@@ -19187,6 +19610,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 57.15 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 57.15 114.3 90)
 			(effects
 				(font
@@ -19300,6 +19732,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 38.1 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 38.1 50.8 0)
 			(effects
 				(font

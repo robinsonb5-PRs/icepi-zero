@@ -6809,6 +6809,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 147.32 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6119566b-8e3a-4a56-a1e4-4218c41ff861")
 		)
@@ -6916,6 +6925,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 100.33 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 100.33 97.79 0)
 			(effects
 				(font
@@ -7795,6 +7813,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 186.69 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 186.69 97.79 0)
 			(effects
 				(font

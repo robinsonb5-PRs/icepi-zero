@@ -6682,6 +6682,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 201.93 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "a4f15e44-75a1-49ab-bb5b-4d3213ffd158")
 		)
@@ -6945,6 +6954,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 66.04 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4ac4bc21-404c-4480-8a95-dfcf39710979")
 		)
@@ -7190,6 +7208,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 78.74 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5fe8727b-0b22-49fc-a077-5685467e1378")
 		)
@@ -7363,6 +7390,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 111.76 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 111.76 110.49 0)
 			(effects
 				(font
@@ -8249,6 +8285,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 166.37 93.98 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "74646bf6-43e6-435b-9a98-d40cad1959a0")
 		)
@@ -8361,6 +8406,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 72.39 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3ff14724-4623-4adf-8f1f-c1831973fae5")
 		)
@@ -8465,6 +8519,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 146.05 93.98 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 146.05 93.98 90)
 			(effects
 				(font
@@ -8717,6 +8780,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 156.21 93.98 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "df2eafd4-6abb-414f-84af-10e4a6d97326")
 		)
@@ -8829,6 +8901,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 161.29 93.98 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "23a6f4e3-3155-4c4b-99e6-cd0ab352fee8")
 		)
@@ -8933,6 +9014,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 151.13 93.98 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 151.13 93.98 90)
 			(effects
 				(font

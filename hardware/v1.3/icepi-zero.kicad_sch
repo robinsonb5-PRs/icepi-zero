@@ -10520,6 +10520,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 41.91 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1771d73b-28ff-4e07-9d73-e462893484cb")
 		)
@@ -10553,7 +10562,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "1k"
 			(at 33.02 157.48 90)
 			(effects
 				(font
@@ -10588,7 +10597,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C25117"
+		(property "LCSC Part #" "C11702"
 			(at 33.02 161.29 0)
 			(effects
 				(font
@@ -10597,7 +10606,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-0402WGF4700TCE_C25117.html"
+		(property "LCSC Link" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-0402WGF1001TCE_C11702.html"
 			(at 33.02 161.29 90)
 			(effects
 				(font
@@ -10606,7 +10615,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactuer Part Number" "0402WGF4700TCE"
+		(property "Manufactuer Part Number" "0402WGF1001TCE"
 			(at 33.02 161.29 90)
 			(effects
 				(font
@@ -10625,6 +10634,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 33.02 161.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 33.02 161.29 90)
 			(effects
 				(font
@@ -10733,7 +10751,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "1k"
 			(at 33.02 180.34 90)
 			(effects
 				(font
@@ -10768,7 +10786,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C25117"
+		(property "LCSC Part #" "C11702"
 			(at 33.02 184.15 0)
 			(effects
 				(font
@@ -10777,7 +10795,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-0402WGF4700TCE_C25117.html"
+		(property "LCSC Link" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-0402WGF1001TCE_C11702.html"
 			(at 33.02 184.15 90)
 			(effects
 				(font
@@ -10786,7 +10804,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactuer Part Number" "0402WGF4700TCE"
+		(property "Manufactuer Part Number" "0402WGF1001TCE"
 			(at 33.02 184.15 90)
 			(effects
 				(font
@@ -10805,6 +10823,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 33.02 184.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 33.02 184.15 90)
 			(effects
 				(font
@@ -10913,7 +10940,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "1k"
 			(at 33.02 133.35 90)
 			(effects
 				(font
@@ -10948,7 +10975,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C25117"
+		(property "LCSC Part #" "C11702"
 			(at 33.02 137.16 0)
 			(effects
 				(font
@@ -10957,7 +10984,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-0402WGF4700TCE_C25117.html"
+		(property "LCSC Link" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-0402WGF1001TCE_C11702.html"
 			(at 33.02 137.16 90)
 			(effects
 				(font
@@ -10966,7 +10993,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactuer Part Number" "0402WGF4700TCE"
+		(property "Manufactuer Part Number" "0402WGF1001TCE"
 			(at 33.02 137.16 90)
 			(effects
 				(font
@@ -10985,6 +11012,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 33.02 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 33.02 137.16 90)
 			(effects
 				(font
@@ -11181,6 +11217,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 41.91 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5d650799-4274-4936-b546-fa23dcd2ebcd")
 		)
@@ -11286,6 +11331,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 144.78 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "61272da7-2148-45b1-9f54-947da8258207")
 		)
@@ -11381,6 +11435,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 120.65 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 120.65 46.99 0)
 			(effects
 				(font
@@ -11629,6 +11692,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 82.55 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "a4020c12-a10c-46cb-a25e-f685075044f6")
 		)
@@ -11731,6 +11803,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 254 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 254 118.11 0)
 			(effects
 				(font
@@ -11958,6 +12039,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 133.35 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "38d58b0e-909b-44cd-ab36-b819d03d7ff6")
 		)
@@ -12053,6 +12143,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 166.37 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 166.37 46.99 0)
 			(effects
 				(font
@@ -12221,7 +12320,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "1k"
 			(at 33.02 146.05 90)
 			(effects
 				(font
@@ -12256,7 +12355,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C25117"
+		(property "LCSC Part #" "C11702"
 			(at 33.02 149.86 0)
 			(effects
 				(font
@@ -12265,7 +12364,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-0402WGF4700TCE_C25117.html"
+		(property "LCSC Link" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-0402WGF1001TCE_C11702.html"
 			(at 33.02 149.86 90)
 			(effects
 				(font
@@ -12274,7 +12373,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactuer Part Number" "0402WGF4700TCE"
+		(property "Manufactuer Part Number" "0402WGF1001TCE"
 			(at 33.02 149.86 90)
 			(effects
 				(font
@@ -12293,6 +12392,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 33.02 149.86 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 33.02 149.86 90)
 			(effects
 				(font
@@ -12406,6 +12514,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 232.41 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9ce32ba6-489c-4df3-914c-4afa0aa58531")
 		)
@@ -12436,7 +12553,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "1k"
 			(at 33.02 168.91 90)
 			(effects
 				(font
@@ -12471,7 +12588,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C25117"
+		(property "LCSC Part #" "C11702"
 			(at 33.02 172.72 0)
 			(effects
 				(font
@@ -12480,7 +12597,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Link" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-0402WGF4700TCE_C25117.html"
+		(property "LCSC Link" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-0402WGF1001TCE_C11702.html"
 			(at 33.02 172.72 90)
 			(effects
 				(font
@@ -12489,7 +12606,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactuer Part Number" "0402WGF4700TCE"
+		(property "Manufactuer Part Number" "0402WGF1001TCE"
 			(at 33.02 172.72 90)
 			(effects
 				(font
@@ -12508,6 +12625,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 33.02 172.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 33.02 172.72 90)
 			(effects
 				(font
@@ -12689,6 +12815,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 170.18 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 170.18 119.38 0)
 			(effects
 				(font
@@ -13698,6 +13833,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 144.78 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "icepi-zero"
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
@@ -13798,6 +13942,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 24.13 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project ""
 				(path "/f88da08e-cf42-4d03-a08f-3f602fe6658d"
@@ -13889,6 +14042,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 97.79 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 97.79 46.99 0)
 			(effects
 				(font
@@ -14005,6 +14167,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 41.91 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 41.91 172.72 0)
 			(effects
 				(font
@@ -14250,6 +14421,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 264.16 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cdf238bb-01e0-45fc-bdcf-c578b92bced2")
 		)
@@ -14418,6 +14598,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 254 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "701b6012-b785-482f-a7d6-e65c75bb14f2")
 		)
@@ -14520,6 +14709,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 36.83 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 36.83 115.57 0)
 			(effects
 				(font
@@ -14765,6 +14963,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 242.57 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "07367dbe-d3d4-4b76-a0a9-088f86f739c7")
 		)
@@ -14868,6 +15075,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 91.44 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 91.44 120.65 0)
 			(effects
 				(font
@@ -15743,6 +15959,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 254 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8107f6b4-950e-4b8e-9cad-5e4cbc0b4beb")
 		)
@@ -15854,6 +16079,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 41.91 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 41.91 149.86 0)
 			(effects
 				(font
@@ -15976,6 +16210,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 41.91 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 41.91 184.15 0)
 			(effects
 				(font
@@ -16156,6 +16399,15 @@
 				(hide yes)
 			)
 		)
+		(property "Original" ""
+			(at 242.57 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "089fcdf7-640a-4cbc-b3cb-e8d7f4c8c49a")
 		)
@@ -16258,6 +16510,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 67.31 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 67.31 175.26 0)
 			(effects
 				(font
@@ -16637,6 +16898,15 @@
 			)
 		)
 		(property "Notes" ""
+			(at 36.83 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Original" ""
 			(at 36.83 105.41 0)
 			(effects
 				(font
