@@ -84,7 +84,7 @@ You can find the name of rest of the I/O pins in `icepi-zero.lpf`:
 
 Debug pins are distrubuted as the follwing picture shows:
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/335bbcfaec8936a8c04d1630f6a67f590c768928_image.png)
+![](../gallery/icepi-jtag.png)
 
 ## Other examples
 
