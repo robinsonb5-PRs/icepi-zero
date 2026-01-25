@@ -99,7 +99,7 @@ You can find the name of rest of the I/O pins in `icepi-zero.lpf`:
 
 Debug pins are distrubuted as the follwing picture shows:
 
-![](../gallery/icepi-jtag.png)
+![](../gallery/icepi-debug-pins.png)
 
 ## Other examples
 
