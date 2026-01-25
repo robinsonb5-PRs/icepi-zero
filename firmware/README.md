@@ -54,15 +54,30 @@ Just copy the `icepi-zero.lpf` and `Makefile` to the root of your directory, cal
 
 ## How to flash
 
+---
+> An example bitstream file exists in the [documentation](../documentation/) folder.
+
 The following command is used to flash the development board
 
 ```zsh
 openFPGALoader -cft231X --pins=7:3:5:6 bitstream.bit
 ```
 
-You can also add the `--write-flash` flag to permanantly write the bitstream to flash.
+You can also add the `--write-flash` flag to permanantly write the bitstream to flash, this way the bitstream file will be saved even when the board powers down.
 
 Note: If you use the newest version of openFPGALoader, it supports the `-b icepi-zero` flag that can replace `-cft231X --pins=7:3:5:6`.
+
+Alternatively, you can use the web version of openFPGALoader on Google Chrome: [https://ofl.trabucayre.com/](https://ofl.trabucayre.com/).
+
+Select "Default" as the cable and "icepi-zero" as the board, upload your .bit file and press Program.
+
+![](../gallery/openfpgaloader-web.png)
+
+Then select "FT231X USB UART" from the popup menu:
+
+![](../gallery/openfpgaloader-chrome-cable.png)
+
+Now your board should be flashed! Happy hacking.
 
 ## Pinout
 
