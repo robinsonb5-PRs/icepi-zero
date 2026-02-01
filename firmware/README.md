@@ -79,6 +79,8 @@ Then select "FT231X USB UART" from the popup menu:
 
 Now your board should be flashed! Happy hacking.
 
+> Getting an error when flasing? Check out the [openFPGALoader troubleshooting](https://trabucayre.github.io/openFPGALoader/guide/troubleshooting.html) page.
+
 ## Pinout
 
 The GPIO pinout is exactly the same as a Pi Zero:

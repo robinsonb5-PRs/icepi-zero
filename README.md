@@ -80,5 +80,5 @@ NOTE: If you fabbed v1.1 before 01/06, the pins of the USB pullups and LED0 is d
 
 ## Contact
 
-If there is any questions DM `cyao.` on Discord. Mail is also accepted at `cyao _at_ duck.com`. :)
+If there is any questions DM `cyao.` on Discord. (Yup, with a dot. Send me a friend request!) Mail is also accepted at `cyao _at_ duck.com`. :)
 
