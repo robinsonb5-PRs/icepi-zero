@@ -2,8 +2,8 @@
 
 ![](gallery/icepi-in-hand.png)
 
-| Get your own on: | [**Crowd Supply**](https://www.crowdsupply.com/icy-electronics/icepi-zero)! |
-| ---------------- | ------------------------ |
+| Get your own on: | [**Crowd Supply**](https://www.crowdsupply.com/icy-electronics/icepi-zero)! | [**Elecrow**](https://www.elecrow.com/icepi-zero.html) |
+| ---------------- | ------------------------ | ------------------ |
 
 ## What is the Icepi Zero?
 
