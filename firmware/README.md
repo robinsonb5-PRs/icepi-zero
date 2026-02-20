@@ -1,5 +1,15 @@
 # Icedev Zero Firmware
 
+## Table of Contents
+- [Toolchain Setup](#toolchain-setup)
+    - [Open Source Toolchain](#option-1-open-source-toolchain)
+    - [Lattice Diamond](#option-2-lattice-diamond-ide)
+- [Building Demos](#how-to-build-the-demos)
+- [Flashing board](#how-to-flash)
+- [Pinout](#pinout)
+- [Linux on Litex SoC](#litex-soc)
+- [More resources](#other-examples)
+
 Welcome to the firmware folder! You can find numerous examples here:
 
 - `blinky`: Classic LED counter!
@@ -71,11 +81,11 @@ Alternatively, you can use the web version of openFPGALoader on Google Chrome: [
 
 Select "Default" as the cable and "icepi-zero" as the board, upload your .bit file and press Program.
 
-![](../gallery/openfpgaloader-web.png)
+<img src="../gallery/openfpgaloader-web.png" width="80%" />
 
 Then select "FT231X USB UART" from the popup menu:
 
-![](../gallery/openfpgaloader-chrome-cable.png)
+<img src="../gallery/openfpgaloader-chrome-cable.png" width="60%" />
 
 Now your board should be flashed! Happy hacking.
 
@@ -83,9 +93,9 @@ Now your board should be flashed! Happy hacking.
 
 ## Pinout
 
-The GPIO pinout is exactly the same as a Pi Zero:
+The GPIO pinout is exactly the same as a [Pi Zero](https://pinout.xyz/):
 
-![](pinout.png)
+<img src="pinout.png" width="60%" />
 
 You can find the name of rest of the I/O pins in `icepi-zero.lpf`:
 
@@ -101,7 +111,11 @@ You can find the name of rest of the I/O pins in `icepi-zero.lpf`:
 
 Debug pins are distrubuted as the follwing picture shows:
 
-![](../gallery/icepi-debug-pins.png)
+<img src="../gallery/icepi-debug-pins.png" width="80%" />
+
+## LiteX SoC
+
+You can run a VexRiscv CPU (and Linux) on the Icepi Zero using [Litex](https://github.com/enjoy-digital/litex), @oliver408i wrote an [awesome guide](https://github.com/oliver408i/icepi-zero-litex) on how to use it!
 
 ## Other examples
 
@@ -111,11 +125,10 @@ The [litex-boards](https://github.com/litex-hub/litex-boards) also supports the 
 
 And here are some retro ports:
 
-[Apple 1 Emulator](https://github.com/alangarf/apple-one)
-
-[Port of Acorn Atom](https://github.com/cheyao/acorn_atom)
-
-[Commodore 64!](https://github.com/cheyao/c64)
-
-[Port of Silice](https://github.com/sylefeb/Silice/) (Check out the projects folder - it's full of interesting stuff)
+- [Apple 1 Emulator](https://github.com/alangarf/apple-one)
+- [Port of Acorn Atom](https://github.com/cheyao/acorn_atom)
+- [Commodore 64!](https://github.com/cheyao/c64)
+- [Oberon](https://github.com/cheyao/oberon)
+- [Sega Master System](https://github.com/cheyao/sega-sms)
+- [Port of Silice](https://github.com/sylefeb/Silice/) (Check out the projects folder - it's full of interesting programs)
 
