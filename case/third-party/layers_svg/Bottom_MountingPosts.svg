@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="67mm"
+   height="31.999999999999993mm"
+   viewBox="-34 -4.999999999999999 67 31.999999999999993"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Bottom_MountingPosts.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>svgOutput</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1384"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="6.0340796"
+     inkscape:cx="125.51883"
+     inkscape:cy="61.811731"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title2">svgOutput</title>
+  <desc
+     id="desc4">made with tinkercad</desc>
+  <g
+     id="g876">
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path831"
+       d="m -27,-4 c -0.06003,1.4377515 0.667351,3.42388836 0.391736,4.84666083 C -26.986671,1.9792248 -28.24524,2.6879825 -29.411608,2.5268191 -30.431334,2.5356057 -31.980261,1.9960033 -33,2 c 0.07213,-1.37318423 -0.18402,-2.78562228 0.220884,-4.1253992 0.490622,-1.2400305 1.869814,-2.0206762 3.184649,-1.8723543 C -28.729673,-4.0088951 -27.864814,-3.9940215 -27,-4 Z"
+       style="fill:none;stroke:#000000;stroke-width:0.02645833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path831-3"
+       d="m 26,-3.999947 c 0.06003,1.4377519 -0.667351,3.423889 -0.391736,4.8466611 0.378407,1.132564 1.636976,1.8413216 2.803344,1.6801584 C 29.431334,2.5356625 30.980261,1.9960566 32,2.0000534 31.92787,0.6268691 32.18402,-0.78556905 31.779116,-2.1253461 31.288494,-3.365376 29.909302,-4.146022 28.594467,-3.9977 27.729673,-4.00884 26.864814,-3.994 26,-4 Z"
+       style="fill:none;stroke:#000000;stroke-width:0.02645833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     transform="matrix(1,0,0,-1,0,22)"
+     id="g876-8">
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path831-1"
+       d="m -27,-4 c -0.06003,1.4377515 0.667351,3.42388836 0.391736,4.84666083 C -26.986671,1.9792248 -28.24524,2.6879825 -29.411608,2.5268191 -30.431334,2.5356057 -31.980261,1.9960033 -33,2 c 0.07213,-1.37318423 -0.18402,-2.78562228 0.220884,-4.1253992 0.490622,-1.2400305 1.869814,-2.0206762 3.184649,-1.8723543 C -28.729673,-4.0088951 -27.864814,-3.9940215 -27,-4 Z"
+       style="fill:none;stroke:#000000;stroke-width:0.02645833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path831-3-0"
+       d="m 26,-3.999947 c 0.06003,1.4377519 -0.667351,3.423889 -0.391736,4.8466611 0.378407,1.132564 1.636976,1.8413216 2.803344,1.6801584 C 29.431334,2.5356625 30.980261,1.9960566 32,2.0000534 31.92787,0.6268691 32.18402,-0.78556905 31.779116,-2.1253461 31.288494,-3.365376 29.909302,-4.146022 28.594467,-3.9977 27.729673,-4.00884 26.864814,-3.994 26,-4 Z"
+       style="fill:none;stroke:#000000;stroke-width:0.02645833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
